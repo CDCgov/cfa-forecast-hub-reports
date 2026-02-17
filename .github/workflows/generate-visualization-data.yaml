@@ -1,4 +1,4 @@
-name: "Generate Weekly Visualization Data V2"
+name: "Generate Weekly Visualization Data"
 
 on:
   workflow_dispatch:
@@ -51,31 +51,13 @@ jobs:
       - name: "Set Up hubhelpr"
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
 
-      - name: "Generate Data Files"
-        run: |
-          if [ -n "${{ inputs.reference_date }}" ]; then
-            REF_DATE="${{ inputs.reference_date }}"
-          else
-            REF_DATE=$(Rscript -e "cat(strftime(forecasttools::ceiling_mmwr_epiweek(lubridate::today())))")
-          fi
-          echo "Using reference date: $REF_DATE"
-
-          Rscript .github/scripts/generate_weekly_data_report.R --reference-date "$REF_DATE" --base-hub-path "${{ matrix.hub_path }}" --disease "${{ matrix.disease }}"
+      - name: "Generate Data, Commit, and Create PR"
+        uses: cdcgov/hubhelpr/actions/generate-viz-data@main
+        with:
+          disease: ${{ matrix.disease }}
+          github_token: ${{ steps.get_token.outputs.token }}
+          base_hub_path: ${{ matrix.hub_path }}
+          reference_date: ${{ inputs.reference_date }}
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
           DATA_CDC_GOV_API_KEY_SECRET: ${{ secrets.NHSN_API_KEY_SECRET }}
-
-      - name: "Commit Changes"
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Update weekly ${{ matrix.disease }} data and web text"
-          default_author: github_actions
-          push: true
-          new_branch: add-viz-v2-${{ matrix.disease }}-data
-
-      - name: "Create Pull Request"
-        id: create_pr
-        run: |
-          gh pr create --base main --head "add-viz-v2-${{ matrix.disease }}-data" --title "Weekly ${{ matrix.disease }} forecast visualization data" --body "This PR is generated automatically to add weekly visualization data files for ${{ matrix.disease }}."
-        env:
-          GH_TOKEN: ${{ steps.get_token.outputs.token }}
