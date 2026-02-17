@@ -15,10 +15,10 @@ permissions:
 
 jobs:
   update-visualization-data:
-    if: ${{ github.repository_owner == 'CDCgov' && (github.event_name == 'workflow_dispatch' || github.event.action == matrix.event_type) }}
+    if: ${{ github.repository_owner == 'CDCgov' }}
     runs-on: ubuntu-latest
     strategy:
-      fail-fast: false # prevent one disease failing won't cancel other
+      fail-fast: false # prevent one disease failing from canceling other
       matrix:
         include:
           - disease: covid
@@ -32,7 +32,18 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
+      - name: "Check Dispatch Relevance"
+        id: check
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]] || \
+             [[ "${{ github.event.action }}" == "${{ matrix.event_type }}" ]]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: "Generate Installation Token"
+        if: steps.check.outputs.should_run == 'true'
         id: get_token
         uses: actions/create-github-app-token@v2
         with:
@@ -40,18 +51,22 @@ jobs:
           private-key: ${{ secrets.GH_APP_KEY }}
 
       - name: "Checkout Current Repository"
+        if: steps.check.outputs.should_run == 'true'
         uses: actions/checkout@v6
 
       - name: "Checkout Hub Repository"
+        if: steps.check.outputs.should_run == 'true'
         uses: actions/checkout@v6
         with:
           repository: ${{ matrix.hub_repo }}
           path: ${{ matrix.hub_path }}
 
       - name: "Set Up hubhelpr"
+        if: steps.check.outputs.should_run == 'true'
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
 
       - name: "Generate Data, Commit, and Create PR"
+        if: steps.check.outputs.should_run == 'true'
         uses: cdcgov/hubhelpr/actions/generate-viz-data@main
         with:
           disease: ${{ matrix.disease }}
