@@ -76,5 +76,9 @@ hubhelpr::write_webtext(
   reference_date = ref_date,
   base_hub_path = base_hub_path,
   hub_reports_path = hub_reports_path,
-  disease = disease
+  disease = disease,
+  targets = c(
+    glue::glue("wk inc {disease} hosp"),
+    glue::glue("wk inc {disease} prop ed visits")
+  )
 )
