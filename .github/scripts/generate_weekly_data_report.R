@@ -71,3 +71,10 @@ hubhelpr::write_viz_target_data(
   pull_nhsn = TRUE,
   pull_nssp = ref_date >= as.Date("2025-06-21")
 )
+
+hubhelpr::write_webtext(
+  reference_date = ref_date,
+  base_hub_path = base_hub_path,
+  hub_reports_path = hub_reports_path,
+  disease = disease
+)
