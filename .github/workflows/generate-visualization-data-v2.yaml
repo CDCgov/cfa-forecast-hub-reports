@@ -7,28 +7,14 @@ on:
         description: "Reference date (YYYY-MM-DD, must be Saturday). Leave empty for auto-calculation."
         required: false
         type: string
-  repository_dispatch:
-    types: [covid-ensemble-added, rsv-ensemble-added]
 
 permissions:
   contents: write
 
 jobs:
-  update-visualization-data:
-    if: ${{ github.repository_owner == 'CDCgov' && (github.event_name == 'workflow_dispatch' || github.event.action == matrix.event_type) }}
+  update-visualization-data-v2:
+    if: ${{ github.repository_owner == 'CDCgov' }}
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false # prevent one disease failing won't cancel other
-      matrix:
-        include:
-          - disease: covid
-            hub_repo: CDCgov/covid19-forecast-hub
-            hub_path: covid19-forecast-hub
-            event_type: covid-ensemble-added
-          - disease: rsv
-            hub_repo: CDCgov/rsv-forecast-hub
-            hub_path: rsv-forecast-hub
-            event_type: rsv-ensemble-added
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
@@ -42,11 +28,17 @@ jobs:
       - name: "Checkout Current Repository"
         uses: actions/checkout@v6
 
-      - name: "Checkout Hub Repository"
+      - name: "Checkout covid19-forecast-hub Repository"
         uses: actions/checkout@v6
         with:
-          repository: ${{ matrix.hub_repo }}
-          path: ${{ matrix.hub_path }}
+          repository: 'CDCgov/covid19-forecast-hub'
+          path: covid19-forecast-hub
+
+      - name: "Checkout rsv-forecast-hub Repository"
+        uses: actions/checkout@v6
+        with:
+          repository: 'CDCgov/rsv-forecast-hub'
+          path: rsv-forecast-hub
 
       - name: "Set Up hubhelpr"
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
@@ -56,11 +48,12 @@ jobs:
           if [ -n "${{ inputs.reference_date }}" ]; then
             REF_DATE="${{ inputs.reference_date }}"
           else
-            REF_DATE=$(Rscript -e "cat(strftime(forecasttools::ceiling_mmwr_epiweek(lubridate::today())))")
+            REF_DATE=$(Rscript -e "cat(strftime(lubridate::ceiling_date(lubridate::today(), 'week', week_start = 6, change_on_boundary = FALSE)))")
           fi
           echo "Using reference date: $REF_DATE"
 
-          Rscript .github/scripts/generate_weekly_data_report.R --reference-date "$REF_DATE" --base-hub-path "${{ matrix.hub_path }}" --disease "${{ matrix.disease }}"
+          Rscript .github/scripts/generate_weekly_data_report.R --reference-date "$REF_DATE" --base-hub-path "rsv-forecast-hub" --disease "rsv"
+          Rscript .github/scripts/generate_weekly_data_report.R --reference-date "$REF_DATE" --base-hub-path "covid19-forecast-hub" --disease "covid"
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
           DATA_CDC_GOV_API_KEY_SECRET: ${{ secrets.NHSN_API_KEY_SECRET }}
@@ -68,14 +61,14 @@ jobs:
       - name: "Commit Changes"
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Update weekly ${{ matrix.disease }} data and web text"
+          message: "Update weekly data and web text"
           default_author: github_actions
           push: true
-          new_branch: add-viz-v2-${{ matrix.disease }}-data
+          new_branch: add-viz-v2-data
 
       - name: "Create Pull Request"
         id: create_pr
         run: |
-          gh pr create --base main --head "add-viz-v2-${{ matrix.disease }}-data" --title "Weekly ${{ matrix.disease }} forecast visualization data" --body "This PR is generated automatically to add weekly visualization data files for ${{ matrix.disease }}."
+          gh pr create --base main --head add-viz-v2-data --title "Weekly forecast visualization data" --body "This PR is generated automatically to add weekly visualization data files for RSVHub and COVIDHub."
         env:
           GH_TOKEN: ${{ steps.get_token.outputs.token }}
