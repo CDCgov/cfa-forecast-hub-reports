@@ -10,7 +10,7 @@ United States,US,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrene
 United States,US,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,38.24999999999997,333,627.7500000000002,2144.224999999999,0,40,330,630,2100,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 United States,US,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,333,1078.6877193771934,3387.36821418214,0,0,330,1100,3400,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 United States,US,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,333,1264.0133726337272,3744.599952999522,0,0,330,1300,3700,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-United States,US,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000022e-4,3e-4,4.7499999999999864e-4,0.0019000000000000006,0,1.3e-4,3e-4,4.7e-4,0.0019,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+United States,US,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000022e-4,3e-4,4.7499999999999864e-4,0.0019000000000000006,0,1.3e-4,3e-4,4.8e-4,0.0019,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 United States,US,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,7.000000000000001e-4,0.002233495484954857,0,0,3e-4,7e-4,0.0022,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 United States,US,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,9.274667746677447e-4,0.0026703879038790426,0,0,3e-4,0.00093000000000000005,0.0027,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 United States,US,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,2.6859355126657115e-4,3.2739464083280864e-4,3.603801036266968e-4,4.0111025565999804e-4,4.950844688328798e-4,2.7e-4,3.3e-4,3.6e-4,4e-4,5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -31,7 +31,7 @@ Alabama,AL,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew
 Alabama,AL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_E_RSV,8.384978417348255e-4,0.0013944430976477683,0.0017762020202245297,0.0022136937211022765,0.0032917920313832757,8.4e-4,0.0014,0.0018,0.0022,0.0033,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_ED_Visits_RSV
 Alabama,AL,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,7,12,15,19,28,7,10,20,20,30,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Alabama,AL,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,7.51691299388704e-4,0.0010804063483968122,0.0012791475999295318,0.0015107845975553475,0.0020083956832379637,7.5e-4,0.0011,0.0013,0.0015,0.002,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
-Alabama,AL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,8,14,19,25,43,8,10,20,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
+Alabama,AL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,8,14,19,25,43,8,10,20,30,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Alabama,AL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,8.184593222392767e-4,0.001280983617072478,0.0015736784052793763,0.0019685818334129845,0.002987618857419553,8.2e-4,0.0013,0.0016,0.002,0.003,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Alabama,AL,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,3,7,10,14,24,3,7,10,10,20,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 Alabama,AL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,2,8,12,19,44,2,8,10,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
@@ -70,7 +70,7 @@ Alaska,AK,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-basel
 Alaska,AK,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,9.999999999999999e-5,0.0014858916089160882,0.005825277427774287,0,0,1e-4,0.0015,0.0058,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Alaska,AK,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.999999999999999e-5,0.002099999999999999,0.0067876269012690105,0,0,1e-4,0.0021,0.0068,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Alaska,AK,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,1,4,0,0,0,1,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Alaska,AK,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,6,0,0,0,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Alaska,AK,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,6,0,0,1,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,3,5,15,0,1,3,5,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.6693011919206853e-5,1.270636965286318e-4,2.2930777500216514e-4,3.6588958446157895e-4,7.301935063522878e-4,2.7e-5,1.3e-4,2.3e-4,3.7e-4,7.3e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1.3851850722537327e-4,1.4496503923952205e-4,5.735836516004248e-4,0,0,1.4e-4,1.4e-4,5.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -97,8 +97,8 @@ Arizona,AZ,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1,37
 Arizona,AZ,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,2e-4,0.0017549999999999922,0,0,1e-4,2e-4,0.0018,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Arizona,AZ,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,5e-4,0.0026280292052920655,0,0,1e-4,5e-4,0.0026,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Arizona,AZ,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,7.000000000000012e-4,0.0029457672576725796,0,0,1e-4,7e-4,0.0029,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Arizona,AZ,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2.5,6,0,0,1,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Arizona,AZ,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,2,3.5,10,0,0,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Arizona,AZ,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2.5,6,0,1,1,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Arizona,AZ,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,2,3.5,10,0,1,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arizona,AZ,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,4,7,13,32,1,4,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arizona,AZ,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.0933235218036912e-5,7.453948090581212e-5,1.469760191311415e-4,2.591572807072985e-4,5.844105833879637e-4,1.1e-5,7.5e-5,1.5e-4,2.6e-4,5.8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arizona,AZ,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.7919665847067538e-5,3.5914854743136006e-5,7.064625616942152e-5,1.4158925364092582e-4,0,1.8e-5,3.6e-5,7.1e-5,1.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -125,7 +125,7 @@ Arkansas,AR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,4,1
 Arkansas,AR,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,5e-4,7.000000000000001e-4,9.000000000000002e-4,0.004509999999999985,0,5e-4,7e-4,9e-4,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Arkansas,AR,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,2.000000000000001e-4,7.000000000000001e-4,0.0013000000000000002,0.00605149401494015,0,2e-4,7e-4,0.0013,0.0061,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Arkansas,AR,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,7.000000000000001e-4,0.0017265172651726528,0.0065000000000000014,0,0,7e-4,0.0017,0.0065,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Arkansas,AR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,3.5,9,0,1,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Arkansas,AR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,3.5,9,0,1,3,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arkansas,AR,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2,3,6,16.5,0,2,3,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arkansas,AR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,5,9,15,38,1,5,9,20,40,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Arkansas,AR,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,5.1273258023674274e-5,1.8339858776428904e-4,3.051499843039106e-4,4.723494249764307e-4,8.92760886700906e-4,5.1e-5,1.8e-4,3.1e-4,4.7e-4,8.9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -181,8 +181,8 @@ Colorado,CO,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,5.3
 Colorado,CO,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,3.0000000000000003e-4,0.003082499999999989,0,0,1e-4,3e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Colorado,CO,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,5.999999999999996e-4,0.004717622551225501,0,0,1e-4,6e-4,0.0047,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Colorado,CO,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,8e-4,0.005124682596825968,0,0,1e-4,8e-4,0.0051,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Colorado,CO,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1,2,4.5,0,0,1,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Colorado,CO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,2.5,7,0,0,2,2,7,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Colorado,CO,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1,2,4.5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Colorado,CO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,2.5,7,0,1,2,3,7,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Colorado,CO,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,2,5,8,22,0,2,5,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Colorado,CO,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.343269832978834e-5,1.2005001474123549e-4,2.1661585966164485e-4,3.5560024148295204e-4,7.426066058482862e-4,2.3e-5,1.2e-4,2.2e-4,3.6e-4,7.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Colorado,CO,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,2.5150545963817295e-5,4.99691340633691e-5,7.614606107095039e-5,1.7511621818547143e-4,0,2.5e-5,5e-5,7.6e-5,1.8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -209,8 +209,8 @@ Connecticut,CT,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,
 Connecticut,CT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,9.999999999999988e-5,2e-4,3.0000000000000014e-4,0.0018824999999999892,0,1e-4,2e-4,3e-4,0.0019,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Connecticut,CT,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,6e-4,0.0024999999999999996,0,0,2e-4,6e-4,0.0025,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Connecticut,CT,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,7.999999999999998e-4,0.0028126319263192677,0,0,2e-4,8e-4,0.0028,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Connecticut,CT,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,3.5,7.5,0,0,2,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Connecticut,CT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,3,4.5,11,0,1,3,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Connecticut,CT,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,3.5,7.5,0,1,2,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Connecticut,CT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,3,4.5,11,0,1,3,5,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Connecticut,CT,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,4,7,12,32,1,4,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Connecticut,CT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.704046249904029e-5,1.0448573722338347e-4,1.9375963542766274e-4,3.192653809348071e-4,6.711648048528487e-4,1.7e-5,1e-4,1.9e-4,3.2e-4,6.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Connecticut,CT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,6.376510428969409e-5,1.2570383222139874e-4,1.8830694344738565e-4,3.1723778252822787e-4,0,6.4e-5,1.3e-4,1.9e-4,3.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -237,7 +237,7 @@ Delaware,DE,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1,8
 Delaware,DE,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,4e-4,0.004827499999999996,0,0,1e-4,4e-4,0.0048,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Delaware,DE,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,9.617676176761746e-4,0.006618448609486079,0,0,1e-4,9.6e-4,0.0066,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Delaware,DE,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.999999999999999e-5,0.001414140641406412,0.0074,0,0,1e-4,0.0014,0.0074,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Delaware,DE,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1,3.5,0,0,0,1,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Delaware,DE,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1,3.5,0,0,1,1,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,1,1.5,5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,3,5,15,0,1,3,5,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,7.538352241377651e-5,2.5843647861389484e-4,4.12852516542934e-4,6.070666141425288e-4,0.0011661251592466457,7.5e-5,2.6e-4,4.1e-4,6.1e-4,0.0012,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -294,19 +294,19 @@ Florida,FL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ense
 Florida,FL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,0.0012701966199034685,0.0017729475964792132,0.002089523346886498,0.002466188417561805,0.0035557768106336193,0.0013,0.0018,0.0021,0.0025,0.0036,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Florida,FL,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,6.864073421249715e-4,0.0013881870640255968,0.0019893081786417103,0.00280133378286313,0.005104196604770129,6.9e-4,0.0014,0.002,0.0028,0.0051,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Florida,FL,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,35,66,92,126,229,40,70,90,130,230,UGA_flucast,2025-09-24,INFLAenza
-Florida,FL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,47,102,151,219,445,50,100,150,220,440,UGA_flucast,2025-09-24,INFLAenza
+Florida,FL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,47,102,151,219,445,50,100,150,220,450,UGA_flucast,2025-09-24,INFLAenza
 Florida,FL,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,103,233,361,559,1175,100,230,360,560,1200,UGA_flucast,2025-09-24,INFLAenza
 Florida,FL,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,UGA_flucast-INFLAenza,4.813668302036665e-4,9.700828533923407e-4,0.0013132537839080718,0.0017424482313887428,0.0028878076179697566,4.8e-4,9.7e-4,0.0013,0.0017,0.0029,UGA_flucast,2025-09-24,INFLAenza
 Florida,FL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,5.54331285886979e-4,0.0011583114342749246,0.0016178586618907777,0.002196583826246227,0.0038620900444848024,5.5e-4,0.0012,0.0016,0.0022,0.0039,UGA_flucast,2025-09-24,INFLAenza
 Florida,FL,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,6.864073421249715e-4,0.0013881870640255968,0.0019893081786417103,0.00280133378286313,0.005104196604770129,6.9e-4,0.0014,0.002,0.0028,0.0051,UGA_flucast,2025-09-24,INFLAenza
 Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_E_RSV,2.7040062058218033e-4,4.156158832543665e-4,5.038115838268853e-4,6.064808146826021e-4,8.42409976976531e-4,2.7e-4,4.2e-4,5e-4,6.1e-4,8.4e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_ED_Visits_RSV
 Georgia,GA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_E_RSV,2.218013197201354e-4,4.114157435123235e-4,5.45624319831016e-4,7.106964574853749e-4,0.0011511470992967398,2.2e-4,4.1e-4,5.5e-4,7.1e-4,0.0012,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_ED_Visits_RSV
-Georgia,GA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,9,16,20,25,35,9,20,20,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
+Georgia,GA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,9,16,20,25,35,9,20,20,30,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,2.491482292279891e-4,3.589788160051903e-4,4.363003073908348e-4,5.19950114005042e-4,6.950319562175935e-4,2.5e-4,3.6e-4,4.4e-4,5.2e-4,7e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,8,15,20,26,42,8,20,20,30,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Georgia,GA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,1.8428252253785773e-4,3.372278405081167e-4,4.3578887697779507e-4,5.539772720461858e-4,8.403309112217833e-4,1.8e-4,3.4e-4,4.4e-4,5.5e-4,8.4e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Georgia,GA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,6,13,17,21,35,6,10,20,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
-Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,5,12,17,24,45,5,10,20,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
+Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,5,12,17,24,45,5,10,20,20,50,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 Georgia,GA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,7,14,21,105.39999999999982,0,7,10,20,110,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,2.850678506785063,14,28.43589435894359,139.31958119581162,0,3,10,30,140,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Georgia,GA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,14,37.83221582215822,160.56016310163102,0,0,10,40,160,RSVHub-hub-models,2025-09-24,RSVHub baseline model
@@ -314,7 +314,7 @@ Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-base
 Georgia,GA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,2.000000000000003e-4,5e-4,7.999999999999999e-4,0.0021000000000000003,0,2e-4,5e-4,8e-4,0.0021,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Georgia,GA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,1.0000000000000005e-4,5e-4,9.946951969519672e-4,0.0024000000000000002,0,1e-4,5e-4,9.9e-4,0.0024,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Georgia,GA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,7.5,15,20,27,45.5,8,20,20,30,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,8.5,18.5,27.5,39,76,8,20,30,40,80,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Georgia,GA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,8.5,18.5,27.5,39,76,9,20,30,40,80,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Georgia,GA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,21,53,86,130,314,20,50,90,130,310,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.1630066979579634e-4,3.1850671609450794e-4,4.911138701326002e-4,6.99576330526455e-4,0.0012604400802259052,1.2e-4,3.2e-4,4.9e-4,7e-4,0.0013,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,2.491482292279891e-4,3.589788160051903e-4,4.363003073908348e-4,5.19950114005042e-4,6.950319562175935e-4,2.5e-4,3.6e-4,4.4e-4,5.2e-4,7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -369,8 +369,8 @@ Idaho,ID,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,9.32
 Idaho,ID,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,2e-4,5e-4,0.004100000000000001,0,0,2e-4,5e-4,0.0041,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Idaho,ID,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,0.001,0.005581426364263629,0,0,2e-4,0.001,0.0056,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Idaho,ID,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.001499033240332404,0.006672771277712768,0,0,2e-4,0.0015,0.0067,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Idaho,ID,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1.5,3,0,0,0,2,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Idaho,ID,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,4.5,0,0,0,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Idaho,ID,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1.5,3,0,0,1,2,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Idaho,ID,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,4.5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,3,9,0,0,1,3,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.4997664946470916e-5,1.418023059416678e-4,2.4813395388524726e-4,3.9465951848769175e-4,7.808596291235412e-4,3.5e-5,1.4e-4,2.5e-4,3.9e-4,7.8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,7.491067337849017e-5,7.875995188404725e-5,2.2861588428999785e-4,5.188719097752416e-4,0,7.5e-5,7.9e-5,2.3e-4,5.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -397,7 +397,7 @@ Illinois,IL,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,5
 Illinois,IL,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2197274440461925e-18,2e-4,3.9999999999999877e-4,0.0031999999999999993,0,1.2e-18,2e-4,4e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Illinois,IL,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,7.000000000000002e-4,0.0038259361593615876,0,0,2e-4,7e-4,0.0038,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Illinois,IL,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.0010000000000000022,0.004365653556535568,0,0,2e-4,0.001,0.0044,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Illinois,IL,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,3,5.5,8,16.5,0,3,6,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Illinois,IL,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,3,5.5,8,16.5,1,3,6,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,1,4,7,11.5,26.5,1,4,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,5,16,26,43,106,5,20,30,40,110,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.8311224360689085e-5,1.5400266752370703e-4,2.6726415872829735e-4,4.1518862326746236e-4,8.455075196509201e-4,3.8e-5,1.5e-4,2.7e-4,4.2e-4,8.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -425,9 +425,9 @@ Indiana,IN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,33
 Indiana,IN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,8.131516293641283e-20,2e-4,3.9999999999999996e-4,0.0023274999999999962,0,8.1e-20,2e-4,4e-4,0.0023,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Indiana,IN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,6.999999999999999e-4,0.0031333973839738362,0,0,2e-4,7e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Indiana,IN,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,8.128491284912861e-4,0.0033799212492124802,0,0,2e-4,8.1e-4,0.0034,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Indiana,IN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,1,3.5,6,8.5,16,1,4,6,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Indiana,IN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,1.5,5,8.5,13,27.5,2,5,8,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Indiana,IN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,5,15,25,41,98,5,20,20,40,100,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Indiana,IN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,1,3.5,6,8.5,16,1,4,6,9,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Indiana,IN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,1.5,5,8.5,13,27.5,2,5,9,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Indiana,IN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,5,15,25,41,98,5,20,30,40,100,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.0503958331563498e-5,1.4241614895964746e-4,2.4227584785233795e-4,3.8522452492665557e-4,7.842492261590071e-4,3.1e-5,1.4e-4,2.4e-4,3.9e-4,7.8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,7.78493148062271e-5,1.5660842197834517e-4,2.022838171634021e-4,2.673638500212225e-4,4.2190237026387684e-4,7.8e-5,1.6e-4,2e-4,2.7e-4,4.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,4.3785952843322786e-5,1.881122738139259e-4,3.150404118868564e-4,4.980287044360725e-4,0.001018395232874559,4.4e-5,1.9e-4,3.2e-4,5e-4,0.001,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -435,7 +435,7 @@ Indiana,IN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ense
 Indiana,IN,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,6.981515231999758e-5,2.525366981739136e-4,4.1791479786203905e-4,6.580552031195567e-4,0.0012970278815710838,7e-5,2.5e-4,4.2e-4,6.6e-4,0.0013,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,1,3,6,9,18,1,3,6,9,20,UGA_flucast,2025-09-24,INFLAenza
 Indiana,IN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,2,6,10,16,36,2,6,10,20,40,UGA_flucast,2025-09-24,INFLAenza
-Indiana,IN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,5,15,25,41,98,5,20,20,40,100,UGA_flucast,2025-09-24,INFLAenza
+Indiana,IN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,5,15,25,41,98,5,20,30,40,100,UGA_flucast,2025-09-24,INFLAenza
 Indiana,IN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,UGA_flucast-INFLAenza,3.0503958331563498e-5,1.4241614895964746e-4,2.4227584785233795e-4,3.8522452492665557e-4,7.842492261590071e-4,3.1e-5,1.4e-4,2.4e-4,3.9e-4,7.8e-4,UGA_flucast,2025-09-24,INFLAenza
 Indiana,IN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,4.3785952843322786e-5,1.881122738139259e-4,3.150404118868564e-4,4.980287044360725e-4,0.001018395232874559,4.4e-5,1.9e-4,3.2e-4,5e-4,0.001,UGA_flucast,2025-09-24,INFLAenza
 Indiana,IN,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,6.981515231999758e-5,2.525366981739136e-4,4.1791479786203905e-4,6.580552031195567e-4,0.0012970278815710838,7e-5,2.5e-4,4.2e-4,6.6e-4,0.0013,UGA_flucast,2025-09-24,INFLAenza
@@ -453,8 +453,8 @@ Iowa,IA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1,15.41
 Iowa,IA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,4e-4,0.0036824999999999896,0,0,1e-4,4e-4,0.0037,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Iowa,IA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,8.526340263402656e-4,0.004533206582065815,0,0,1e-4,8.5e-4,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Iowa,IA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.999999999999999e-5,0.0012000000000000001,0.005027485149851507,0,0,1e-4,0.0012,0.005,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Iowa,IA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1,2.5,5.5,0,0,1,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Iowa,IA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,3.5,8.5,0,0,2,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Iowa,IA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1,2.5,5.5,0,0,1,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Iowa,IA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,3.5,8.5,0,1,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,3,7,11,31,0,3,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,4.2172299049606715e-5,1.6238236910203198e-4,2.790169629737022e-4,4.3516055211816193e-4,8.590444454137966e-4,4.2e-5,1.6e-4,2.8e-4,4.4e-4,8.6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,4.05057039773022e-5,8.342823015126702e-5,1.6026233286233732e-4,3.2566342964990877e-4,0,4.1e-5,8.3e-5,1.6e-4,3.3e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -481,7 +481,7 @@ Kansas,KS,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,16.
 Kansas,KS,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,9.999999999999996e-5,3e-4,5e-4,0.003027499999999996,0,1e-4,3e-4,5e-4,0.003,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Kansas,KS,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,8.000000000000004e-4,0.0038164851648516494,0,0,3e-4,8e-4,0.0038,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Kansas,KS,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,0.0011000000000000007,0.004196829943299442,0,0,3e-4,0.0011,0.0042,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Kansas,KS,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,4,8,0,1,2,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Kansas,KS,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,4,8,0,1,3,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2,3.5,6,14,0,2,4,6,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,3,5,10,26,0,3,5,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.396369599747821e-5,1.2444267024586762e-4,2.272899729899746e-4,3.628481934532105e-4,7.370349829479042e-4,2.4e-5,1.2e-4,2.3e-4,3.6e-4,7.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -510,7 +510,7 @@ Kentucky,KY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-bas
 Kentucky,KY,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,8e-4,0.0040456906069060656,0,0,2e-4,8e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Kentucky,KY,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.0011031957819578218,0.004509140941409414,0,0,2e-4,0.0011,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Kentucky,KY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,3.5,5.5,10.5,0,2,4,6,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Kentucky,KY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2.5,4.5,7,16,0,2,4,7,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Kentucky,KY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2.5,4.5,7,16,0,3,5,7,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,2,7,12,21,53,2,7,10,20,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,9.902420216421953e-5,2.9800409390604715e-4,4.574962407816048e-4,6.585092566935395e-4,0.00120332462487085,9.9e-5,3e-4,4.6e-4,6.6e-4,0.0012,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,8.599345245707273e-5,1.5608454727385608e-4,2.1952252159289614e-4,2.853295620778688e-4,4.427956694914894e-4,8.6e-5,1.6e-4,2.2e-4,2.9e-4,4.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -537,8 +537,8 @@ Louisiana,LA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,4,
 Louisiana,LA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,2.710505431213761e-20,2e-4,3.9999999999999996e-4,0.0026274999999999975,0,2.7e-20,2e-4,4e-4,0.0026,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Louisiana,LA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,6.000000000000003e-4,0.003176190861908609,0,0,2e-4,6e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Louisiana,LA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,8.727394773947715e-4,0.0035278477784777846,0,0,2e-4,8.7e-4,0.0035,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Louisiana,LA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,3,4.5,9.5,0,2,3,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Louisiana,LA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2,4,6.5,15,0,2,4,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Louisiana,LA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,3,4.5,9.5,0,2,3,5,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Louisiana,LA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2,4,6.5,15,0,2,4,7,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,6,10,17,46,1,6,10,20,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,5.9079534602845006e-5,1.8930961885666941e-4,3.075946793013963e-4,4.7268687847870796e-4,9.167959854648893e-4,5.9e-5,1.9e-4,3.1e-4,4.7e-4,9.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,6.304954581653986e-5,1.438326481582689e-4,2.0414683228404677e-4,2.6734221153538345e-4,4.2380034548425666e-4,6.3e-5,1.4e-4,2e-4,2.7e-4,4.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -562,11 +562,11 @@ Maine,ME,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,
 Maine,ME,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,1,8.549999999999978,0,0,0,1,9,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maine,ME,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,3,9.952498524985248,0,0,0,3,10,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maine,ME,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,4,12.686449614496143,0,0,0,4,10,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Maine,ME,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000044e-4,3e-4,4.7499999999999837e-4,0.0026824999999999887,0,1.3e-4,3e-4,4.7e-4,0.0027,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+Maine,ME,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000044e-4,3e-4,4.7499999999999837e-4,0.0026824999999999887,0,1.3e-4,3e-4,4.8e-4,0.0027,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maine,ME,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,7.000000000000004e-4,0.0038844774697747,0,0,3e-4,7e-4,0.0039,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maine,ME,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,0.0010411094110941111,0.004846842243422441,0,0,3e-4,0.001,0.0048,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Maine,ME,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2,5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Maine,ME,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,3,9.012499999999932,0,0,2,3,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Maine,ME,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2,5,0,1,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Maine,ME,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,1.5,3,9.012499999999932,0,1,2,3,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maine,ME,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,3,6,17,0,1,3,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maine,ME,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.8004804223917986e-5,1.0107938404518584e-4,1.893617370075906e-4,3.117774262083675e-4,6.531300140900401e-4,1.8e-5,1e-4,1.9e-4,3.1e-4,6.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maine,ME,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.412666292601304e-4,2.763957985291738e-4,4.202579864886943e-4,8.190646694376185e-4,0,1.4e-4,2.8e-4,4.2e-4,8.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -593,8 +593,8 @@ Maryland,MD,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,1
 Maryland,MD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,9.999999999999996e-5,3e-4,5e-4,0.0035000000000000005,0,1e-4,3e-4,5e-4,0.0035,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maryland,MD,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,9.000000000000002e-4,0.003954271742717421,0,0,3e-4,9e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Maryland,MD,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,0.0012655559055590574,0.004700024600246,0,0,3e-4,0.0013,0.0047,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Maryland,MD,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,4,6.5,17,0,2,4,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Maryland,MD,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,3,5,8.5,22,0,3,5,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Maryland,MD,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,4,6.5,17,0,2,4,7,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Maryland,MD,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,3,5,8.5,22,0,3,5,9,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maryland,MD,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,2,7,13,22,55,2,7,10,20,60,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maryland,MD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,8.712670525544135e-5,2.60649141761882e-4,4.158137405709231e-4,6.124207924204705e-4,0.001171381473393269,8.7e-5,2.6e-4,4.2e-4,6.1e-4,0.0012,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Maryland,MD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,4.350315295056476e-5,1.2975296917313263e-4,1.7456336351920056e-4,2.3869459886512534e-4,3.927247500174435e-4,4.4e-5,1.3e-4,1.7e-4,2.4e-4,3.9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -618,10 +618,10 @@ Massachusetts,MA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrene
 Massachusetts,MA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,2.249999999999999,9,15.750000000000004,76.64999999999992,0,2,9,20,80,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Massachusetts,MA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,9,23.52198021980219,90.46070310703102,0,0,9,20,90,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Massachusetts,MA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9,30.15310653106533,102.83936414364132,0,0,9,30,100,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Massachusetts,MA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,2.7499999999999937e-4,0.003454999999999992,0,0,1e-4,2.7e-4,0.0035,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+Massachusetts,MA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,2.7499999999999937e-4,0.003454999999999992,0,0,1e-4,2.8e-4,0.0035,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Massachusetts,MA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,8.000000000000001e-4,0.003999999999999998,0,0,1e-4,8e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Massachusetts,MA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,0.0011999999999999997,0.0048480727807278,0,0,1e-4,0.0012,0.0048,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Massachusetts,MA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,2.5,5.5,8,11,20.5,2,6,8,10,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Massachusetts,MA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,2.5,5.5,8,11,20.5,3,6,8,10,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Massachusetts,MA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,2,7.5,11,17,37,2,8,10,20,40,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Massachusetts,MA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,5,14,24,39,98,5,10,20,40,100,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Massachusetts,MA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.295365279773908e-5,1.4692749009766076e-4,2.48728346002158e-4,3.955832915885873e-4,8.226004406404723e-4,3.3e-5,1.5e-4,2.5e-4,4e-4,8.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -649,8 +649,8 @@ Michigan,MI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,3
 Michigan,MI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,1.0000000000000005e-4,0.002982499999999989,0,0,0,1e-4,0.003,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Michigan,MI,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,5e-4,0.0038565483154831513,0,0,0,5e-4,0.0039,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Michigan,MI,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,9.999999999999996e-4,0.004504929799297989,0,0,0,0.001,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Michigan,MI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,1.5,3,6.5,0,1,2,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Michigan,MI,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2.5,4,9.5,0,1,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Michigan,MI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,1.5,3,6.5,0,1,2,3,7,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Michigan,MI,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2.5,4,9.5,0,1,3,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Michigan,MI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,4,7,12,33,0,4,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Michigan,MI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.383712871279492e-5,1.1736422288900614e-4,2.134306131811047e-4,3.430165977973893e-4,7.20401493369076e-4,2.4e-5,1.2e-4,2.1e-4,3.4e-4,7.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Michigan,MI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,3.378535572107475e-5,4.674292140897442e-5,6.962500947961842e-5,1.2023076116769503e-4,0,3.4e-5,4.7e-5,7e-5,1.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -677,8 +677,8 @@ Minnesota,MN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2,
 Minnesota,MN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,2e-4,0.0030999999999999995,0,0,0,2e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Minnesota,MN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,7.999999999999997e-4,0.003988707887078862,0,0,0,8e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Minnesota,MN,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,0.0011743549935499364,0.004747915279152778,0,0,0,0.0012,0.0047,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Minnesota,MN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,3,4.5,9,0,2,3,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Minnesota,MN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0.5,2.5,3.5,6.125,15,0,2,4,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Minnesota,MN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1.5,3,4.5,9,0,2,3,5,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Minnesota,MN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0.5,2.5,3.5,6.125,15,1,3,4,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Minnesota,MN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,3,10,17,27,66,3,10,20,30,70,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Minnesota,MN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,7.019949142240397e-5,2.3217443029330227e-4,3.731607265837309e-4,5.521026375619291e-4,0.0010422195483833906,7e-5,2.3e-4,3.7e-4,5.5e-4,0.001,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Minnesota,MN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,6.893386604970087e-5,1.0446905223861645e-4,1.7357937363967233e-4,3.1930659250476286e-4,0,6.9e-5,1e-4,1.7e-4,3.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -705,7 +705,7 @@ Mississippi,MS,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,
 Mississippi,MS,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,9.999999999999999e-5,3e-4,5e-4,0.0025999999999999986,0,1e-4,3e-4,5e-4,0.0026,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Mississippi,MS,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,7.000000000000001e-4,0.0031000000000000003,0,0,3e-4,7e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Mississippi,MS,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,9.999999999999996e-4,0.00342076650766508,0,0,3e-4,0.001,0.0034,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Mississippi,MS,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2.5,5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Mississippi,MS,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1,2.5,5,0,1,1,3,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,1,3,7.5,0,1,1,3,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,2,4,8,21,0,2,4,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,6.542725404635102e-5,2.1211704952951284e-4,3.4548145176797884e-4,5.168806328443028e-4,0.0010049347514910528,6.5e-5,2.1e-4,3.5e-4,5.2e-4,0.001,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -730,8 +730,8 @@ Missouri,MO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_R
 Missouri,MO,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1,8.750000000000004,61.974999999999895,0,0,1,9,60,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Missouri,MO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1,21,80.42516225162248,0,0,1,20,80,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Missouri,MO,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1,25.35146851468513,88.98516585165842,0,0,1,30,90,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Missouri,MO,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,2,4,11,0,0,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Missouri,MO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1.5,2.5,5,15,0,2,2,5,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Missouri,MO,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,2,4,11,0,1,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Missouri,MO,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1.5,2.5,5,15,0,2,3,5,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,3,6,10,26,0,3,6,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,2.276567480645515e-5,8.96937901552712e-5,1.3608129453021025e-4,1.8465587016931238e-4,3.533521895139605e-4,2.3e-5,9e-5,1.4e-4,1.8e-4,3.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,2.2372663010328437e-5,8.612359237948806e-5,1.370128323013215e-4,2.13602777620633e-4,5.082293013407951e-4,2.2e-5,8.6e-5,1.4e-4,2.1e-4,5.1e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -753,7 +753,7 @@ Montana,MT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-base
 Montana,MT,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,8e-4,0.004789896798967968,0,0,1e-4,8e-4,0.0048,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Montana,MT,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,0.001399999999999998,0.005706458539585389,0,0,1e-4,0.0014,0.0057,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Montana,MT,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,1.5,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Montana,MT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2.5,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Montana,MT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2.5,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Montana,MT,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,2,7,0,0,1,2,7,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Montana,MT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.3267706209601593e-5,1.114338660983941e-4,2.0270709584400943e-4,3.2896241178877574e-4,6.998306137986222e-4,2.3e-5,1.1e-4,2e-4,3.3e-4,7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Montana,MT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,2.3724272321462166e-4,0,0,0,0,2.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -780,7 +780,7 @@ Nebraska,NE,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1,1
 Nebraska,NE,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,3.0000000000000003e-4,0.0022824999999999877,0,0,1e-4,3e-4,0.0023,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Nebraska,NE,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,9.999999999999999e-5,5.993219932199314e-4,0.0030991659166591653,0,0,1e-4,6e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Nebraska,NE,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,8.999999999999998e-4,0.0036271161461614567,0,0,1e-4,9e-4,0.0036,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Nebraska,NE,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,0,2,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Nebraska,NE,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,1,2,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2,3.5,9.5,0,1,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,4,8,14,36,1,4,8,10,40,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.308857584867043e-5,1.4216081109554208e-4,2.472098982408002e-4,3.881453883634811e-4,8.001790224336192e-4,3.3e-5,1.4e-4,2.5e-4,3.9e-4,8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -809,7 +809,7 @@ Nevada,NV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-basel
 Nevada,NV,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1.0000000000000002e-4,7.040380403804013e-4,0.003097934479344792,0,0,1e-4,7e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Nevada,NV,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,9.686061860618613e-4,0.003583466759667609,0,0,1e-4,9.7e-4,0.0036,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Nevada,NV,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,1,3,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Nevada,NV,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,1,1.5,4.5,0,0,1,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Nevada,NV,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,1,1.5,4.5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,2,4,12,0,1,2,4,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.241361272064866e-5,8.812187334209299e-5,1.6447753465612214e-4,2.759154464654092e-4,5.953174940290443e-4,1.2e-5,8.8e-5,1.6e-4,2.8e-4,6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,3.464084010908659e-5,6.888656545677016e-5,1.0634294564484602e-4,2.419411192207861e-4,0,3.5e-5,6.9e-5,1.1e-4,2.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -836,8 +836,8 @@ New Hampshire,NH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,
 New Hampshire,NH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,3.0000000000000003e-4,0.0037274999999999956,0,0,0,3e-4,0.0037,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Hampshire,NH,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,8.650459004590018e-4,0.004792489049890497,0,0,0,8.7e-4,0.0048,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Hampshire,NH,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,0.0012000000000000005,0.0053337162121621234,0,0,0,0.0012,0.0053,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-New Hampshire,NH,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0.5,1.5,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-New Hampshire,NH,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2.5,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New Hampshire,NH,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0.5,1.5,0,0,0,1,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New Hampshire,NH,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2.5,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,3,9,0,0,1,3,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.846438526393796e-5,1.0758903029457492e-4,2.010486817258439e-4,3.2863512040190944e-4,6.696854480511521e-4,1.8e-5,1.1e-4,2e-4,3.3e-4,6.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,1.483438696255697e-4,0,0,0,0,1.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -864,7 +864,7 @@ New Jersey,NJ,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,8
 New Jersey,NJ,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.9999999999999993e-4,3e-4,4e-4,0.002327499999999997,0,2e-4,3e-4,4e-4,0.0023,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Jersey,NJ,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,5.421010862427522e-20,3e-4,7e-4,0.0028236762367623664,0,5.4e-20,3e-4,7e-4,0.0028,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Jersey,NJ,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,9.939376893768933e-4,0.0031000000000000008,0,0,3e-4,9.9e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-New Jersey,NJ,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,4.5,9.5,13,17.5,31,4,10,10,20,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New Jersey,NJ,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,4.5,9.5,13,17.5,31,5,10,10,20,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,5,12.5,18,25.5,53.5,5,10,20,30,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,12,30,48,77,188,10,30,50,80,190,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,4.718233197015045e-5,1.7366903931076004e-4,2.940463786183406e-4,4.6210862366059677e-4,8.991522903063808e-4,4.7e-5,1.7e-4,2.9e-4,4.6e-4,9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -889,11 +889,11 @@ New Mexico,NM,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H
 New Mexico,NM,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,2,29.774999999999988,0,0,0,2,30,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Mexico,NM,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,6.069468194681946,49.193156681566705,0,0,0,6,50,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Mexico,NM,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.000090000554906e-5,12.90056900569008,58.43445809458097,0,0,0,10,60,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,2.7499999999999926e-4,0.004674999999999962,0,0,0,2.7e-4,0.0047,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,0,2.7499999999999926e-4,0.004674999999999962,0,0,0,2.8e-4,0.0047,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Mexico,NM,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,9.89429394293943e-4,0.0074169052440524385,0,0,0,9.9e-4,0.0074,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New Mexico,NM,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,0.0016000000000000003,0.008582371973719763,0,0,0,0.0016,0.0086,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-New Mexico,NM,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1,3,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-New Mexico,NM,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,4.5,0,0,0,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New Mexico,NM,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1,3,0,0,1,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New Mexico,NM,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1.5,4.5,0,0,1,2,5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Mexico,NM,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,3,6,16,0,1,3,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.9394505425861682e-5,1.3853282129595667e-4,2.4596551983007456e-4,3.8687528180285087e-4,7.90748544274184e-4,2.9e-5,1.4e-4,2.5e-4,3.9e-4,7.9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,6.170046491041618e-5,1.8616904234613867e-4,0,0,0,6.2e-5,1.9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -912,7 +912,7 @@ New York,NY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_
 New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,1.3149064480715274e-4,1.9171473548305356e-4,2.2552077125312608e-4,2.6615349661740056e-4,3.5466862360293127e-4,1.3e-4,1.9e-4,2.3e-4,2.7e-4,3.5e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 New York,NY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,17,29,37,47,74,20,30,40,50,70,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 New York,NY,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,1.168232079190249e-4,2.0552869787714113e-4,2.5641663012201986e-4,3.1329099609451577e-4,4.6524537126867643e-4,1.2e-4,2.1e-4,2.6e-4,3.1e-4,4.7e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
-New York,NY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,18,30,37,45,65,20,30,40,40,60,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
+New York,NY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,18,30,37,45,65,20,30,40,50,70,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 New York,NY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,17,32,42,56,98,20,30,40,60,100,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 New York,NY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,11.499999999999998,30,48.50000000000001,199.84999999999985,0,10,30,50,200,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New York,NY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,30.000000000000004,88.5440754407544,268.85070000699966,0,0,30,90,270,RSVHub-hub-models,2025-09-24,RSVHub baseline model
@@ -921,7 +921,7 @@ New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-bas
 New York,NY,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,5.077130771307751e-4,0.0025050321753217505,0,0,2e-4,5.1e-4,0.0025,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New York,NY,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,7.999999999999998e-4,0.0028129361293612928,0,0,2e-4,8e-4,0.0028,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 New York,NY,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,14,24.5,32.5,41.5,66.5,10,20,30,40,70,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-New York,NY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,16,32.5,45,62.5,123,20,30,40,60,120,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+New York,NY,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,16,32.5,45,62.5,123,20,30,50,60,120,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New York,NY,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,36,87,136,208,496,40,90,140,210,500,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.91394683453342e-5,1.2370941125931225e-4,2.2260601980145087e-4,3.543632172539223e-4,7.286988190077969e-4,2.9e-5,1.2e-4,2.2e-4,3.5e-4,7.3e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,1.3149064480715274e-4,1.9171473548305356e-4,2.2552077125312608e-4,2.6615349661740056e-4,3.5466862360293127e-4,1.3e-4,1.9e-4,2.3e-4,2.7e-4,3.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -941,7 +941,7 @@ North Carolina,NC,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_
 North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,2,5,7,10,18,2,5,7,10,20,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 North Carolina,NC,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,9.319248689312053e-5,1.832374948464552e-4,2.409406973313307e-4,3.0698761125489424e-4,4.8143687987756416e-4,9.3e-5,1.8e-4,2.4e-4,3.1e-4,4.8e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 North Carolina,NC,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,1,4,6,9,17,1,4,6,9,20,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
-North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,1,4,6,10,25,1,4,6,10,20,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
+North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,1,4,6,10,25,1,4,6,10,30,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 North Carolina,NC,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,0,6,17.750000000000004,138.49999999999977,0,0,6,20,140,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,6,38.071575715757156,193.91605716057174,0,0,6,40,190,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Carolina,NC,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,6,51.960602106021064,209.10207277072786,0,0,6,50,210,RSVHub-hub-models,2025-09-24,RSVHub baseline model
@@ -949,7 +949,7 @@ North Carolina,NC,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVH
 North Carolina,NC,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,7.999999999999998e-4,0.003951469939699382,0,0,2e-4,8e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Carolina,NC,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.0010000000000000007,0.004561325713257125,0,0,2e-4,0.001,0.0046,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Carolina,NC,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,1.5,5,7.5,11,19.5,2,5,8,10,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,2.5,7,10.5,15.5,32.5,2,7,10,20,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+North Carolina,NC,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,2.5,7,10.5,15.5,32.5,3,7,10,20,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,8,22,35,56,137,8,20,40,60,140,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,9.620412523572105e-5,2.8426048121553215e-4,4.3933695977822415e-4,6.471273462526001e-4,0.0012196578629962793,9.6e-5,2.8e-4,4.4e-4,6.5e-4,0.0012,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,1.1300408206048241e-4,1.8288169324062487e-4,2.3201820528704676e-4,2.8353657711924457e-4,3.8935200231075e-4,1.1e-4,1.8e-4,2.3e-4,2.8e-4,3.9e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -976,7 +976,7 @@ North Dakota,ND,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0
 North Dakota,ND,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,2e-4,5e-4,0.0041824999999999874,0,0,2e-4,5e-4,0.0042,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Dakota,ND,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,8.999999999999998e-4,0.006298451984519868,0,0,2e-4,9e-4,0.0063,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 North Dakota,ND,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.001250096750967517,0.007075469579695815,0,0,2e-4,0.0013,0.0071,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-North Dakota,ND,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,1,2.5,0,0,0,1,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+North Dakota,ND,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,1,2.5,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,1,3,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,2,3,10,0,0,2,3,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.3945990378614376e-5,1.264515378921822e-4,2.2507912933673692e-4,3.5310629499049064e-4,7.485497976220403e-4,2.4e-5,1.3e-4,2.3e-4,3.5e-4,7.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1005,8 +1005,8 @@ Ohio,OH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baselin
 Ohio,OH,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,5e-4,0.002737363648636481,0,0,1e-4,5e-4,0.0027,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Ohio,OH,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,6.000000000000006e-4,0.003068258932589322,0,0,1e-4,6e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Ohio,OH,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,2,3.5,6,12,0,2,4,6,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Ohio,OH,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0.5,3.5,5.5,9,19.5,0,4,6,9,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Ohio,OH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,4,13,21,35,85,4,10,20,40,80,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Ohio,OH,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0.5,3.5,5.5,9,19.5,1,4,6,9,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Ohio,OH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,4,13,21,35,85,4,10,20,40,90,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.4330026131241817e-5,8.895200629291535e-5,1.6844516572886198e-4,2.849777405769278e-4,6.105668094167167e-4,1.4e-5,8.9e-5,1.7e-4,2.8e-4,6.1e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,9.195276991828328e-6,2.7666665225114108e-5,3.791011490666855e-5,5.728171838076002e-5,9.521969713744354e-5,9.2e-6,2.8e-5,3.8e-5,5.7e-5,9.5e-5,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,2.155777898577791e-5,1.2069269766332055e-4,2.2001856894822192e-4,3.652051207902963e-4,7.528188440171736e-4,2.2e-5,1.2e-4,2.2e-4,3.7e-4,7.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1014,7 +1014,7 @@ Ohio,OH,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensembl
 Ohio,OH,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,3.734607164191067e-5,1.5668666083638172e-4,2.956390046772483e-4,4.7345541062299786e-4,9.666193085737242e-4,3.7e-5,1.6e-4,3e-4,4.7e-4,9.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,0,2,4,7,15,0,2,4,7,20,UGA_flucast,2025-09-24,INFLAenza
 Ohio,OH,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,1,5,8,13,29,1,5,8,10,30,UGA_flucast,2025-09-24,INFLAenza
-Ohio,OH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,4,13,21,35,85,4,10,20,40,80,UGA_flucast,2025-09-24,INFLAenza
+Ohio,OH,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,4,13,21,35,85,4,10,20,40,90,UGA_flucast,2025-09-24,INFLAenza
 Ohio,OH,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,UGA_flucast-INFLAenza,1.4330026131241817e-5,8.895200629291535e-5,1.6844516572886198e-4,2.849777405769278e-4,6.105668094167167e-4,1.4e-5,8.9e-5,1.7e-4,2.8e-4,6.1e-4,UGA_flucast,2025-09-24,INFLAenza
 Ohio,OH,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,2.155777898577791e-5,1.2069269766332055e-4,2.2001856894822192e-4,3.652051207902963e-4,7.528188440171736e-4,2.2e-5,1.2e-4,2.2e-4,3.7e-4,7.5e-4,UGA_flucast,2025-09-24,INFLAenza
 Ohio,OH,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,3.734607164191067e-5,1.5668666083638172e-4,2.956390046772483e-4,4.7345541062299786e-4,9.666193085737242e-4,3.7e-5,1.6e-4,3e-4,4.7e-4,9.7e-4,UGA_flucast,2025-09-24,INFLAenza
@@ -1030,7 +1030,7 @@ Oklahoma,OK,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,1
 Oklahoma,OK,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,3.9999999999999996e-4,0.0031549999999999924,0,0,1e-4,4e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Oklahoma,OK,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,6.999999999999997e-4,0.004002745702457021,0,0,1e-4,7e-4,0.004,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Oklahoma,OK,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,0.0011000000000000003,0.00447689474394743,0,0,1e-4,0.0011,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Oklahoma,OK,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,0,2,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Oklahoma,OK,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,1,2,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2,3,8,0,1,2,3,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,2,5,9,24,0,2,5,9,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.4764872562756107e-5,1.500209893966228e-4,2.550222097844144e-4,3.983266100278252e-4,8.045912604935733e-4,3.5e-5,1.5e-4,2.6e-4,4e-4,8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1057,7 +1057,7 @@ Oregon,OR,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-basel
 Oregon,OR,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,6.000000000000003e-4,0.0032189949899498983,0,0,0,6e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Oregon,OR,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,0.0010000000000000002,0.0038051785767857687,0,0,0,0.001,0.0038,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Oregon,OR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,1,3,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Oregon,OR,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1,4,0,0,0,1,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Oregon,OR,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,1,4,0,0,1,1,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oregon,OR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,1,3,6,16,0,1,3,6,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oregon,OR,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.1400320128679564e-5,7.515531275768894e-5,1.512468311792724e-4,2.58148802659951e-4,5.716872192101407e-4,1.1e-5,7.5e-5,1.5e-4,2.6e-4,5.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Oregon,OR,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,2.8893508357690317e-5,1.1252423772411838e-4,0,0,0,2.9e-5,1.1e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1076,7 +1076,7 @@ Pennsylvania,PA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew
 Pennsylvania,PA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_HE_RSV,2.7106939750763864e-5,5.529973660209177e-5,8.17540747483678e-5,1.0916033110746387e-4,1.6589844246697069e-4,2.7e-5,5.5e-5,8.2e-5,1.1e-4,1.7e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Pennsylvania,PA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,11,23,31,44,81,10,20,30,40,80,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
 Pennsylvania,PA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_HE_RSV,1.8118041339880034e-5,5.4307228752526416e-5,8.150249851837699e-5,1.1071211293565896e-4,2.0613550592892598e-4,1.8e-5,5.4e-5,8.2e-5,1.1e-4,2.1e-4,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_ED_Visits_RSV
-Pennsylvania,PA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,15,26,35,45,73,20,30,40,40,70,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
+Pennsylvania,PA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,CFA_Pyrenew-Pyrenew_H_RSV,15,26,35,45,73,20,30,40,50,70,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 Pennsylvania,PA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,11,24,34,48,96,10,20,30,50,100,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2025-09-24,Pyrenew_Hospital_Admissions_RSV
 Pennsylvania,PA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,10,33,56,205.14999999999972,0,10,30,60,210,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Pennsylvania,PA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,33,87.96767217672175,248.36245237452331,0,0,30,90,250,RSVHub-hub-models,2025-09-24,RSVHub baseline model
@@ -1098,9 +1098,9 @@ Pennsylvania,PA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAen
 Pennsylvania,PA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,UGA_flucast-INFLAenza,2.6844316158107404e-5,1.2838808031511117e-4,2.300140815396765e-4,3.711598624637349e-4,7.769975522438508e-4,2.7e-5,1.3e-4,2.3e-4,3.7e-4,7.8e-4,UGA_flucast,2025-09-24,INFLAenza
 Pennsylvania,PA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,4.0907868295987485e-5,1.7685686387187966e-4,3.0082798049211863e-4,4.7763942021646956e-4,9.63577217381372e-4,4.1e-5,1.8e-4,3e-4,4.8e-4,9.6e-4,UGA_flucast,2025-09-24,INFLAenza
 Pennsylvania,PA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,6.032683723140305e-5,2.3000534610652233e-4,3.878175777217593e-4,6.070838728383998e-4,0.0012405721633675926,6e-5,2.3e-4,3.9e-4,6.1e-4,0.0012,UGA_flucast,2025-09-24,INFLAenza
-Puerto Rico,PR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,6.499999999999998,15,23.500000000000007,154.34999999999962,0,6,20,20,150,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+Puerto Rico,PR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,6.499999999999998,15,23.500000000000007,154.34999999999962,0,7,20,20,150,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Puerto Rico,PR,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,1.0969484694847065,15,34.97155971559716,184.11777967779636,0,1,20,30,180,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Puerto Rico,PR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,14.999999999999998,50.06955569555689,211.16168661686552,0,0,10,50,210,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+Puerto Rico,PR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,14.999999999999998,50.06955569555689,211.16168661686552,0,0,20,50,210,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Puerto Rico,PR,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,4,11,16,23,46,4,10,20,20,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Puerto Rico,PR,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,7,18,27,41,89,7,20,30,40,90,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Puerto Rico,PR,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,17,42,66,103,250,20,40,70,100,250,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1121,8 +1121,8 @@ Rhode Island,RI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0
 Rhode Island,RI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,2e-4,4e-4,6.000000000000001e-4,0.003200000000000001,0,2e-4,4e-4,6e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Rhode Island,RI,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,9.999999999999996e-5,4e-4,9e-4,0.0038166050910509145,0,1e-4,4e-4,9e-4,0.0038,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Rhode Island,RI,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,4e-4,0.0012346908469084677,0.004243976839768391,0,0,4e-4,0.0012,0.0042,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Rhode Island,RI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1.5,3.5,0,0,0,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Rhode Island,RI,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,2,6,0,0,0,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Rhode Island,RI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0.5,1.5,3.5,0,0,1,2,4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Rhode Island,RI,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0.5,2,6,0,0,1,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Rhode Island,RI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,3,9,0,0,1,3,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Rhode Island,RI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.4073133868889924e-5,8.882467041687788e-5,1.6934684284294557e-4,2.8525731354190004e-4,6.023671116131891e-4,1.4e-5,8.9e-5,1.7e-4,2.9e-4,6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Rhode Island,RI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,1.0267668568979613e-4,2.0725075876133148e-4,6.00077330040521e-4,0,0,1e-4,2.1e-4,6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1170,7 +1170,7 @@ South Dakota,SD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub
 South Dakota,SD,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,0.0012994142441424433,0.0043704370293703,0,0,3e-4,0.0013,0.0044,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 South Dakota,SD,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,0.0016,0.004884262967629676,0,0,3e-4,0.0016,0.0049,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 South Dakota,SD,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,2,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-South Dakota,SD,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,3,0,0,0,0,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+South Dakota,SD,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,3,0,0,0,1,3,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 South Dakota,SD,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,2,7,0,0,1,2,7,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 South Dakota,SD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.382473476455928e-5,1.1487400239685836e-4,2.1189412713056125e-4,3.4130766763086813e-4,7.020690352805398e-4,2.4e-5,1.1e-4,2.1e-4,3.4e-4,7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 South Dakota,SD,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,3.4366516806848626e-4,0,0,0,0,3.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1197,8 +1197,8 @@ Tennessee,TN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,
 Tennessee,TN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,2e-4,4.000000000000001e-4,0.002227499999999996,0,0,2e-4,4e-4,0.0022,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Tennessee,TN,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,2e-4,7.803145531455303e-4,0.0031386121861218556,0,0,2e-4,7.8e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Tennessee,TN,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,2e-4,0.0010000000000000005,0.003466053460534615,0,0,2e-4,0.001,0.0035,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Tennessee,TN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,2,3,5,10.5,0,2,3,5,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Tennessee,TN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2.5,4,7.5,15.5,0,2,4,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Tennessee,TN,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,2,3,5,10.5,1,2,3,5,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Tennessee,TN,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,2.5,4,7.5,15.5,0,3,4,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Tennessee,TN,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,6,12,19,47,1,6,10,20,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Tennessee,TN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,6.791630909648573e-5,2.3062558711774327e-4,3.690812586275103e-4,5.542092395341184e-4,0.0010547633718340334,6.8e-5,2.3e-4,3.7e-4,5.5e-4,0.0011,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Tennessee,TN,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,7.122995147035569e-5,1.3994014896036893e-4,1.8516376125505678e-4,2.356638798580367e-4,3.5092855643771695e-4,7.1e-5,1.4e-4,1.9e-4,2.4e-4,3.5e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1222,7 +1222,7 @@ Texas,TX,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,CFA_Pyrenew-Pyrenew_H_RSV,
 Texas,TX,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-baseline,0,10.25,26,41.75,175.77499999999998,0,10,30,40,180,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Texas,TX,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-baseline,0,0,26,78.1640591405914,248.79992524925206,0,0,30,80,250,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Texas,TX,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,26,97.07592825928259,315.72991854918615,0,0,30,100,320,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Texas,TX,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000044e-4,3e-4,4.7499999999999837e-4,0.00248249999999999,0,1.3e-4,3e-4,4.7e-4,0.0025,RSVHub-hub-models,2025-09-24,RSVHub baseline model
+Texas,TX,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,1.2500000000000044e-4,3e-4,4.7499999999999837e-4,0.00248249999999999,0,1.3e-4,3e-4,4.8e-4,0.0025,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Texas,TX,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,3e-4,8.00000000000001e-4,0.0032110975609756075,0,0,3e-4,8e-4,0.0032,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Texas,TX,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3e-4,0.0011906384063840628,0.0036465610656106705,0,0,3e-4,0.0012,0.0036,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Texas,TX,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,11,19,25.5,32.5,54,10,20,30,30,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1234,7 +1234,7 @@ Texas,TX,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemb
 Texas,TX,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,1.9083133587772863e-4,2.962085464242478e-4,3.64381723843621e-4,4.38461135235035e-4,6.550757902873025e-4,1.9e-4,3e-4,3.6e-4,4.4e-4,6.6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Texas,TX,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-ensemble,1.937846285341079e-4,5.362988170253234e-4,8.191521446229937e-4,0.0011832317560486652,0.002231966724975862,1.9e-4,5.4e-4,8.2e-4,0.0012,0.0022,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Texas,TX,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,7,15,22,31,60,7,20,20,30,60,UGA_flucast,2025-09-24,INFLAenza
-Texas,TX,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,10,25,38,56,123,10,20,40,60,120,UGA_flucast,2025-09-24,INFLAenza
+Texas,TX,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,UGA_flucast-INFLAenza,10,25,38,56,123,10,30,40,60,120,UGA_flucast,2025-09-24,INFLAenza
 Texas,TX,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,UGA_flucast-INFLAenza,24,61,96,149,357,20,60,100,150,360,UGA_flucast,2025-09-24,INFLAenza
 Texas,TX,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,UGA_flucast-INFLAenza,1.1643754936131753e-4,3.230588531407092e-4,4.937497713958649e-4,7.163895026223131e-4,0.0012570685385918925,1.2e-4,3.2e-4,4.9e-4,7.2e-4,0.0013,UGA_flucast,2025-09-24,INFLAenza
 Texas,TX,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,UGA_flucast-INFLAenza,1.4750386538071668e-4,4.135656767458157e-4,6.255000912062547e-4,9.065833963468881e-4,0.0016525643721938218,1.5e-4,4.1e-4,6.3e-4,9.1e-4,0.0017,UGA_flucast,2025-09-24,INFLAenza
@@ -1274,7 +1274,7 @@ Vermont,VT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-base
 Vermont,VT,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,0,8e-4,0.005584180991809914,0,0,0,8e-4,0.0056,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Vermont,VT,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,0,0.0012999999999999997,0.006521160111601116,0,0,0,0.0013,0.0065,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Vermont,VT,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,1.5,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Vermont,VT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2,0,0,0,0,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Vermont,VT,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0,0,0.5,2,0,0,0,1,2,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,0,1,2,6,0,0,1,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.4033526242216953e-5,1.2525896517609353e-4,2.2169961257550893e-4,3.59509435535673e-4,7.41132705491635e-4,2.4e-5,1.3e-4,2.2e-4,3.6e-4,7.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,0,0,0,1.7889472963987323e-4,0,0,0,0,1.8e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1301,7 +1301,7 @@ Virginia,VA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,3,2
 Virginia,VA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,2.999999999999999e-4,4e-4,5.000000000000001e-4,0.0019549999999999928,0,3e-4,4e-4,5e-4,0.002,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Virginia,VA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,1.0000000000000002e-4,4e-4,7.999999999999999e-4,0.00252715754657546,0,1e-4,4e-4,8e-4,0.0025,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Virginia,VA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,4e-4,0.001000000000000001,0.0029,0,0,4e-4,0.001,0.0029,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Virginia,VA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,3,5,7,13.5,0,3,5,7,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Virginia,VA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0.5,3,5,7,13.5,1,3,5,7,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,1,4,7,10,22.5,1,4,7,10,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,3,10,18,29,72,3,10,20,30,70,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,5.582160605673861e-5,2.057777699346209e-4,3.351521321033436e-4,5.02414897473858e-4,9.609700995706713e-4,5.6e-5,2.1e-4,3.4e-4,5e-4,9.6e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1329,8 +1329,8 @@ Washington,WA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1
 Washington,WA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,2.0000000000000025e-4,0.0030549999999999917,0,0,1e-4,2e-4,0.0031,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Washington,WA,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,7.148178981789836e-4,0.004549838673386726,0,0,1e-4,7.1e-4,0.0045,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Washington,WA,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,1e-4,0.0010999999999999998,0.005250600006000052,0,0,1e-4,0.0011,0.0053,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Washington,WA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,5.5,0,0,2,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-Washington,WA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2,3.5,8.5,0,1,2,4,8,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Washington,WA,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,5.5,0,1,2,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Washington,WA,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1,2,3.5,8.5,0,1,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Washington,WA,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,0,2,4,8,23,0,2,4,8,20,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Washington,WA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,2.497422887807184e-5,1.224472023833006e-4,2.1462042282034867e-4,0.00035014671059346533,7.231599835284971e-4,2.5e-5,1.2e-4,2.1e-4,3.5e-4,7.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Washington,WA,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,4.488811821887281e-5,1.040845517438693e-4,1.4871871905934022e-4,2.0966544918524945e-4,3.406967630769432e-4,4.5e-5,1e-4,1.5e-4,2.1e-4,3.4e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1357,8 +1357,8 @@ West Virginia,WV,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,
 West Virginia,WV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,3.9999999999999996e-4,0.0056274999999999945,0,0,1e-4,4e-4,0.0056,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 West Virginia,WV,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,0.0013000000000000004,0.006991491014910152,0,0,1e-4,0.0013,0.007,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 West Virginia,WV,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.999999999999999e-5,0.0020217067170671685,0.007953934089340697,0,0,1e-4,0.002,0.008,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-West Virginia,WV,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,0,2,2,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
-West Virginia,WV,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,2,3.5,9,0,0,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+West Virginia,WV,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,0.5,1.5,2.5,6,0,1,2,3,6,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+West Virginia,WV,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,0.5,2,3.5,9,0,1,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,1,4,7,13,34,1,4,7,10,30,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,3.00368091115288e-5,1.3217965455588127e-4,2.2712174608660027e-4,3.593817193909689e-4,7.330108407947672e-4,3e-5,1.3e-4,2.3e-4,3.6e-4,7.3e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-ensemble,0,4.9120154766385225e-5,1.4149112681290094e-4,1.9277781680898773e-4,4.2246299433865104e-4,0,4.9e-5,1.4e-4,1.9e-4,4.2e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
@@ -1385,7 +1385,7 @@ Wisconsin,WI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-baseline,0,0,5,
 Wisconsin,WI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-27,RSVHub-baseline,0,0,1e-4,2.0000000000000004e-4,0.0025999999999999994,0,0,1e-4,2e-4,0.0026,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Wisconsin,WI,1,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-04,RSVHub-baseline,0,0,1e-4,7.011400114001109e-4,0.0029098304233042336,0,0,1e-4,7e-4,0.0029,RSVHub-hub-models,2025-09-24,RSVHub baseline model
 Wisconsin,WI,2,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-10-11,RSVHub-baseline,0,0,9.999999999999999e-5,9.344050940509419e-4,0.0034000000000000015,0,0,1e-4,0.00093000000000000005,0.0034,RSVHub-hub-models,2025-09-24,RSVHub baseline model
-Wisconsin,WI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,4,9,0,1,2,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
+Wisconsin,WI,0,wk inc rsv hosp,hosp,2025-09-27,2025-09-27,RSVHub-ensemble,0,1,2.5,4,9,0,1,3,4,9,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,1,wk inc rsv hosp,hosp,2025-09-27,2025-10-04,RSVHub-ensemble,0,1.5,3.5,6,14.5,0,2,4,6,10,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,2,wk inc rsv hosp,hosp,2025-09-27,2025-10-11,RSVHub-ensemble,2,7,12,19,49,2,7,10,20,50,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,0,wk inc rsv prop ed visits,prop_ed,2025-09-27,2025-09-20,RSVHub-ensemble,1.9990058256267428e-5,1.0640919016068144e-4,1.947745613867976e-4,3.188830159326318e-4,6.74633897122053e-4,2e-5,1.1e-4,1.9e-4,3.2e-4,6.7e-4,RSVHub,2025-09-24,Ensemble using RSVHub forecast submissions
