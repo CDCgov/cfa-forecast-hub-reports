@@ -7,8 +7,6 @@ on:
         description: "Reference date (YYYY-MM-DD, must be Saturday). Leave empty for auto-calculation."
         required: false
         type: string
-  repository_dispatch:
-    types: [covid-ensemble-added, rsv-ensemble-added]
 
 permissions:
   contents: write
@@ -44,11 +42,17 @@ jobs:
       - name: "Checkout Current Repository"
         uses: actions/checkout@v6
 
-      - name: "Checkout Hub Repository"
+      - name: "Checkout covid19-forecast-hub Repository"
         uses: actions/checkout@v6
         with:
-          repository: ${{ matrix.hub_repo }}
-          path: ${{ matrix.hub_path }}
+          repository: 'CDCgov/covid19-forecast-hub'
+          path: covid19-forecast-hub
+
+      - name: "Checkout rsv-forecast-hub Repository"
+        uses: actions/checkout@v6
+        with:
+          repository: 'CDCgov/rsv-forecast-hub'
+          path: rsv-forecast-hub
 
       - name: "Set Up hubhelpr"
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
