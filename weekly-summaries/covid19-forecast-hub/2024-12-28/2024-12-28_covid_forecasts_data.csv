@@ -35,7 +35,7 @@ United States,US,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,4560.
 United States,US,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,3750.032709490212,6783.037798746771,8159.438016283057,9002.350863167061,13214.469539101832,3800,6800,8200,9000,13200,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,114,141,157,176,214,110,140,160,180,210,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Alabama,AL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,100,146,180,220,313,100,150,180,220,310,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,87,151,205,274,453,90,150,200,270,450,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,87,151,205,274,453,90,150,210,270,450,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,80.26506819275001,134.75554910902997,161.6550399843817,211.1756042419785,343.6909556423906,80,130,160,210,340,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Alabama,AL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,83.65285960859,141.40266032019227,185.43428868801132,262.68797628592444,446.5150014094805,80,140,190,260,450,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,87.23100380588114,146.45371129478502,202.18996682916477,318.72322604529523,531.8827510170512,90,150,200,320,530,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -51,7 +51,7 @@ Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,85.6
 Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,96,136,160,187,247,100,140,160,190,250,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Alabama,AL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,97,137,162,189,249,100,140,160,190,250,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,97,137,161,189,248,100,140,160,190,250,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,155,174,187,205,240,160,170,190,200,240,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,155,174,187,205,240,160,170,190,210,240,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Alabama,AL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,172,199,214,238,271,170,200,210,240,270,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Alabama,AL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,191,222,242,264,322,190,220,240,260,320,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Alabama,AL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,69.46,84.85,94,103.96,125.38,70,80,90,100,130,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -79,7 +79,7 @@ Alaska,AK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,0,6,9
 Alaska,AK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,0,3.864861148611487,9,14.209197091970918,23.55125326253261,0,4,9,10,20,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Alaska,AK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,0,2.6519540195401934,9,15.408034080340805,27.656627316273152,0,3,9,20,30,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Alaska,AK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,3,7,9.76723670959473,12.3709778084045,18.005,3,7,10,10,20,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Alaska,AK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,2.5,6,9.75810014418089,14.1834982736775,25.115,2,6,10,10,30,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
+Alaska,AK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,2.5,6,9.75810014418089,14.1834982736775,25.115,3,6,10,10,30,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Alaska,AK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,2.35538182640487,5.76949476450452,10.2365104390193,16.105,29.065936050415,2,6,10,20,30,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Alaska,AK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,3,7,9,12,17,3,7,9,10,20,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Alaska,AK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,3,6,8,11,16,3,6,8,10,20,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
@@ -145,7 +145,7 @@ Arkansas,AR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,28.
 Arkansas,AR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,23.6635009678303,46.1120395167573,61.171539910686,89.4235605233545,137.005,20,50,60,90,140,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Arkansas,AR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,19.6138074362364,41.8931183233741,67.0932867052079,91,170.285939941406,20,40,70,90,170,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Arkansas,AR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,32,48,57,68,91,30,50,60,70,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Arkansas,AR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,30,45,54,64,86,30,40,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Arkansas,AR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,30,45,54,64,86,30,50,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Arkansas,AR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,27,41,49,58,78,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Arkansas,AR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,26,47,59,77,118,30,50,60,80,120,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Arkansas,AR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,36,48,55,92,123,40,50,60,90,120,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -164,7 +164,7 @@ Arkansas,AR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,15.2415159
 Arkansas,AR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,13.502436032158768,37.87305166779567,54.671778534679135,70.66913855462573,108.26984225508805,10,40,50,70,110,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,509,652,746,849,1070,510,650,750,850,1100,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 California,CA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,370,584,744,944,1430,370,580,740,940,1400,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,265,518,735,1038,1864,260,520,740,1000,1900,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,265,518,735,1038,1864,270,520,740,1000,1900,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,259.63575444904654,621.820291848104,819.1758554053293,1301.7043786085633,2239.9644546530544,260,620,820,1300,2200,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 California,CA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,265.8441456160155,613.8852839957749,890.4447264733402,1688.9742556930476,2978.4332825882757,270,610,890,1700,3000,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,311.3748022239132,611.6071743462617,909.0239032964835,2023.4638871110924,3593.171515788006,310,610,910,2000,3600,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -180,7 +180,7 @@ California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,3
 California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,446,617,723,840,1096,450,620,720,840,1100,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 California,CA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,406,563,660,767,1000,410,560,660,770,1000,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,356,494,579,672,878,360,490,580,670,880,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,542,845,984,1078,1199,540,840,980,1100,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,542,845,984,1078,1199,540,850,980,1100,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 California,CA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,648,840,1006,1136,1288,650,840,1000,1100,1300,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 California,CA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,728,893,1033,1151,1445,730,890,1000,1200,1400,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 California,CA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,578.14,859.62,1048.18,1270.03,1801.22,580,860,1000,1300,1800,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -210,7 +210,7 @@ Colorado,CO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,97.
 Colorado,CO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,89.9333960353636,137.835,155.97,175.950131297112,226.498043402081,90,140,160,180,230,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Colorado,CO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,78,121.476131812864,150.741000947002,185.665879140973,272.944655955419,80,120,150,190,270,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Colorado,CO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,62.5840987968941,109.641203898983,147.632314971044,193.224306192161,310.128297057761,60,110,150,190,310,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Colorado,CO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,88,125,147,172,227,90,120,150,170,230,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Colorado,CO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,88,125,147,172,227,90,130,150,170,230,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Colorado,CO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,76,108,128,150,198,80,110,130,150,200,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Colorado,CO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,64,91,108,127,168,60,90,110,130,170,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Colorado,CO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,140,176,201,223,278,140,180,200,220,280,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -229,8 +229,8 @@ Colorado,CO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,64.1210394
 Colorado,CO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,55.05608422082724,98.71072422093923,131.7557491331994,146.80121237593028,207.53981578162902,60,100,130,150,210,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Colorado,CO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,38.95093727204209,74.76338443217529,119.86831273599394,138.09053498971818,213.10370140318588,40,70,120,140,210,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Connecticut,CT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,82,100,112,126,152,80,100,110,130,150,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Connecticut,CT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,66,97,119,145,205,70,100,120,140,200,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Connecticut,CT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,54,92,125,166,272,50,90,120,170,270,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Connecticut,CT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,66,97,119,145,205,70,100,120,150,210,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Connecticut,CT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,54,92,125,166,272,50,90,130,170,270,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Connecticut,CT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,58.29254224760126,97.12578257614294,116.49701601920285,166.26872288970378,289.4001572705301,60,100,120,170,290,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Connecticut,CT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,56.98570488850349,100.31496792724988,129.8242718623026,219.5792994810898,388.14804839757073,60,100,130,220,390,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Connecticut,CT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,57.00024024949002,101.81062590167205,135.85118398962695,262.6678978345453,477.851822770007,60,100,140,260,480,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -262,8 +262,8 @@ Connecticut,CT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,54.1423
 Connecticut,CT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,45.574942631287115,93.6327858728183,109.55402186195934,131.98601136645485,188.69513111231026,50,90,110,130,190,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Connecticut,CT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,38.62773312182726,91.6393957248804,113.52522058761782,134.6157612669774,197.0986877050215,40,90,110,130,200,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Delaware,DE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,31,37,40,44,52,30,40,40,40,50,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,28,38,45,53,71,30,40,40,50,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,25,40,50,63,95,20,40,50,60,100,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,28,38,45,53,71,30,40,50,50,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,25,40,50,63,95,30,40,50,60,100,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Delaware,DE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,23.38333416030099,34.562583791115806,39.95298793570343,49.333181274559315,76.31239177245594,20,30,40,50,80,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,24.014349657294378,35.742920092955686,44.960624775242394,59.42112914930619,96.9224678989979,20,40,40,60,100,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,24.04404571210616,36.515609779330035,49.26853137135948,68.81077233242283,113.78341176311294,20,40,50,70,110,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -278,7 +278,7 @@ Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,20.
 Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,19.1255287663909,35.6914901184432,49.6342656856797,64.7991203496456,97.6594562530518,20,40,50,60,100,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Delaware,DE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,21,32,39,47,64,20,30,40,50,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,21,32,39,47,64,20,30,40,50,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,20,31,38,45,61,20,30,40,40,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,20,31,38,45,61,20,30,40,50,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Delaware,DE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,11,18,29,43,59,10,20,30,40,60,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Delaware,DE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,10,18,31,46,61,10,20,30,50,60,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Delaware,DE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,15,21,33,53,69,20,20,30,50,70,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -308,8 +308,8 @@ District of Columbia,DC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-
 District of Columbia,DC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,0,1.4065790657906654,11,20.272095220952217,36.65388678886787,0,1,10,20,40,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 District of Columbia,DC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,4.87960692645603,10.4120801035436,13.4771229289311,19.4740947395325,26.7079249183292,5,10,10,20,30,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 District of Columbia,DC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,4.31175740229639,10,13.141700700736,22.7499076868184,41.9941122735365,4,10,10,20,40,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-District of Columbia,DC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,4,8.5,12.4686208575355,26.4426811339133,54.6792806533668,4,8,10,30,50,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-District of Columbia,DC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,6,11,14,18,25,6,10,10,20,20,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+District of Columbia,DC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,4,8.5,12.4686208575355,26.4426811339133,54.6792806533668,4,9,10,30,50,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
+District of Columbia,DC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,6,11,14,18,25,6,10,10,20,30,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 District of Columbia,DC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,5,10,13,16,23,5,10,10,20,20,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 District of Columbia,DC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,4,9,12,15,21,4,9,10,20,20,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 District of Columbia,DC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,6,10,12,15,19,6,10,10,20,20,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -361,7 +361,7 @@ Florida,FL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,194.9548059
 Florida,FL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,177.2468675515187,346.87576023511457,419.0426461447153,474.6040477918273,647.498470508149,180,350,420,470,650,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Florida,FL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,154.52664119175012,337.3050005298106,425.5726105542133,497.1620764148812,733.9391657465534,150,340,430,500,730,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,113,153,180,212,280,110,150,180,210,280,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,85,149,201,267,436,80,150,200,270,440,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,85,149,201,267,436,90,150,200,270,440,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,63,142,219,330,655,60,140,220,330,660,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,29.20169867264343,139.5309714571389,192.59322433810385,343.92702294760375,637.1152829352549,30,140,190,340,640,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,36.03174057345732,149.51590876406914,226.65685910347514,482.6425965552562,879.499304663872,40,150,230,480,880,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -377,8 +377,8 @@ Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,91.5
 Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,80.635048567788,156.140911876073,212.379836642571,264.70874618001,392.695329614532,80,160,210,260,390,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,109,154,181,212,279,110,150,180,210,280,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,112,159,187,218,287,110,160,190,220,290,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,111,157,185,216,284,110,160,180,220,280,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,119,165,189,215,249,120,160,190,220,250,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,111,157,185,216,284,110,160,190,220,280,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,119,165,189,215,249,120,170,190,220,250,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,132,176,210,238,279,130,180,210,240,280,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,134,188,223,258,297,130,190,220,260,300,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,120.15,161.77,188.04,217.76,285.27,120,160,190,220,290,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -394,7 +394,7 @@ Georgia,GA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,94.18017133
 Georgia,GA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,82.63843692763027,138.28472036347569,168.5852179807365,199.18643796578274,294.67690691765824,80,140,170,200,290,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Georgia,GA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,75.5187309381532,132.82149131599454,168.50197363139887,208.10608507896765,325.0232843312156,80,130,170,210,330,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Hawaii,HI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,7,11,15,18,26,7,10,20,20,30,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Hawaii,HI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,5,11,17,25,50,5,10,20,20,50,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Hawaii,HI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,5,11,17,25,50,5,10,20,30,50,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Hawaii,HI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,3,11,20,35,90,3,10,20,40,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Hawaii,HI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,2.2849534079893727,7.453150298686436,13.735659857814591,28.293059380250618,57.550527242576045,2,7,10,30,60,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Hawaii,HI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,3.7558183549706907,6.554224668133028,15.077774784660273,37.82634661521875,77.19499514237567,4,7,20,40,80,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -424,8 +424,8 @@ Hawaii,HI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,5.7439697765
 Hawaii,HI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,5.1888609633307885,10.02097181433848,14.174351048017733,20.668461779750906,31.811295239104457,5,10,10,20,30,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Hawaii,HI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,5.396576727533659,10.110432397406216,14.634714871663205,21.457948254775392,36.560710080879495,5,10,10,20,40,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,32,42,49,57,73,30,40,50,60,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,27,45,58,76,119,30,40,60,80,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,22,46,68,99,185,20,50,70,100,180,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,27,45,58,76,119,30,50,60,80,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,22,46,68,99,185,20,50,70,100,190,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,17.44186291076949,36.8822752013963,46.52922661534129,63.2621844591695,101.17533029690725,20,40,50,60,100,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,18.052845753765105,38.58892020587009,53.14747117698517,79.20149603842054,128.35338041374206,20,40,50,80,130,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,18.412676645665794,39.893964220760104,56.80495952816868,95.04005795414342,150.57006862306065,20,40,60,100,150,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -439,10 +439,10 @@ Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,20.224
 Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,19.0264228768826,34.794460102935,44.8034756088257,55.6034575128555,73.749385783847,20,30,40,60,70,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,18.7063383228329,38.404894376564,48.3408892059326,59.0153852288958,82.9116152186883,20,40,50,60,80,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,21,32,39,47,64,20,30,40,50,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,20,31,38,45,61,20,30,40,40,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,20,31,38,45,61,20,30,40,50,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,19,30,36,43,59,20,30,40,40,60,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,31,41,48,56,67,30,40,50,60,70,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,35,45,54,60,69,40,40,50,60,70,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,35,45,54,60,69,40,50,50,60,70,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Idaho,ID,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,35,50,58,67,76,40,50,60,70,80,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Idaho,ID,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,33.45,42.4,47.85,53.87,67.09,30,40,50,50,70,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Idaho,ID,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,29.43,40.3,47.23,55.13,73.22,30,40,50,60,70,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -472,8 +472,8 @@ Illinois,IL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,340
 Illinois,IL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,338.68659821357,498.029246544272,597.152247018486,696.007065339821,915.905,340,500,600,700,920,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Illinois,IL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,332.739335670052,530.414806024308,645.771174094444,771.997337640943,1064.70377703953,330,530,650,770,1100,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Illinois,IL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,319,443,519,603,788,320,440,520,600,790,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Illinois,IL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,310,431,505,588,767,310,430,500,590,770,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Illinois,IL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,301,418,490,570,745,300,420,490,570,740,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Illinois,IL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,310,431,505,588,767,310,430,510,590,770,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Illinois,IL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,301,418,490,570,745,300,420,490,570,750,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Illinois,IL,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,331,455,542,631,880,330,460,540,630,880,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Illinois,IL,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,355,492,599,703,984,360,490,600,700,980,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Illinois,IL,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,374,539,660,792,1192,370,540,660,790,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -504,8 +504,8 @@ Indiana,IN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,199.
 Indiana,IN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,240.259919746304,325.470258647156,373.029194415545,422.429249988773,519.378387451172,240,330,370,420,520,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Indiana,IN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,236.21,325.053415059911,391.685,461.645,595.805,240,330,390,460,600,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Indiana,IN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,225.565,326.857781329745,410.241821145938,493.348143255773,639.67,230,330,410,490,640,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Indiana,IN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,211,294,345,402,526,210,290,340,400,530,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Indiana,IN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,194,271,318,371,485,190,270,320,370,480,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Indiana,IN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,211,294,345,402,526,210,290,350,400,530,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Indiana,IN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,194,271,318,371,485,190,270,320,370,490,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Indiana,IN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,178,249,293,341,447,180,250,290,340,450,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Indiana,IN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,174,291,347,429,506,170,290,350,430,510,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Indiana,IN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,224,311,388,463,583,220,310,390,460,580,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -524,7 +524,7 @@ Indiana,IN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,185.6002630
 Indiana,IN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,159.5388784226112,287.7827305952581,334.35127122214044,402.7427491537196,524.0873251233637,160,290,330,400,520,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,67,79,86,95,111,70,80,90,100,110,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Iowa,IA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,55,75,88,104,137,60,80,90,100,140,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,45,70,89,112,166,40,70,90,110,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,45,70,89,112,166,50,70,90,110,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,45.45522836453145,80.29955500206778,97.8172500853442,132.7581350489315,205.22934529088832,50,80,100,130,210,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Iowa,IA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,45.31470434927142,83.27026589557192,109.74482408053606,169.19628092087663,260.5444683959002,50,80,110,170,260,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,46.584976420302546,85.60748141750732,115.55239142526385,197.35254845326997,308.93087614440844,50,90,120,200,310,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -537,10 +537,10 @@ Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,41.0499
 Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,45.6188326647876,70.466214115165,85.8822080823017,100.363659844599,136.660167936577,50,70,90,100,140,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Iowa,IA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,43.5202488213619,70.6699792079598,88.2362958720058,107.174518106574,158.974522589437,40,70,90,110,160,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,43.5,68.5477713696406,89.3883925257926,118.61166109923,188.695389535281,40,70,90,120,190,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,49,71,85,100,133,50,70,80,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,49,71,85,100,133,50,70,90,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Iowa,IA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,50,72,86,101,134,50,70,90,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,49,71,85,100,133,50,70,80,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,37,53,72,84,105,40,50,70,80,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,49,71,85,100,133,50,70,90,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,37,53,72,84,105,40,50,70,80,110,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Iowa,IA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,40,57,72,83,141,40,60,70,80,140,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Iowa,IA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,42,60,66,84,153,40,60,70,80,150,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Iowa,IA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,66.79,92.01,108.15,126.59,168.97,70,90,110,130,170,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -573,7 +573,7 @@ Kansas,KS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,64.5,
 Kansas,KS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,69,99,118,138,182,70,100,120,140,180,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Kansas,KS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,68,97,116,136,179,70,100,120,140,180,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Kansas,KS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,66,95,113,132,175,70,100,110,130,180,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Kansas,KS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,88,110,125,148,190,90,110,120,150,190,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Kansas,KS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,88,110,125,148,190,90,110,130,150,190,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Kansas,KS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,100,120,139,161,226,100,120,140,160,230,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Kansas,KS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,101,133,148,180,242,100,130,150,180,240,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Kansas,KS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,58.41,75.1,85.34,96.72,121.91,60,80,90,100,120,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -590,7 +590,7 @@ Kansas,KS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,62.555017919
 Kansas,KS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,56.16289206632517,105.33101268756067,125.47677412296675,144.37763749999988,194.21526139243358,60,110,130,140,190,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,173,200,217,235,269,170,200,220,240,270,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Kentucky,KY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,168,220,254,293,374,170,220,250,290,370,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,162,237,291,357,505,160,240,290,360,500,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,162,237,291,357,505,160,240,290,360,510,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,123.57904591630815,181.4115035761971,206.95143755359783,249.98369641712415,352.10456461338293,120,180,210,250,350,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Kentucky,KY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,123.04545138212745,192.31054420271064,234.75502979171847,304.35285019556005,435.42453683730633,120,190,230,300,440,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,121.10389207810732,198.18460532589847,254.49539336630485,358.8987391112619,502.49828175997334,120,200,250,360,500,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -609,7 +609,7 @@ Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,91,1
 Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,120,173,211,289,357,120,170,210,290,360,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Kentucky,KY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,96,164,240,322,395,100,160,240,320,400,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,115,182,237,322,419,120,180,240,320,420,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,113.63,145.49,165,186.64,234.43,110,150,160,190,230,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
+Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,113.63,145.49,165,186.64,234.43,110,150,170,190,230,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Kentucky,KY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,103.51,140.96,164.75,191.81,253.63,100,140,160,190,250,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Kentucky,KY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,94.45,135.24,161.95,192.93,265.63,90,140,160,190,270,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Kentucky,KY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UM-DeepOutbreak,116.83334350585938,179.932361941576,226.2394866943359,266.74201549983025,329.8410339355469,120,180,230,270,330,"University of Michigan, Computer Science and Engineering",2024-12-25,DeepOutbreak
@@ -639,8 +639,8 @@ Louisiana,LA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,57
 Louisiana,LA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,74,106,126,147,195,70,110,130,150,200,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Louisiana,LA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,79,113,134,157,207,80,110,130,160,210,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Louisiana,LA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,82,117,138,162,213,80,120,140,160,210,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Louisiana,LA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,59,86,116,140,165,60,90,120,140,160,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Louisiana,LA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,66,99,125,161,210,70,100,120,160,210,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Louisiana,LA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,59,86,116,140,165,60,90,120,140,170,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Louisiana,LA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,66,99,125,161,210,70,100,130,160,210,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Louisiana,LA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,71,107,143,178,236,70,110,140,180,240,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Louisiana,LA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,79.3,109.14,128.22,150.01,200.07,80,110,130,150,200,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Louisiana,LA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,78.05,115.02,139.65,168.54,237.38,80,120,140,170,240,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -663,13 +663,13 @@ Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,7.5643276
 Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-climate_baseline,5.785099046624871,35.81997112791485,96.57325819383404,131.621080227225,181.7245867871312,6,40,100,130,180,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Maine,ME,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-climate_baseline,5.816894479333965,27.428750003951976,88.58831448545223,130.73781016214812,182.89380578507405,6,30,90,130,180,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-climate_baseline,5.921987772448998,20.095209625695936,71.22697049213605,127.92433710146413,185.40139917088155,6,20,70,130,190,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
-Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,0.10000000000000026,9.499999999999998,16,22.499999999999996,31.899999999999995,0,9,20,20,30,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,0.10000000000000026,9.499999999999998,16,22.499999999999996,31.899999999999995,0,10,20,20,30,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Maine,ME,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,0,7.036557865578655,16,24.951857018570188,41.4619801198012,0,7,20,20,40,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,0,4.378681286812871,16,27.54690796907969,47.36059910599104,0,4,20,30,50,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,7.24671266160077,14.9016427802389,19.4113178253174,25.5,37.5,7,10,20,30,40,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Maine,ME,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,6.77268418571436,14.3666700315027,20,25.8457856586576,47.1638296221697,7,10,20,30,50,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,6.2821638181619,13.6021599494577,19.534856619498,30.2565453417301,53.1929779243386,6,10,20,30,50,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,10,16,20,25,35,10,20,20,20,40,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,10,16,20,25,35,10,20,20,30,40,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Maine,ME,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,9,15,19,24,34,9,20,20,20,30,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,8,15,18,23,32,8,20,20,20,30,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,7,11,18,26,31,7,10,20,30,30,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -687,7 +687,7 @@ Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,2.43110
 Maine,ME,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,5.900301472725609,13.803285560477848,17.757896392866442,23.740548039313218,33.11996354959805,6,10,20,20,30,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Maine,ME,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,4.838693415652899,13.733340063005437,17.783329186277058,25.172915361303883,34.609774499522494,5,10,20,30,30,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Maine,ME,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,3.795169058326739,12.204319898915404,18.069713238996023,25.218157542583853,36.37403363052922,4,10,20,30,40,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,58,77,90,105,136,60,80,90,100,140,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,58,77,90,105,136,60,80,90,110,140,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Maryland,MD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,44,74,97,128,203,40,70,100,130,200,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,33,69,104,154,297,30,70,100,150,300,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,15.170305529258982,57.17571232035215,86.49244655202156,151.26556429217663,311.1622692233224,20,60,90,150,310,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -707,7 +707,7 @@ Maryland,MD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,42,6
 Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,39,58,69,81,109,40,60,70,80,110,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,73,88,108,123,151,70,90,110,120,150,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Maryland,MD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,77,93,110,126,150,80,90,110,130,150,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,83,98,121,135,165,80,100,120,140,160,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,83,98,121,135,165,80,100,120,140,170,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,64.39,89.89,106.33,125.21,168.94,60,90,110,130,170,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Maryland,MD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,63.27,94.99,116.37,141.61,202.36,60,90,120,140,200,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,61.02,97.03,122.14,152.44,227.54,60,100,120,150,230,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -720,9 +720,9 @@ Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,36.5
 Maryland,MD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,24.2761316402087,63.81260095910161,74.09542415099824,89.84253768222472,118.691321652924,20,60,70,90,120,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Maryland,MD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,19.643322191361225,59.512732565802246,75.63844784382383,93.38409642514017,127.62740846767183,20,60,80,90,130,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Maryland,MD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,12.734220935417076,56.42145380711221,76.62966657660233,95.44883376574654,153.64448318174348,10,60,80,100,150,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Massachusetts,MA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,262,331,375,423,525,260,330,380,420,520,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Massachusetts,MA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,262,331,375,423,525,260,330,380,420,530,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Massachusetts,MA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,180,275,343,427,623,180,280,340,430,620,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,120,225,312,426,733,120,220,310,430,730,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,120,225,312,426,733,120,230,310,430,730,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Massachusetts,MA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,307.274004084063,382.81695956598776,419.2093164649841,491.16651709722794,697.59512978771,310,380,420,490,700,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Massachusetts,MA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,298.3999509244894,378.2958529937069,432.55779219628363,552.3322453278658,841.9959704325554,300,380,430,550,840,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,292.05767085564383,369.93335032430485,439.1180189644019,620.225529098515,971.2797192242228,290,370,440,620,970,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -737,7 +737,7 @@ Massachusetts,MA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensembl
 Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,143.41,280.84226695365,355.504345146322,428.688276902008,665.712771639033,140,280,360,430,670,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Massachusetts,MA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,188,262,308,359,470,190,260,310,360,470,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Massachusetts,MA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,149,209,246,286,375,150,210,250,290,380,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,112,157,186,217,285,110,160,190,220,280,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,112,157,186,217,285,110,160,190,220,290,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Massachusetts,MA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,283,371,515,623,926,280,370,520,620,930,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Massachusetts,MA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,226,427,600,736,1014,230,430,600,740,1000,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Massachusetts,MA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,272,440,658,822,1029,270,440,660,820,1000,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -768,11 +768,11 @@ Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,8.0
 Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,259.090915565873,375.618083414358,494.780639648438,602.908853012725,803,260,380,490,600,800,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,199.491478055335,315.25813347407,489.281696332063,628.48329961334,913.513807936565,200,320,490,630,910,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,146.752176153493,335.888514506726,472.497600985644,616.45565873354,1013.11056673523,150,340,470,620,1000,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,285,397,466,542,707,280,400,470,540,710,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,285,397,466,542,707,290,400,470,540,710,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,222,310,364,424,554,220,310,360,420,550,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,169,237,278,325,425,170,240,280,320,420,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,152,246,320,405,742,150,250,320,400,740,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,157,247,327,405,734,160,250,330,400,730,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,169,237,278,325,425,170,240,280,330,430,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,152,246,320,405,742,150,250,320,410,740,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,157,247,327,405,734,160,250,330,410,730,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,124,220,279,386,834,120,220,280,390,830,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,489.29,641.18,735.47,841.05,1077.26,490,640,740,840,1100,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,436.47,622.29,743.68,884.2,1213.29,440,620,740,880,1200,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -787,7 +787,7 @@ Michigan,MI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,80.3657961
 Michigan,MI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,73.704187342205,315.0656317103935,431.98255159967215,497.34220325793746,606.8916237496771,70,320,430,500,610,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Michigan,MI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,80.4913329462141,266.77477407034934,399.59054947085735,474.1034934000916,623.9469025626224,80,270,400,470,620,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Minnesota,MN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,375,420,448,477,532,380,420,450,480,530,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,364,445,498,556,668,360,440,500,560,670,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,364,445,498,556,668,360,450,500,560,670,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,338,448,521,606,780,340,450,520,610,780,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Minnesota,MN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,293.655341089308,385.0415553278243,417.09623069388505,451.8715142346169,537.4337541311975,290,390,420,450,540,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,289.5039847055214,409.49232782720543,465.7090780500367,509.0480142073223,605.2862571117158,290,410,470,510,610,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -806,7 +806,7 @@ Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,182
 Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,156,218,257,299,392,160,220,260,300,390,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Minnesota,MN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,219,317,414,457,551,220,320,410,460,550,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,263,343,391,461,578,260,340,390,460,580,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,233,367,414,465,581,230,370,410,460,580,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,233,367,414,465,581,230,370,410,470,580,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Minnesota,MN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,218.83,249.06,266.27,284.45,321.98,220,250,270,280,320,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,172.84,207.61,228.07,250.18,297.28,170,210,230,250,300,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,149.98,186.15,207.86,231.65,283.27,150,190,210,230,280,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -820,7 +820,7 @@ Minnesota,MN,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,73.520651
 Minnesota,MN,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,68.35775877726611,312.4848977880242,363.38290798981427,403.9435825235931,531.4243768290615,70,310,360,400,530,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Minnesota,MN,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,72.9977471750959,292.3242738368559,356.2167382724772,398.57389977679924,541.0613449225635,70,290,360,400,540,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Mississippi,MS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,37,50,59,70,91,40,50,60,70,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,26,45,61,81,131,30,40,60,80,130,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,26,45,61,81,131,30,50,60,80,130,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Mississippi,MS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,18,40,62,92,183,20,40,60,90,180,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Mississippi,MS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,17.242971593171198,47.79764805970374,60.86402836577743,86.9676518552577,181.8101113011007,20,50,60,90,180,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,16.135715826287232,47.40201894280307,65.95386526184159,107.05068322852544,244.14152602350617,20,50,70,110,240,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -839,7 +839,7 @@ Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,4
 Mississippi,MS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,42,61,73,86,114,40,60,70,90,110,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Mississippi,MS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,28,42,52,61,75,30,40,50,60,80,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,29,46,56,67,77,30,50,60,70,80,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Mississippi,MS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,33,46,58,68,85,30,50,60,70,80,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Mississippi,MS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,33,46,58,68,85,30,50,60,70,90,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Mississippi,MS,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,53.46,70.96,81.91,94.23,121.99,50,70,80,90,120,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Mississippi,MS,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,52.44,73.95,87.91,104,141.47,50,70,90,100,140,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Mississippi,MS,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,49.74,73.9,90.08,109.1,154.64,50,70,90,110,150,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -861,9 +861,9 @@ Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,93.848
 Missouri,MO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-climate_baseline,13.288030415154173,136.8366655410415,622.128923110271,762.7403148494071,1009.6191610550097,10,140,620,760,1000,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Missouri,MO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-climate_baseline,13.431676929855383,119.97771143514598,605.2550641751538,767.9670973168876,1014.9014994183086,10,120,610,770,1000,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-climate_baseline,13.906471074428529,87.57353749116132,395.7523421746135,753.1743915520926,1026.2303922644824,10,90,400,750,1000,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
-Missouri,MO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,141.875,172,185,198,228.125,140,170,180,200,230,CovidHub-hub-models,2024-12-25,CovidHub baseline model
-Missouri,MO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,126.45320828208283,164.32227072270723,185,205.63150631506315,242.77964454644538,130,160,180,210,240,CovidHub-hub-models,2024-12-25,CovidHub baseline model
-Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,113.68216182161824,159.8559985599856,185,210.1011085110851,257.33926589265894,110,160,180,210,260,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Missouri,MO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,141.875,172,185,198,228.125,140,170,190,200,230,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Missouri,MO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,126.45320828208283,164.32227072270723,185,205.63150631506315,242.77964454644538,130,160,190,210,240,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,113.68216182161824,159.8559985599856,185,210.1011085110851,257.33926589265894,110,160,190,210,260,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Missouri,MO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,102.123919858895,159.888975531841,194.047884130553,224.675204589422,282.478497705333,100,160,190,220,280,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Missouri,MO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,92.83918334642,160.07548257382,202.63593959223,244.506466691772,337.5122516267,90,160,200,240,340,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,85.8388600104682,155.562907938337,204.435643031625,253.414691470346,382.020645457523,90,160,200,250,380,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
@@ -885,7 +885,7 @@ Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,88.6
 Missouri,MO,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,86.86638042812748,159.17795531677967,186.8756084937314,214.19182584067184,257.9759400415481,90,160,190,210,260,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Missouri,MO,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,70.83356416457359,149.64569491649874,181.10767147404113,222.26150684180732,277.93742195073975,70,150,180,220,280,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Missouri,MO,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,58.293439938470975,130.55294323726972,168.9469032647717,222.4030063361904,301.91091570509167,60,130,170,220,300,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Montana,MT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,13,20,25,30,43,10,20,20,30,40,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Montana,MT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,13,20,25,30,43,10,20,30,30,40,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Montana,MT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,8,17,24,35,62,8,20,20,40,60,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Montana,MT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,5,14,23,37,78,5,10,20,40,80,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Montana,MT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,7.871953772440404,19.66113010006174,24.792467456799322,36.99208624624804,61.08789432730891,8,20,20,40,60,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -918,9 +918,9 @@ Montana,MT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,0.609
 Montana,MT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,7.944204215285467,14.978750797679085,20.612257017043614,26.712413670782972,39.086025184182326,8,10,20,30,40,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Montana,MT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,6.935382923327123,14.930456730493503,21.058321148804453,27.984636333455274,40.6909051658115,7,10,20,30,40,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Montana,MT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,6.384638583695556,14.777283784071848,21.927294650330715,29.07895363462443,43.80920080162515,6,10,20,30,40,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,44,57,65,75,94,40,60,60,80,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,32,51,65,83,125,30,50,60,80,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,23,45,64,90,162,20,40,60,90,160,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,44,57,65,75,94,40,60,70,80,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,32,51,65,83,125,30,50,70,80,130,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,23,45,64,90,162,20,50,60,90,160,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,42.34855356869228,66.26695692306525,77.2857485616772,97.6114678665376,144.95425247554513,40,70,80,100,140,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,41.74668321377347,68.63379754193397,86.1500946669605,119.69783271519093,182.93511334145416,40,70,90,120,180,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,41.96920657566722,70.3877682415332,91.57342716506511,137.56853728516353,214.08791653900903,40,70,90,140,210,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -936,7 +936,7 @@ Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,30.
 Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,38,56,67,79,106,40,60,70,80,110,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,36,53,63,74,100,40,50,60,70,100,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,32,48,57,68,91,30,50,60,70,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,53,68,77,85,102,50,70,80,80,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,53,68,77,85,102,50,70,80,90,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,54,73,86,93,115,50,70,90,90,120,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,53,77,87,102,119,50,80,90,100,120,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,41.79,54.03,61.57,69.97,88.62,40,50,60,70,90,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -952,7 +952,7 @@ Nebraska,NE,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,34.2358795
 Nebraska,NE,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,31.384957610033798,52.43092069136066,63.534876816279066,74.40965901214483,96.04277048483888,30,50,60,70,100,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Nebraska,NE,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,28.686555372212013,50.4687053395329,62.55153006653509,73.57029695953761,96.53513460843251,30,50,60,70,100,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,37,49,58,67,87,40,50,60,70,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,27,45,60,78,125,30,40,60,80,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,27,45,60,78,125,30,50,60,80,130,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Nevada,NV,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,19,41,62,90,174,20,40,60,90,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,18.83096038821949,50.06098193595087,65.24938764966201,98.445773576042,186.3732647174203,20,50,70,100,190,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,19.68052731566627,51.6296784422364,72.97440162223324,124.12868254106952,222.60456492111172,20,50,70,120,220,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -967,9 +967,9 @@ Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,32.64
 Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,27.8719502099194,48.0396288128164,62.9892044292159,81.2399110709239,116,30,50,60,80,120,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Nevada,NV,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,22.9128050626578,45.4066462844929,65.1426009411535,91,133.903749697034,20,50,70,90,130,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,32,48,57,68,91,30,50,60,70,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,30,44,53,63,85,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,30,44,53,63,85,30,40,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Nevada,NV,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,26,40,48,57,77,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,45,64,74,85,95,40,60,70,80,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,45,64,74,85,95,50,60,70,90,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nevada,NV,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,54,68,78,91,107,50,70,80,90,110,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nevada,NV,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,51,72,83,92,116,50,70,80,90,120,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Nevada,NV,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,24.31,29.48,32.55,35.87,42.99,20,30,30,40,40,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1017,8 +1017,8 @@ New Hampshire,NH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled
 New Hampshire,NH,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,9.968219600567062,29.588334157541492,39.57873822397409,48.27273101275408,62.18130692844043,10,30,40,50,60,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 New Hampshire,NH,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,8.946451883132049,28.75700733250776,38.99889177726299,48.038942331200055,63.35326761232812,9,30,40,50,60,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 New Hampshire,NH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,8.396027180838447,26.2693970265135,37.34299361546155,49.2553010407662,68.76317964087012,8,30,40,50,70,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-New Jersey,NJ,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,216,282,325,374,479,220,280,320,370,480,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,175,284,365,465,700,180,280,360,460,700,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+New Jersey,NJ,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,216,282,325,374,479,220,280,330,370,480,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,175,284,365,465,700,180,280,370,470,700,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,140,273,386,534,918,140,270,390,530,920,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 New Jersey,NJ,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,156.60998868518203,251.6667963608343,300.24062348471153,421.15381342191444,672.9864535158571,160,250,300,420,670,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,156.75910335770953,257.05446723105916,334.22848324495885,540.6734482078031,883.8828888667973,160,260,330,540,880,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1034,7 +1034,7 @@ New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,1
 New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,148.350696851319,256.323501345732,371.423757809724,526.13,883.473037152116,150,260,370,530,880,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 New Jersey,NJ,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,184,257,302,352,460,180,260,300,350,460,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,183,256,301,351,459,180,260,300,350,460,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,175,245,288,336,440,180,240,290,340,440,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,175,245,288,336,440,180,250,290,340,440,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New Jersey,NJ,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,194,286,370,460,690,190,290,370,460,690,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,152,303,378,578,838,150,300,380,580,840,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,166,342,431,641,938,170,340,430,640,940,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -1052,7 +1052,7 @@ New Jersey,NJ,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,150.8867
 New Jersey,NJ,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,134.5376262835718,243.31659896082743,308.25934915054427,352.6787528851138,512.871533897782,130,240,310,350,510,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,58,75,86,97,122,60,80,90,100,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 New Mexico,NM,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,37,57,73,92,136,40,60,70,90,140,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,23,43,61,85,147,20,40,60,80,150,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,23,43,61,85,147,20,40,60,90,150,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,57.99716047243818,85.05464120569972,92.21652895265939,107.36988152866844,148.07216068981694,60,90,90,110,150,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 New Mexico,NM,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,47.858842090150716,78.20239851614211,85.14076070628519,107.71634797384453,155.62328361145487,50,80,90,110,160,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,41.993159758280484,73.6918255130719,78.61044549250964,109.58383908804105,162.40994151283917,40,70,80,110,160,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1065,7 +1065,7 @@ New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,0
 New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,57.9971604724382,75,86,97,122,60,80,90,100,120,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 New Mexico,NM,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,37,57.7945016392087,73,92,130,40,60,70,90,130,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,23,51.6162883329238,66,85.9320751001489,132.87,20,50,70,90,130,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,59,85,101,119,157,60,80,100,120,160,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,59,85,101,119,157,60,90,100,120,160,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New Mexico,NM,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,48,70,83,98,130,50,70,80,100,130,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New Mexico,NM,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,37,55,66,78,104,40,60,70,80,100,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New Mexico,NM,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,80.05,96.92,106.89,117.71,140.85,80,100,110,120,140,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1095,12 +1095,12 @@ New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,412
 New York,NY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,366.765,538.240547446672,640.525734769415,750,922.5,370,540,640,750,920,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 New York,NY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,352.825,540.286681457306,700.109755173465,880.31269512508,1144.49741093154,350,540,700,880,1100,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,346.295592887171,584.764841861024,760.65720219693,1045.63908190316,1383.18531947182,350,580,760,1000,1400,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-New York,NY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,385,534,625,727,949,380,530,620,730,950,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+New York,NY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,385,534,625,727,949,390,530,630,730,950,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New York,NY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,388,538,630,733,956,390,540,630,730,960,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,376,522,612,711,928,380,520,610,710,930,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 New York,NY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,550,746,803,908,1066,550,750,800,910,1100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 New York,NY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,710,816,958,1065,1230,710,820,960,1100,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,802,905,1080,1239,1534,800,900,1100,1200,1500,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,802,905,1080,1239,1534,800,910,1100,1200,1500,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 New York,NY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,348.53,466.22,540.2,623.72,812.71,350,470,540,620,810,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 New York,NY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,317.65,462.63,558.56,670.52,935.71,320,460,560,670,940,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 New York,NY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,282.6,443.33,554.5,687.98,1016.52,280,440,550,690,1000,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1128,11 +1128,11 @@ North Carolina,NC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseli
 North Carolina,NC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,122.170884613601,197.510588767474,226.503737263113,268.050722279798,354.420384112788,120,200,230,270,350,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 North Carolina,NC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,109.7839081769,184.386559774542,242.542428970337,297.572668105898,450.175712478943,110,180,240,300,450,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 North Carolina,NC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,100.388986922598,176.174150323844,252.215599511482,322.887352263551,506.783252906403,100,180,250,320,510,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-North Carolina,NC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,131,185,218,254,333,130,180,220,250,330,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+North Carolina,NC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,131,185,218,254,333,130,190,220,250,330,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 North Carolina,NC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,122,172,203,236,311,120,170,200,240,310,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 North Carolina,NC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,111,156,184,215,283,110,160,180,220,280,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 North Carolina,NC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,55,144,224,306,440,60,140,220,310,440,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-North Carolina,NC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,45,151,241,336,484,40,150,240,340,480,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+North Carolina,NC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,45,151,241,336,484,50,150,240,340,480,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 North Carolina,NC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,57,150,267,358,522,60,150,270,360,520,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 North Carolina,NC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,141.32,167.57,182.9,199.37,234.2,140,170,180,200,230,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 North Carolina,NC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,120,151.56,170.72,191.85,238.17,120,150,170,190,240,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1167,7 +1167,7 @@ North Dakota,ND,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,
 North Dakota,ND,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,11,21,24,29,33,10,20,20,30,30,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 North Dakota,ND,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,13,23,27,33,41,10,20,30,30,40,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 North Dakota,ND,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,15,27,30,35,46,20,30,30,40,50,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-North Dakota,ND,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,6.18,8.5,9.98,11.67,15.56,6,8,10,10,20,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
+North Dakota,ND,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,6.18,8.5,9.98,11.67,15.56,6,9,10,10,20,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 North Dakota,ND,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,4.96,7.63,9.46,11.63,16.93,5,8,9,10,20,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 North Dakota,ND,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,3.89,6.58,8.53,10.94,17.08,4,7,9,10,20,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 North Dakota,ND,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UM-DeepOutbreak,10.066077947616575,16.90104457247257,22.740073204040527,26.745401655554772,33.58036828041077,10,20,20,30,30,"University of Michigan, Computer Science and Engineering",2024-12-25,DeepOutbreak
@@ -1194,9 +1194,9 @@ Ohio,OH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,394.787
 Ohio,OH,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,406.831472103722,597.875688392998,673.834035871883,778.830131755876,945.228644707002,410,600,670,780,950,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Ohio,OH,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,442.175541791857,617.395005209184,742.170880773619,895.610588636098,1102.58721974013,440,620,740,900,1100,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Ohio,OH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,412.652910058978,623.748308616826,785.021594744811,956.933511451455,1254.35623168945,410,620,790,960,1300,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Ohio,OH,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,362,503,589,685,894,360,500,590,680,890,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Ohio,OH,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,362,503,589,685,894,360,500,590,690,890,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Ohio,OH,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,337,468,549,638,833,340,470,550,640,830,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Ohio,OH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,309,430,504,586,765,310,430,500,590,760,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Ohio,OH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,309,430,504,586,765,310,430,500,590,770,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Ohio,OH,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,362,599,729,873,1102,360,600,730,870,1100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Ohio,OH,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,462,633,794,953,1099,460,630,790,950,1100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Ohio,OH,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,440,667,873,1010,1222,440,670,870,1000,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -1221,7 +1221,7 @@ Oklahoma,OK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,85.644
 Oklahoma,OK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-climate_baseline,11.328568509145772,69.29186832317305,357.1112359514132,446.50538069938784,588.5899585714105,10,70,360,450,590,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Oklahoma,OK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-climate_baseline,11.420973919087679,59.807229890259414,349.7565635951455,452.558169539452,591.987998843587,10,60,350,450,590,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Oklahoma,OK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-climate_baseline,11.726401082834448,47.20506897139062,222.74549957019417,454.40495178512174,599.2756868868098,10,50,220,450,600,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
-Oklahoma,OK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,58.575,85,103,120.99999999999999,147.42499999999998,60,80,100,120,150,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Oklahoma,OK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,58.575,85,103,120.99999999999999,147.42499999999998,60,90,100,120,150,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Oklahoma,OK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,31.81800968009682,76.95423204232044,103,129.13779637796378,173.9015920159201,30,80,100,130,170,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Oklahoma,OK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,17.21798392983928,71.30602056020558,103,134.40964909649097,188.63674661746614,20,70,100,130,190,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Oklahoma,OK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,77.7718568273928,107.5,123.5,141,182.995,80,110,120,140,180,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
@@ -1246,7 +1246,7 @@ Oklahoma,OK,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,68.3384691
 Oklahoma,OK,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,62.66603817290033,91.62506743512552,108.44150233712553,131.41409618494873,165.1570107381083,60,90,110,130,170,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Oklahoma,OK,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,55.62541730930858,89.0487997443992,106.915750918529,131.17827221003546,169.95492044447337,60,90,110,130,170,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,53,68,77,88,110,50,70,80,90,110,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,45,70,89,112,168,40,70,90,110,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,45,70,89,112,168,50,70,90,110,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,38,71,100,139,242,40,70,100,140,240,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,10.230065605507997,50.358450762737675,69.30240685631301,109.71739679166974,199.7108806404499,10,50,70,110,200,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,16.75093867585257,49.264690972880956,75.44246796229169,139.0563789470302,258.906205766679,20,50,80,140,260,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1260,7 +1260,7 @@ Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,30.31
 Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,32.6857589341626,53.6211215832912,69.6512034281565,86,108.5,30,50,70,90,110,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,27.3601686650683,50.4239442558256,73.7212339811458,100,147.660240155255,30,50,70,100,150,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,23.2029433821967,50.7709007459214,75.4889940393721,116.343893641342,186.736580445247,20,50,80,120,190,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,30,45,54,64,86,30,40,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,30,45,54,64,86,30,50,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,26,39,48,57,76,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,23,35,43,51,69,20,40,40,50,70,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,41,62,70,84,107,40,60,70,80,110,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -1278,8 +1278,8 @@ Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,23.405
 Oregon,OR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,30.431944823991746,52.55208511223056,61.53466195418379,71.93874196135584,98.51652840395084,30,50,60,70,100,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Oregon,OR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,24.321744336570287,49.92770395905802,61.00101158973559,76.7068941342806,110.64067818011087,20,50,60,80,110,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Oregon,OR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,19.941850252763917,50.37302698617117,60.83463650496185,78.34747480918058,122.36378044329578,20,50,60,80,120,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,311,452,545,660,900,310,450,540,660,900,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,185,356,504,697,1193,180,360,500,700,1200,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,311,452,545,660,900,310,450,550,660,900,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,185,356,504,697,1193,190,360,500,700,1200,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,107,278,448,708,1460,110,280,450,710,1500,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,297.359109703348,417.54781258048007,470.18000260520614,604.5853835230076,906.4266072871893,300,420,470,600,910,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,238.8801866601129,342.1671018161564,397.49088865467536,629.5838776320636,1054.866297362622,240,340,400,630,1100,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1287,15 +1287,15 @@ Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,22
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-climate_baseline,53.22105764600169,617.5690787095068,1198.8643265592739,1521.6767103939114,4190.365456254211,50,620,1200,1500,4200,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-climate_baseline,53.52452132399444,519.4924193449643,1195.4670760496974,1547.3103503031848,4201.524779064536,50,520,1200,1500,4200,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
 Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-climate_baseline,54.52755838132429,393.87870814523666,1069.2848281679774,1575.5231293874872,4225.457886650451,50,390,1100,1600,4200,Carnegie Mellon Delphi Group,2024-12-25,climatological baseline
-Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,191.65000000000003,445,525,605,858.3499999999999,190,440,520,600,860,CovidHub-hub-models,2024-12-25,CovidHub baseline model
-Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,110.84184416844174,394.29352293522936,525,656.1638966389664,935.4704212042112,110,390,520,660,940,CovidHub-hub-models,2024-12-25,CovidHub baseline model
-Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,17.362269872698647,359.4726472264722,525,689.7102871028709,1032.7607906079054,20,360,520,690,1000,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-baseline,191.65000000000003,445,525,605,858.3499999999999,190,450,530,610,860,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,110.84184416844174,394.29352293522936,525,656.1638966389664,935.4704212042112,110,390,530,660,940,CovidHub-hub-models,2024-12-25,CovidHub baseline model
+Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,17.362269872698647,359.4726472264722,525,689.7102871028709,1032.7607906079054,20,360,530,690,1000,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,304.179554851674,457.888116817474,549.5,651.5,903.213303643595,300,460,550,650,900,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,219.069708352427,360.51505952639,492.354790502716,663.291938816032,1123.93314868131,220,360,490,660,1100,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,184.099680399362,305.116182064056,458.742227764413,702.237943004076,1285.29986444524,180,310,460,700,1300,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,340,472,554,643,840,340,470,550,640,840,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,281,390,458,533,696,280,390,460,530,700,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,223,311,365,425,556,220,310,360,420,560,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,223,311,365,425,556,220,310,370,430,560,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,404,651,807,994,1242,400,650,810,990,1200,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,420,617,791,997,1279,420,620,790,1000,1300,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,363,618,846,1113,1369,360,620,850,1100,1400,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -1311,7 +1311,7 @@ Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,
 Pennsylvania,PA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,100.28367878392376,420.6838483595209,470.9288181294918,572.3109955154632,666.9582519888645,100,420,470,570,670,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Pennsylvania,PA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,78.69556081245462,348.51758269389535,450.1295708634561,557.9995532768476,702.046463319494,80,350,450,560,700,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Pennsylvania,PA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,40.06027532785809,290.862806699155,401.7170181715247,547.3738386252809,717.73435846412394,40,290,400,550,720,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Puerto Rico,PR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,20,34,44,56,85,20,30,40,60,80,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Puerto Rico,PR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,20,34,44,56,85,20,30,40,60,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Puerto Rico,PR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,10,23,37,57,115,10,20,40,60,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Puerto Rico,PR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,4,16,30,56,148,4,20,30,60,150,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Puerto Rico,PR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,3.7700697512560644,46.111548113473575,59.54923030114865,85.73802268157677,145.64891390674336,4,50,60,90,150,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1339,7 +1339,7 @@ Puerto Rico,PR,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,1.14191
 Puerto Rico,PR,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,0.06423258491606948,17.551391088321022,26.425228934022364,39.39960514068517,74.61929241075272,0,20,30,40,70,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Puerto Rico,PR,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,0,16.21293828544401,29.534899688801566,45.386579096339766,76.11500935595957,0,20,30,50,80,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Rhode Island,RI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,32,38,43,47,57,30,40,40,50,60,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Rhode Island,RI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,25,36,43,52,72,20,40,40,50,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Rhode Island,RI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,25,36,43,52,72,30,40,40,50,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Rhode Island,RI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,20,33,44,57,90,20,30,40,60,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Rhode Island,RI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,26.08598139037598,39.89873070837221,45.04066922125422,54.71774602457652,74.29326552817128,30,40,50,50,70,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Rhode Island,RI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,25.227757235448216,41.101251741699855,49.43856136200708,64.19739994023816,88.82454246512602,30,40,50,60,90,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1389,9 +1389,9 @@ South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemb
 South Carolina,SC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,71,102,121,142,187,70,100,120,140,190,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 South Carolina,SC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,72,103,122,143,189,70,100,120,140,190,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,73,104,123,144,190,70,100,120,140,190,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-South Carolina,SC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,79,100,131,145,191,80,100,130,140,190,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+South Carolina,SC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,79,100,131,145,191,80,100,130,150,190,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 South Carolina,SC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,82,112,126,168,213,80,110,130,170,210,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,88,120,146,179,225,90,120,150,180,220,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,88,120,146,179,225,90,120,150,180,230,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 South Carolina,SC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,64.32,92.29,110.63,131.91,181.92,60,90,110,130,180,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 South Carolina,SC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,64.16,99.27,123.35,152.12,222.43,60,100,120,150,220,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,64.01,104.09,132.4,166.86,253.23,60,100,130,170,250,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1405,7 +1405,7 @@ South Carolina,SC,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,57.1
 South Carolina,SC,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,52.857886134446105,101.8423790111484,113.89927565051023,140.20039401840216,189.96456752376127,50,100,110,140,190,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 South Carolina,SC,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,43.89696502548342,97.1996512751276,115.61902724346153,139.47278917346597,203.0879884859396,40,100,120,140,200,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 South Dakota,SD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,19,27,32,38,51,20,30,30,40,50,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-South Dakota,SD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,13,24,33,45,74,10,20,30,40,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+South Dakota,SD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,13,24,33,45,74,10,20,30,50,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 South Dakota,SD,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,9,21,33,51,104,9,20,30,50,100,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 South Dakota,SD,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,16.386069818773173,26.66420090987637,31.154900416076945,41.51443160692936,62.92215209703105,20,30,30,40,60,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 South Dakota,SD,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,15.430173131553325,25.63297598717589,32.64922629204276,51.19401378333113,78.76320833894967,20,30,30,50,80,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1487,8 +1487,8 @@ Texas,TX,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,190.25
 Texas,TX,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,153.255892781945,359.9694378153,534.116321809416,734.5,1173.80774054879,150,360,530,730,1200,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Texas,TX,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,274,381,446,519,678,270,380,450,520,680,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Texas,TX,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,270,375,440,512,669,270,380,440,510,670,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Texas,TX,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,260,362,425,495,647,260,360,420,500,650,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Texas,TX,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,345,460,522,607,722,340,460,520,610,720,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Texas,TX,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,260,362,425,495,647,260,360,430,500,650,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Texas,TX,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,345,460,522,607,722,350,460,520,610,720,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Texas,TX,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,300,463,574,662,833,300,460,570,660,830,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Texas,TX,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,368,513,603,709,932,370,510,600,710,930,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Texas,TX,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,217.79,266.58,295.63,327.27,395.4,220,270,300,330,400,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1504,7 +1504,7 @@ Texas,TX,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,217.363944722
 Texas,TX,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,195.84170286076076,382.04161867574237,436.1155933006173,510.7239460601829,709.6662846983849,200,380,440,510,710,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Texas,TX,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,161.99178556388998,365.34462094207464,447.3792675294962,522.5119583800433,810.5051712641329,160,370,450,520,810,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,43,50,55,60,71,40,50,60,60,70,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,33,45,54,63,84,30,40,50,60,80,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,33,45,54,63,84,30,50,50,60,80,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Utah,UT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,26,41,52,66,98,30,40,50,70,100,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,13.673056325365488,43.03370482082311,58.37202232744289,89.11807566161852,154.4209857627194,10,40,60,90,150,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,17.9829132268879,39.682005125683624,60.121877114312305,110.01694985671058,194.66353666988573,20,40,60,110,190,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1519,10 +1519,10 @@ Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,25.5753
 Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,21.8829100728838,41.8410025628418,56.7169590887889,70.1422260003095,113.431175231934,20,40,60,70,110,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Utah,UT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,23.4117260820987,39.6947522072624,55.0177831744031,74.1933842382431,117.206748962402,20,40,60,70,120,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,33,48,58,69,92,30,50,60,70,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,29,44,53,63,85,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,29,44,53,63,85,30,40,50,60,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Utah,UT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,27,41,49,58,79,30,40,50,60,80,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,21,31,44,58,91,20,30,40,60,90,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,22,36,45,56,105,20,40,40,60,100,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,22,36,45,56,105,20,40,50,60,110,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Utah,UT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,22,34,44,54,90,20,30,40,50,90,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Utah,UT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,43.02,60.69,72.16,85.39,116.18,40,60,70,90,120,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,41.74,63.83,78.89,96.79,140.29,40,60,80,100,140,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1538,7 +1538,7 @@ Utah,UT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,17.32164792863
 Utah,UT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,13.879228292130906,33.11539964653107,43.36300605571829,57.98147164600352,94.07221114294703,10,30,40,60,90,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Vermont,VT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,6,10,12,15,22,6,10,10,20,20,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Vermont,VT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,3,7,11,17,32,3,7,10,20,30,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Vermont,VT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,2,6,10,18,45,2,6,10,20,40,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Vermont,VT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,2,6,10,18,45,2,6,10,20,50,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Vermont,VT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,2.126106487397887,8.45931659412304,10.965757281871333,17.141032054579203,31.268645979488376,2,8,10,20,30,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Vermont,VT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,3.0011550199870642,6.682907190388389,9.57632121005519,19.796722626340056,36.6559230389987,3,7,10,20,40,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Vermont,VT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,4.0425108514279025,5.331157683177517,7.989570513173458,23.689739523536627,43.311110478787484,4,5,8,20,40,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1569,8 +1569,8 @@ Vermont,VT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,0,4.4
 Vermont,VT,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,3.705870940625283,8.43110138829594,11.520337853987963,15.234779690230512,18.96312601266135,4,8,10,20,20,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Vermont,VT,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,3.2430719204677927,8.737397818340016,12.01513031996809,15.421084401894904,19.47705056051424,3,9,10,20,20,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Vermont,VT,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,3.0954254941453394,8.149730445162735,11.27642621353616,14.993684134973304,20.450380346892842,3,8,10,10,20,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Virginia,VA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,137,174,198,225,280,140,170,200,220,280,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Virginia,VA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,109,167,211,265,391,110,170,210,260,390,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Virginia,VA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,137,174,198,225,280,140,170,200,230,280,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Virginia,VA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,109,167,211,265,391,110,170,210,270,390,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Virginia,VA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,84,158,219,301,509,80,160,220,300,510,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Virginia,VA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,69.90534046604989,160.5994689325824,204.0161598403338,292.35161609165743,523.364021313766,70,160,200,290,520,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Virginia,VA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,71.12498943887564,166.80330374936324,233.66805990438434,374.4924081663634,696.2781911295743,70,170,230,370,700,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1602,9 +1602,9 @@ Virginia,VA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,99.5
 Virginia,VA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,95.24903380418198,157.9585977032177,184.08099217374487,202.39787635926933,261.3307909050804,100,160,180,200,260,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Virginia,VA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,81.29843938079324,166.42737614859988,185.8316736465231,215.4422687615364,294.4905406870815,80,170,190,220,290,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Virginia,VA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,73.11866307045067,163.55673196327317,191.3717415443808,228.7749525247187,312.7406696020842,70,160,190,230,310,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Washington,WA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,45,64,77,92,125,40,60,80,90,120,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Washington,WA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,45,64,77,92,125,50,60,80,90,130,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Washington,WA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,29,54,76,104,173,30,50,80,100,170,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
-Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,18,45,72,110,216,20,40,70,110,220,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,18,45,72,110,216,20,50,70,110,220,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Washington,WA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,12.69468645044383,42.876335010875806,75.04585622243515,140.6457084917089,282.36903599425443,10,40,80,140,280,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Washington,WA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CMU-TimeSeries,21.613205827694085,36.904846799375605,78.3814421726831,180.2203584534997,364.36870166351014,20,40,80,180,360,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
 Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CMU-TimeSeries,29.60906610499991,35.24296276753904,77.4115252602417,224.07599938991763,432.50766676684526,30,40,80,220,430,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1622,7 +1622,7 @@ Washington,WA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,36
 Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,33,49,59,70,94,30,50,60,70,90,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Washington,WA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,55,84,101,113,134,60,80,100,110,130,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Washington,WA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,66,78,101,114,132,70,80,100,110,130,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
-Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,67,85,107,122,148,70,80,110,120,150,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
+Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,NEU_ISI-AdaptiveEnsemble,67,85,107,122,148,70,90,110,120,150,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Washington,WA,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,OHT_JHU-nbxd,63.05,101.01,127.6,159.77,239.82,60,100,130,160,240,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Washington,WA,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,OHT_JHU-nbxd,69.99,120.97,158.3,204.77,324.8,70,120,160,200,320,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
 Washington,WA,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,OHT_JHU-nbxd,77.5,139.26,185.5,243.89,397.54,80,140,190,240,400,One Health Trust and Johns Hopkins University,2024-12-25,NBEATS exogenous covariate decoder
@@ -1684,7 +1684,7 @@ Wisconsin,WI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,17
 Wisconsin,WI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,151.810222792099,240.993977180652,289.050498046875,343.558265720367,454.544058227539,150,240,290,340,450,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Wisconsin,WI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,137.172608903658,246.049537670135,309.50577572838,385.907170826647,538.024490966797,140,250,310,390,540,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Wisconsin,WI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,156,218,257,299,392,160,220,260,300,390,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
-Wisconsin,WI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,148,208,245,285,374,150,210,240,280,370,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
+Wisconsin,WI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,148,208,245,285,374,150,210,250,290,370,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Wisconsin,WI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,134,189,222,259,340,130,190,220,260,340,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Wisconsin,WI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,NEU_ISI-AdaptiveEnsemble,64,113,167,244,331,60,110,170,240,330,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
 Wisconsin,WI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,NEU_ISI-AdaptiveEnsemble,48,93,167,283,379,50,90,170,280,380,MOBS Lab at Northeastern University and ISI Foundation,2024-12-25,Adaptive Ensemble
@@ -1701,7 +1701,7 @@ Wisconsin,WI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-ar6_pooled,140
 Wisconsin,WI,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,UMass-gbqr,169.52757815468607,248.29030113491328,266.33001011657683,297.49111399673853,365.3088536324778,170,250,270,300,370,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Wisconsin,WI,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,UMass-gbqr,145.56535597302752,245.50795436130363,269.755024840274,298.7547438823596,396.7511000135828,150,250,270,300,400,UMass-Amherst,2024-12-25,gradient boosting quantile regression
 Wisconsin,WI,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,UMass-gbqr,118.46015724141655,225.6982961371427,261.6797459607194,292.7321173251492,415.2465590659779,120,230,260,290,420,UMass-Amherst,2024-12-25,gradient boosting quantile regression
-Wyoming,WY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,17,25,32,39,57,20,20,30,40,60,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
+Wyoming,WY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CEPH-Rtrend_covid,17,25,32,39,57,20,30,30,40,60,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Wyoming,WY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CEPH-Rtrend_covid,9,18,28,40,75,9,20,30,40,80,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Wyoming,WY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CEPH-Rtrend_covid,4,13,24,40,91,4,10,20,40,90,CEPH Lab at Indiana University,2024-12-25,Rtrend COVID
 Wyoming,WY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CMU-TimeSeries,24.26208439150263,32.401443999723824,35.39866230501876,39.19813951621786,50.873360497071396,20,30,40,40,50,Carnegie Mellon Delphi Group,2024-12-25,AR ensemble with auxiliary data
@@ -1715,7 +1715,7 @@ Wyoming,WY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-baseline,0,4.
 Wyoming,WY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-baseline,0,1.3896538965389698,20,38.62186121861219,73.84940699406994,0,1,20,40,70,CovidHub-hub-models,2024-12-25,CovidHub baseline model
 Wyoming,WY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,CovidHub-ensemble,15,22.5,28.5,34,49.4366802485357,20,20,30,30,50,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Wyoming,WY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,CovidHub-ensemble,10,18,28.5,36.7881418768655,57.1220676891646,10,20,30,40,60,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
-Wyoming,WY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,6.29213233222114,16.3109024950781,25,35.3153204358048,65.3109895724209,6,20,20,40,70,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
+Wyoming,WY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,CovidHub-ensemble,6.29213233222114,16.3109024950781,25,35.3153204358048,65.3109895724209,6,20,30,40,70,CovidHub,2024-12-25,Ensemble model using CovidHub submissions
 Wyoming,WY,0,wk inc covid hosp,hosp,2024-12-28,2024-12-28,MOBS-GLEAM_COVID,15,24,29,35,48,20,20,30,40,50,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Wyoming,WY,1,wk inc covid hosp,hosp,2024-12-28,2025-01-04,MOBS-GLEAM_COVID,11,18,23,28,39,10,20,20,30,40,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
 Wyoming,WY,2,wk inc covid hosp,hosp,2024-12-28,2025-01-11,MOBS-GLEAM_COVID,8,14,18,22,31,8,10,20,20,30,MOBS Lab at Northeastern University,2024-12-25,GLEAM COVID-19 Forecasting Model
