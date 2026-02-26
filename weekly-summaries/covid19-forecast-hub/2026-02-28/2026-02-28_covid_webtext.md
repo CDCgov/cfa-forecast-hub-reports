@@ -1,0 +1,20 @@
+# COVID-19
+
+## Hospital Admissions
+
+* The CovidHub ensemble's one-week-ahead forecast predicts that new weekly laboratory-confirmed COVID-19 hospital admissions will be approximately 5600 nationally, with 3400 to 8200 likely reported in the week ending March 07, 2026.
+* This is compared to the 5700 reported for the week ending February 21, 2026, the most recent week of NHSN data.
+* Reported and forecasted data as of February 25, 2026.
+* The figure shows new weekly laboratory-confirmed COVID-19 hospital admissions reported in the United States each week from August 08, 2020 through February 21, 2026 and forecasted COVID-19 hospital admissions per week for this week and the next 2 weeks through March 14, 2026.
+* Contributing teams and models in the ensemble: [California Department of Public Health (Model: CovidCAT_Ensemble)](http://calcat.cdph.ca.gov/), [CEPH Lab at Indiana University (Model: Rtrend_covid)](https://github.com/CEPH-Lab), [Center for Forecasting and Outbreak Analytics (CFA/CDC) (Model: EpiAutoGP)](https://github.com/CDCgov/NowcastAutoGP), [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_HE_COVID)](https://github.com/cdcgov/pyrenew-hew), [Carnegie Mellon Delphi Group (Model: TimeSeries)](https://github.com/cmu-delphi/exploration-tooling/), [Google Science AI (Model: Ensemble)](https://ai.google/applied-ai/science/), [MOBS Lab at Northeastern University and ISI Foundation (Model: AdaptiveEnsemble)](https://www.isi.it/), [One Health Trust and Johns Hopkins University (Model: nbxd)](https://github.com/CDDEP-DC/nbeats-xd), [UGA_flucast (Model: INFLAenza)](https://thefoxlab.wordpress.com/), [University of Michigan, Computer Science and Engineering (Model: DeepOutbreak)](https://alrodri.engin.umich.edu/), [UMass-Amherst (Model: ar6_pooled)](https://github.com/reichlab/idmodels), [UMass-Amherst (Model: gbqr)](https://github.com/reichlab/idmodels)
+* Contributing teams and models not in the ensemble: [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_H_COVID)](https://github.com/cdcgov/pyrenew-hew), [CovidHub-hub-models (Model: baseline)](https://github.com/CDCgov/covid19-forecast-hub)
+* The following jurisdictions had <80% of hospitals reporting for the most recent week: Alaska, Arkansas, California, District of Columbia, Florida, Georgia, Hawaii, Iowa, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Missouri, Mississippi, Montana, Nebraska, Nevada, New York, Oklahoma, Oregon, Puerto Rico, Rhode Island, Texas, United States, Vermont, and Wyoming. Lower reporting rates could impact forecast validity. Percent of hospitals reporting is calculated based on the number of active hospitals reporting complete data to NHSN for a given reporting week.
+
+## ED Visits
+
+* The CovidHub ensemble's one-week-ahead forecast predicts that the proportion of emergency department visits due to COVID-19 will be approximately 0.49% nationally, with 0.28% to 0.79% likely reported in the week ending March 07, 2026.
+* This is compared to the 0.59% reported for the week ending February 21, 2026, the most recent week of NSSP data.
+* Reported and forecasted data as of February 25, 2026.
+* The figure shows the proportion of emergency department visits due to COVID-19 reported in the United States each week from October 01, 2022 through February 21, 2026 and forecasted COVID-19 ED visit proportions per week for this week and the next 2 weeks through March 14, 2026.
+* Contributing teams and models in the ensemble: [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_HE_COVID)](https://github.com/cdcgov/pyrenew-hew), [Carnegie Mellon Delphi Group (Model: TimeSeries)](https://github.com/cmu-delphi/exploration-tooling/), [UGA_flucast (Model: INFLAenza)](https://thefoxlab.wordpress.com/)
+* Contributing teams and models not in the ensemble: [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_E_COVID)](https://github.com/cdcgov/pyrenew-hew), [CovidHub-hub-models (Model: baseline)](https://github.com/CDCgov/covid19-forecast-hub)
