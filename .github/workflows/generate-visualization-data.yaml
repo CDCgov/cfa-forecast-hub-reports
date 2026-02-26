@@ -3,6 +3,13 @@ name: "Generate Weekly Visualization Data"
 on:
   workflow_dispatch:
     inputs:
+      disease:
+        description: "Disease to generate visualization data for."
+        required: true
+        type: choice
+        options:
+          - covid
+          - rsv
       reference_date:
         description: "Reference date (YYYY-MM-DD, must be Saturday). Leave empty for auto-calculation."
         required: false
@@ -17,33 +24,39 @@ jobs:
   update-visualization-data:
     if: ${{ github.repository_owner == 'CDCgov' }}
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        include:
-          - disease: covid
-            hub_repo: CDCgov/covid19-forecast-hub
-            hub_path: covid19-forecast-hub
-            event_type: covid-ensemble-added
-          - disease: rsv
-            hub_repo: CDCgov/rsv-forecast-hub
-            hub_path: rsv-forecast-hub
-            event_type: rsv-ensemble-added
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: "Check Dispatch Relevance"
-        id: check
+      - name: "Resolve Disease"
+        id: resolve
         run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]] || \
-             [[ "${{ github.event.action }}" == "${{ matrix.event_type }}" ]]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "disease=${{ inputs.disease }}" >> "$GITHUB_OUTPUT"
+          elif [[ "${{ github.event.action }}" == "covid-ensemble-added" ]]; then
+            echo "disease=covid" >> "$GITHUB_OUTPUT"
+          elif [[ "${{ github.event.action }}" == "rsv-ensemble-added" ]]; then
+            echo "disease=rsv" >> "$GITHUB_OUTPUT"
           else
-            echo "should_run=false" >> "$GITHUB_OUTPUT"
+            echo "::error::Unknown dispatch event: ${{ github.event.action }}"
+            exit 1
+          fi
+
+      - name: "Set Hub Variables"
+        id: hub
+        run: |
+          disease="${{ steps.resolve.outputs.disease }}"
+          if [[ "$disease" == "covid" ]]; then
+            echo "hub_repo=CDCgov/covid19-forecast-hub" >> "$GITHUB_OUTPUT"
+            echo "hub_path=covid19-forecast-hub" >> "$GITHUB_OUTPUT"
+          elif [[ "$disease" == "rsv" ]]; then
+            echo "hub_repo=CDCgov/rsv-forecast-hub" >> "$GITHUB_OUTPUT"
+            echo "hub_path=rsv-forecast-hub" >> "$GITHUB_OUTPUT"
+          else
+            echo "::error::Unknown disease: $disease"
+            exit 1
           fi
 
       - name: "Generate Installation Token"
-        if: steps.check.outputs.should_run == 'true'
         id: get_token
         uses: actions/create-github-app-token@v2
         with:
@@ -51,27 +64,23 @@ jobs:
           private-key: ${{ secrets.GH_APP_KEY }}
 
       - name: "Checkout Current Repository"
-        if: steps.check.outputs.should_run == 'true'
         uses: actions/checkout@v6
 
       - name: "Checkout Hub Repository"
-        if: steps.check.outputs.should_run == 'true'
         uses: actions/checkout@v6
         with:
-          repository: ${{ matrix.hub_repo }}
-          path: ${{ matrix.hub_path }}
+          repository: ${{ steps.hub.outputs.hub_repo }}
+          path: ${{ steps.hub.outputs.hub_path }}
 
       - name: "Set Up hubhelpr"
-        if: steps.check.outputs.should_run == 'true'
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
 
       - name: "Generate Data, Commit, and Create PR"
-        if: steps.check.outputs.should_run == 'true'
         uses: cdcgov/hubhelpr/actions/generate-viz-data@main
         with:
-          disease: ${{ matrix.disease }}
+          disease: ${{ steps.resolve.outputs.disease }}
           github_token: ${{ steps.get_token.outputs.token }}
-          base_hub_path: ${{ matrix.hub_path }}
+          base_hub_path: ${{ steps.hub.outputs.hub_path }}
           reference_date: ${{ inputs.reference_date }}
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
