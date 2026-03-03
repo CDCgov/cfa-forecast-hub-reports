@@ -27,34 +27,33 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: "Resolve Disease"
-        id: resolve
-        run: |
-          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
-            echo "disease=${{ inputs.disease }}" >> "$GITHUB_OUTPUT"
-          elif [[ "${{ github.event.action }}" == "covid-ensemble-added" ]]; then
-            echo "disease=covid" >> "$GITHUB_OUTPUT"
-          elif [[ "${{ github.event.action }}" == "rsv-ensemble-added" ]]; then
-            echo "disease=rsv" >> "$GITHUB_OUTPUT"
-          else
-            echo "::error::Unknown dispatch event: ${{ github.event.action }}"
-            exit 1
-          fi
+      - name: "Set Up hubhelpr"
+        uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
 
-      - name: "Set Hub Variables"
-        id: hub
+      - name: "Resolve Disease And Set Hub Variables"
+        id: resolve
+        shell: Rscript {0}
         run: |
-          disease="${{ steps.resolve.outputs.disease }}"
-          if [[ "$disease" == "covid" ]]; then
-            echo "hub_repo=CDCgov/covid19-forecast-hub" >> "$GITHUB_OUTPUT"
-            echo "hub_path=covid19-forecast-hub" >> "$GITHUB_OUTPUT"
-          elif [[ "$disease" == "rsv" ]]; then
-            echo "hub_repo=CDCgov/rsv-forecast-hub" >> "$GITHUB_OUTPUT"
-            echo "hub_path=rsv-forecast-hub" >> "$GITHUB_OUTPUT"
-          else
-            echo "::error::Unknown disease: $disease"
-            exit 1
-          fi
+          event_name <- "${{ github.event_name }}"
+          if (event_name == "workflow_dispatch") {
+            disease <- "${{ inputs.disease }}"
+          } else {
+            event_action <- "${{ github.event.action }}"
+            disease <- sub("-ensemble-added$", "", event_action)
+          }
+
+          hub_url <- hubhelpr::get_hub_repo_url(disease)
+          hub_repo <- sub("https://github.com/", "", hub_url)
+
+          output_file <- Sys.getenv("GITHUB_OUTPUT")
+          writeLines(
+            c(
+              glue::glue("disease={disease}"),
+              glue::glue("hub_repo={hub_repo}")
+            ),
+            con <- file(output_file, open = "a")
+          )
+          close(con)
 
       - name: "Generate Installation Token"
         id: get_token
@@ -69,18 +68,15 @@ jobs:
       - name: "Checkout Hub Repository"
         uses: actions/checkout@v6
         with:
-          repository: ${{ steps.hub.outputs.hub_repo }}
-          path: ${{ steps.hub.outputs.hub_path }}
-
-      - name: "Set Up hubhelpr"
-        uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
+          repository: ${{ steps.resolve.outputs.hub_repo }}
+          path: .local-hub-copy
 
       - name: "Generate Data, Commit, and Create PR"
         uses: cdcgov/hubhelpr/actions/generate-viz-data@main
         with:
           disease: ${{ steps.resolve.outputs.disease }}
           github_token: ${{ steps.get_token.outputs.token }}
-          base_hub_path: ${{ steps.hub.outputs.hub_path }}
+          base_hub_path: .local-hub-copy
           reference_date: ${{ inputs.reference_date }}
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
