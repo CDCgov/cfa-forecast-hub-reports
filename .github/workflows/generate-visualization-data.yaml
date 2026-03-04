@@ -1,0 +1,81 @@
+name: "Generate Weekly Visualization Data"
+
+on:
+  workflow_dispatch:
+    inputs:
+      disease:
+        description: "Disease to generate visualization data for."
+        required: true
+        type: choice
+        options:
+          - covid
+          - rsv
+      reference_date:
+        description: "Reference date (YYYY-MM-DD, must be Saturday). Leave empty for auto-calculation."
+        required: false
+        type: string
+  repository_dispatch:
+    types: [covid-ensemble-added, rsv-ensemble-added]
+
+permissions:
+  contents: write
+
+jobs:
+  update-visualization-data:
+    if: ${{ github.repository_owner == 'CDCgov' }}
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: "Set Up hubhelpr"
+        uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
+
+      - name: "Resolve Disease And Set Hub Variables"
+        id: resolve
+        shell: Rscript {0}
+        run: |
+          event_name <- "${{ github.event_name }}"
+          if (event_name == "workflow_dispatch") {
+            disease <- "${{ inputs.disease }}"
+          } else {
+            event_action <- "${{ github.event.action }}"
+            disease <- sub("-ensemble-added$", "", event_action)
+          }
+
+          hub_url <- hubhelpr::get_hub_repo_url(disease)
+          hub_repo <- sub("https://github.com/", "", hub_url)
+
+          cat(
+            glue::glue("disease={disease}"),
+            glue::glue("hub_repo={hub_repo}"),
+            file = Sys.getenv("GITHUB_OUTPUT"),
+            sep = "\n",
+            append = TRUE
+          )
+
+      - name: "Generate Installation Token"
+        id: get_token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_KEY }}
+
+      - name: "Checkout Current Repository"
+        uses: actions/checkout@v6
+
+      - name: "Checkout Hub Repository"
+        uses: actions/checkout@v6
+        with:
+          repository: ${{ steps.resolve.outputs.hub_repo }}
+          path: .local-hub-copy
+
+      - name: "Generate Data, Commit, and Create PR"
+        uses: cdcgov/hubhelpr/actions/generate-viz-data@main
+        with:
+          disease: ${{ steps.resolve.outputs.disease }}
+          github_token: ${{ steps.get_token.outputs.token }}
+          base_hub_path: .local-hub-copy
+          reference_date: ${{ inputs.reference_date }}
+        env:
+          DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
+          DATA_CDC_GOV_API_KEY_SECRET: ${{ secrets.NHSN_API_KEY_SECRET }}
