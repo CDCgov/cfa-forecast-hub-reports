@@ -45,15 +45,13 @@ jobs:
           hub_url <- hubhelpr::get_hub_repo_url(disease)
           hub_repo <- sub("https://github.com/", "", hub_url)
 
-          output_file <- Sys.getenv("GITHUB_OUTPUT")
-          writeLines(
-            c(
-              glue::glue("disease={disease}"),
-              glue::glue("hub_repo={hub_repo}")
-            ),
-            con <- file(output_file, open = "a")
+          cat(
+            glue::glue("disease={disease}"),
+            glue::glue("hub_repo={hub_repo}"),
+            file = Sys.getenv("GITHUB_OUTPUT"),
+            sep = "\n",
+            append = TRUE
           )
-          close(con)
 
       - name: "Generate Installation Token"
         id: get_token
