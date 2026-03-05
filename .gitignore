@@ -379,3 +379,4 @@ docs/site/
 #Manifest.toml
 
 *_files/
+.local_hub_copy
