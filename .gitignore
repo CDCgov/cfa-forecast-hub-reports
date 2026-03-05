@@ -379,3 +379,6 @@ docs/site/
 #Manifest.toml
 
 *_files/
+.local_hub_copy
+covid19-forecast-hub
+rsv-forecast-hub
