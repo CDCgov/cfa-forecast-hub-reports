@@ -382,3 +382,5 @@ docs/site/
 .local-hub-copy
 covid19-forecast-hub
 rsv-forecast-hub
+!weekly-summaries/covid19-forecast-hub
+!weekly-summaries/rsv-forecast-hub
