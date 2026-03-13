@@ -76,6 +76,7 @@ jobs:
           github_token: ${{ steps.get_token.outputs.token }}
           base_hub_path: .local-hub-copy
           reference_date: ${{ inputs.reference_date }}
+          excluded_locations: '["VI", "GU", "AS", "MP", "UM"]'
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
           DATA_CDC_GOV_API_KEY_SECRET: ${{ secrets.NHSN_API_KEY_SECRET }}
