@@ -1,0 +1,7 @@
+[default.extend-words]
+# words that should not be corrected
+
+[files]
+extend-exclude = [
+    ".gitignore"
+]
