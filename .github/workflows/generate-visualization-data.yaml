@@ -26,31 +26,22 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      DISEASE: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.disease || inputs.disease }}
     steps:
       - name: "Set Up hubhelpr"
         uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
 
-      - name: "Resolve Disease And Set Hub Variables"
-        id: resolve
+      - name: "Get Hub Repository"
+        id: get_hub_repo
         shell: Rscript {0}
         run: |
-          event_name <- "${{ github.event_name }}"
-          if (event_name == "workflow_dispatch") {
-            disease <- "${{ inputs.disease }}"
-          } else {
-            event_action <- "${{ github.event.action }}"
-            disease <- sub("-ensemble-added$", "", event_action)
-          }
-
-          hub_url <- hubhelpr::get_hub_repo_url(disease)
-          hub_repo <- sub("https://github.com/", "", hub_url)
-
-          cat(
-            glue::glue("disease={disease}"),
-            glue::glue("hub_repo={hub_repo}"),
-            file = Sys.getenv("GITHUB_OUTPUT"),
-            sep = "\n",
-            append = TRUE
+          disease <- Sys.getenv("DISEASE")
+          hub_repo_owner <- hubhelpr:::get_hub_repo_owner(disease)
+          hub_repo_name <- hubhelpr:::get_hub_repo_name(disease)
+          hub_repo <- glue::glue("{hub_repo_owner}/{hub_repo_name}")
+          writeLines(
+            paste0("hub_repo=", hub_repo),
+            Sys.getenv("GITHUB_OUTPUT")
           )
 
       - name: "Generate Installation Token"
@@ -66,16 +57,16 @@ jobs:
       - name: "Checkout Hub Repository"
         uses: actions/checkout@v6
         with:
-          repository: ${{ steps.resolve.outputs.hub_repo }}
+          repository: ${{ steps.get_hub_repo.outputs.hub_repo }}
           path: .local-hub-copy
 
       - name: "Generate Data, Commit, and Create PR"
         uses: cdcgov/hubhelpr/actions/generate-viz-data@main
         with:
-          disease: ${{ steps.resolve.outputs.disease }}
+          disease: ${{ env.DISEASE }}
           github_token: ${{ steps.get_token.outputs.token }}
           base_hub_path: .local-hub-copy
-          reference_date: ${{ inputs.reference_date }}
+          reference_date: ${{ inputs.reference_date || github.event.client_payload.reference_date }}
           excluded_locations: '{"all": ["VI", "GU", "AS", "MP", "UM"]}'
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
