@@ -66,7 +66,7 @@ jobs:
           disease: ${{ env.DISEASE }}
           github_token: ${{ steps.get_token.outputs.token }}
           base_hub_path: .local-hub-copy
-          reference_date: ${{ inputs.reference_date }}
+          reference_date: ${{ inputs.reference_date || github.event.client_payload.reference_date }}
           excluded_locations: '{"all": ["VI", "GU", "AS", "MP", "UM"]}'
         env:
           DATA_CDC_GOV_API_KEY_ID: ${{ secrets.NHSN_API_KEY_ID }}
