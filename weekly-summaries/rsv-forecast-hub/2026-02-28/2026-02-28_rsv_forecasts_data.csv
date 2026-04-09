@@ -281,6 +281,25 @@ Delaware,DE,1,wk inc rsv prop ed visits,prop_ed,2026-02-28,2026-03-07,RSVHub-ens
 Delaware,DE,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,RSVHub-ensemble,12.25,20.5,25.75,34.5,59,10,20,30,30,60,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
 Delaware,DE,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,RSVHub-ensemble,10.5,17.25,22.25,29.5,59.25,10,20,20,30,60,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
 Delaware,DE,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,RSVHub-ensemble,5,12,18.5,22,37,5,10,20,20,40,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,CEPH-Rtrend_rsv,4,7,9,11,16,4,7,9,10,20,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,CEPH-Rtrend_rsv,4,7,9,12,21,4,7,9,10,20,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
+District of Columbia,DC,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,CEPH-Rtrend_rsv,3,6,10,13,27,3,6,10,10,30,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,CFA_Pyrenew-Pyrenew_HE_RSV,3,6,8,10,13,3,6,8,10,10,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2026-02-25,Pyrenew_Hospital_Admissions_ED_Visits_RSV
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,CFA_Pyrenew-Pyrenew_HE_RSV,2,4,6,8,12,2,4,6,8,10,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2026-02-25,Pyrenew_Hospital_Admissions_ED_Visits_RSV
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,CFA_Pyrenew-Pyrenew_H_RSV,3,8,12,16,28,3,8,10,20,30,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2026-02-25,Pyrenew_Hospital_Admissions_RSV
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,CFA_Pyrenew-Pyrenew_H_RSV,3,8,13,19,42.024999999999864,3,8,10,20,40,Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team,2026-02-25,Pyrenew_Hospital_Admissions_RSV
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,Google_SAI-RSVEns,5,8.5,10.5,14,27,5,9,10,10,30,Google Science AI,2026-02-25,RSVEnsemble
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,Google_SAI-RSVEns,3.5,8,9,12.5,23,4,8,9,10,20,Google Science AI,2026-02-25,RSVEnsemble
+District of Columbia,DC,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,Google_SAI-RSVEns,3.5,6.5,8,10,21,4,7,8,10,20,Google Science AI,2026-02-25,RSVEnsemble
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,RSVHub-baseline,5.324999999999999,14,15,16,24.675,5,10,20,20,20,RSVHub-hub-models,2026-02-25,RSVHub baseline model
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,RSVHub-baseline,1.4987694876948776,13,15,17,28.709911599115973,1,10,20,20,30,RSVHub-hub-models,2026-02-25,RSVHub baseline model
+District of Columbia,DC,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,RSVHub-baseline,0,12,15,18,31.16940869408696,0,10,20,20,30,RSVHub-hub-models,2026-02-25,RSVHub baseline model
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,UGA_flucast-INFLAenza,0,3,5,7,15,0,3,5,7,20,UGA_flucast,2026-02-25,INFLAenza
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,UGA_flucast-INFLAenza,0,2,4,7,15,0,2,4,7,20,UGA_flucast,2026-02-25,INFLAenza
+District of Columbia,DC,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,UGA_flucast-INFLAenza,0,2,3,6,14,0,2,3,6,10,UGA_flucast,2026-02-25,INFLAenza
+District of Columbia,DC,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,RSVHub-ensemble,3.5,6.5,8.5,10.5,15.5,4,7,9,10,20,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
+District of Columbia,DC,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,RSVHub-ensemble,2.75,5.5,7.5,10,18,3,6,8,10,20,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
+District of Columbia,DC,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,RSVHub-ensemble,3,6,8,10,21,3,6,8,10,20,RSVHub,2026-02-25,Ensemble using RSVHub forecast submissions
 Florida,FL,0,wk inc rsv hosp,hosp,2026-02-28,2026-02-28,CEPH-Rtrend_rsv,176,246,295,347,457,180,250,300,350,460,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
 Florida,FL,1,wk inc rsv hosp,hosp,2026-02-28,2026-03-07,CEPH-Rtrend_rsv,119,187,234,288,405,120,190,230,290,410,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
 Florida,FL,2,wk inc rsv hosp,hosp,2026-02-28,2026-03-14,CEPH-Rtrend_rsv,80,136,178,227,333,80,140,180,230,330,CEPH Lab at Indiana University,2026-02-25,Rtrend RSV
