@@ -16,14 +16,12 @@ United States,US,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,46
 United States,US,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0.0023375,0.003700000000000001,0.0039000000000000003,0.0040999999999999995,0.005462499999999998,0.0023,0.0037,0.0039,0.0041,0.0055,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 United States,US,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0.0020158879338793407,0.0035000000000000005,0.0039000000000000003,0.0043,0.005763854063540631,0.002,0.0035,0.0039,0.0043,0.0058,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 United States,US,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0.0016085320103201028,0.003300000000000001,0.0039000000000000003,0.0045,0.006165520580205797,0.0016,0.0033,0.0039,0.0045,0.0062,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-United States,US,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,3901.52475,4207,4654,5147,6125,3900,4200,4700,5100,6100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-United States,US,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,4188.698733333333,4773,5545,6434,8359,4200,4800,5500,6400,8400,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-United States,US,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,4162.542043333333,4935.542043333333,5836.4315464833335,6797.585923333334,8427.585923333334,4200,4900,5800,6800,8400,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-United States,US,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.004787148403656248,0.0050100880051660145,0.005114661235177222,0.005223871640477264,0.005438475448992403,0.0048,0.005,0.0051,0.0052,0.0054,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-United States,US,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006077417792880619,0.006666817506482993,0.007019527562275075,0.007378202706501573,0.008197343447104023,0.0061,0.0067,0.007,0.0074,0.0082,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 United States,US,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,3901.52475,3906.757682228571,4410.578896666667,4890.379084438096,4895.612016666667,3900,3900,4400,4900,4900,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 United States,US,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,4188.698733333333,4325.067861312281,4881.415996166666,5387.484405354385,5523.853533333333,4200,4300,4900,5400,5500,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 United States,US,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,4545.084086666667,4545.084086666667,5189.863092966667,5707.171846666667,5707.171846666667,4500,4500,5200,5700,5700,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+United States,US,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,3901.52475,4207,4654,5147,6125,3900,4200,4700,5100,6100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+United States,US,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,4188.698733333333,4773,5545,6434,8359,4200,4800,5500,6400,8400,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+United States,US,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,4162.542043333333,4935.542043333333,5836.4315464833335,6797.585923333334,8427.585923333334,4200,4900,5800,6800,8400,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alabama,AL,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,84,101,111,123,145,80,100,110,120,150,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Alabama,AL,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,86,111,128,147,187,90,110,130,150,190,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Alabama,AL,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,85,119,142,170,230,90,120,140,170,230,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -47,8 +45,6 @@ Alabama,AL,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-base
 Alabama,AL,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,59,87,98,111,135,60,90,100,110,140,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alabama,AL,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,53,89,124,136,169,50,90,120,140,170,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alabama,AL,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,60.5,113.5,135.5,162,205.5,60,110,140,160,210,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Alabama,AL,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.005982414638670042,0.006914696290346733,0.0074138163405139765,0.007945111108070363,0.009141487138840236,0.006,0.0069,0.0074,0.0079,0.0091,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Alabama,AL,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.005159948619859739,0.0066115885213656805,0.007465384617442666,0.008274189503945609,0.010098663759277924,0.0052,0.0066,0.0075,0.0083,0.01,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,2,3,4,6,9,2,3,4,6,9,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Alaska,AK,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,2,4,6,9,18,2,4,6,9,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Alaska,AK,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,2,4,8,13,35,2,4,8,10,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -72,8 +68,6 @@ Alaska,AK,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-basel
 Alaska,AK,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,2,3,4,6,10,2,3,4,6,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,2,4,6,9,18,2,4,6,9,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Alaska,AK,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,1,2,4.5,7.5,21,1,2,5,8,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Alaska,AK,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0032863206901273447,0.004649254751811842,0.005329324952172725,0.006144183506280721,0.007905138339920948,0.0033,0.0046,0.0053,0.0061,0.0079,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Alaska,AK,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.004497137335718137,0.006944644385554606,0.008440445528123796,0.0102341885844027,0.01459956642984503,0.0045,0.0069,0.0084,0.01,0.015,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Arizona,AZ,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,11,16,20,24,33,10,20,20,20,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Arizona,AZ,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,11,20,26,35,58,10,20,30,40,60,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Arizona,AZ,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,12,23,35,51,100,10,20,40,50,100,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -124,14 +118,12 @@ California,CA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,114
 California,CA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,0.0014,0.0015,0.0016,0.003099999999999999,0,0.0014,0.0015,0.0016,0.0031,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 California,CA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,0.0012,0.0015,0.0018000000000000002,0.0035328363283632824,0,0.0012,0.0015,0.0018,0.0035,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 California,CA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,9.999999999999998e-4,0.0015,0.002,0.0038883506085060906,0,0.001,0.0015,0.002,0.0039,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-California,CA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,170.48845416666666,195.26483802349205,209.87672955833335,224.54830364317462,257,170,200,210,220,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-California,CA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,200.09097616666668,226.4666463768421,257.25797075,289.49049362315793,330.86616383333336,200,230,260,290,330,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-California,CA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,177,246,296,328.2879722708627,347.13511435,180,250,300,330,350,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-California,CA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002100013125082032,0.002457090375600854,0.0026474271063144715,0.0028614691259404097,0.0032658171316460307,0.0021,0.0025,0.0026,0.0029,0.0033,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-California,CA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.002664992265472447,0.0033415269148972145,0.0037507093917171935,0.004251027863259175,0.0053840797015373455,0.0027,0.0033,0.0038,0.0043,0.0054,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 California,CA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,181.9769083333333,201.5296760469841,211.75345911666668,220.0966072863492,239.649375,180,200,210,220,240,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 California,CA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,231.18195233333336,235.93329275368424,263.51594150000005,289.98098724631586,294.7323276666667,230,240,260,290,290,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 California,CA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,256.12159898333334,274.9687410624706,303.1011401,328.2879722708627,347.13511435,260,270,300,330,350,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+California,CA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,170.48845416666666,195.26483802349205,209.87672955833335,224.54830364317462,257,170,200,210,220,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+California,CA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,200.09097616666668,226.4666463768421,257.25797075,289.49049362315793,330.86616383333336,200,230,260,290,330,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+California,CA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,177,246,296,328.2879722708627,347.13511435,180,250,300,330,350,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Colorado,CO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,25,32,37,42,54,30,30,40,40,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Colorado,CO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,27,39,48,58,83,30,40,50,60,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Colorado,CO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,28,46,60,79,125,30,50,60,80,130,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -152,14 +144,12 @@ Colorado,CO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,18.81
 Colorado,CO,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,0.0013000000000000002,0.0015,0.0017,0.004249999999999988,0,0.0013,0.0015,0.0017,0.0043,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Colorado,CO,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,0.0011000000000000003,0.0015,0.0019,0.005912524275242745,0,0.0011,0.0015,0.0019,0.0059,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Colorado,CO,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,8.999999999999995e-4,0.0015,0.0021390743907439055,0.006423287382873831,0,9e-4,0.0015,0.0021,0.0064,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Colorado,CO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,25,33.5,39.5,44.75463759189523,53.410611691666666,30,30,40,40,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Colorado,CO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,28.5,42.5,52.993758650000004,60.19994500833333,74.64110898333334,30,40,50,60,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Colorado,CO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,28,46,60,78.105266152549,83.33280676666666,30,50,60,80,80,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Colorado,CO,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0011133016351617766,0.0014143943609719904,0.0015764460414976237,0.0017847209345447804,0.002154772937905468,0.0011,0.0014,0.0016,0.0018,0.0022,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Colorado,CO,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0013377125182473869,0.0018649899317506277,0.0022240975719020313,0.0026341796808371843,0.003506821055425585,0.0013,0.0019,0.0022,0.0026,0.0035,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Colorado,CO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,35.34611161666666,40.65805981620953,45.63119700333333,47.509275183790464,52.82122338333333,40,40,50,50,50,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Colorado,CO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,48.912380033333335,52.79470798333335,57.9875173,62.39989001666665,66.28221796666666,50,50,60,60,70,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Colorado,CO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,61.92396356666666,67.15150418078431,73.24730704999999,78.105266152549,83.33280676666666,60,70,70,80,80,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Colorado,CO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,25,33.5,39.5,44.75463759189523,53.410611691666666,30,30,40,40,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Colorado,CO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,28.5,42.5,52.993758650000004,60.19994500833333,74.64110898333334,30,40,50,60,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Colorado,CO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,28,46,60,78.105266152549,83.33280676666666,30,50,60,80,80,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Connecticut,CT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,22,29,33,38,49,20,30,30,40,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Connecticut,CT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,23,35,43,53,77,20,40,40,50,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Connecticut,CT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,25,41,55,73,118,30,40,60,70,120,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -180,14 +170,12 @@ Connecticut,CT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,15
 Connecticut,CT,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,6.999999999999997e-4,0.0021999999999999997,0.0023,0.0024000000000000002,0.0039000000000000003,7e-4,0.0022,0.0023,0.0024,0.0039,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Connecticut,CT,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,1e-4,0.0019999999999999996,0.0023,0.0026000000000000003,0.0045471080710807014,1e-4,0.002,0.0023,0.0026,0.0045,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Connecticut,CT,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,0.0017999999999999997,0.0023,0.0028000000000000004,0.004842722627226272,0,0.0018,0.0023,0.0028,0.0048,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Connecticut,CT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,19.303523833333337,27.356911254438096,30.57784573166667,34.18185507889524,44.235242500000005,20,30,30,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Connecticut,CT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,24.726615491666664,32.752519721890316,38.322018175,44.65748794477635,58.683392175,20,30,40,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Connecticut,CT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,25,37.576584296419135,41.2374757,44.18897570358086,45.56086983333333,30,40,40,40,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Connecticut,CT,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002614458563871831,0.0032507975087346197,0.0035837939622183077,0.003916567993442026,0.004702241907593363,0.0026,0.0033,0.0036,0.0039,0.0047,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Connecticut,CT,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.002745466837351765,0.0038590866828689192,0.0044672130207571315,0.005177033029414258,0.0067244258647983085,0.0027,0.0039,0.0045,0.0052,0.0067,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Connecticut,CT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,16.60704766666667,25.713822508876195,28.155691463333337,30.36371015779048,39.47048500000001,20,30,30,30,40,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Connecticut,CT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,26.45323098333333,30.505039443780632,33.64403635,36.3149758895527,40.36678435,30,30,30,40,40,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Connecticut,CT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,36.204690166666666,37.576584296419135,41.2374757,44.18897570358086,45.56086983333333,40,40,40,40,50,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Connecticut,CT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,19.303523833333337,27.356911254438096,30.57784573166667,34.18185507889524,44.235242500000005,20,30,30,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Connecticut,CT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,24.726615491666664,32.752519721890316,38.322018175,44.65748794477635,58.683392175,20,30,40,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Connecticut,CT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,25,37.576584296419135,41.2374757,44.18897570358086,45.56086983333333,30,40,40,40,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,26,33,38,44,56,30,30,40,40,60,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Delaware,DE,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,27,40,49,60,87,30,40,50,60,90,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Delaware,DE,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,29,48,63,83,133,30,50,60,80,130,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -211,8 +199,6 @@ Delaware,DE,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Delaware,DE,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,26,33,38,44,56,30,30,40,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,27,40,49,60,87,30,40,50,60,90,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Delaware,DE,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,18,35,44.5,57.5,87,20,40,40,60,90,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Delaware,DE,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.009217406718071435,0.011145510835913313,0.012106751502297631,0.013153248587570622,0.015326345459349952,0.0092,0.011,0.012,0.013,0.015,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Delaware,DE,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0114778934866097,0.01475858572287399,0.01674097772519969,0.018901953629236197,0.024158505144430468,0.011,0.015,0.017,0.019,0.024,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 District of Columbia,DC,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,2,2,3,4,5,2,2,3,4,5,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 District of Columbia,DC,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,1,2,3,5,8,1,2,3,5,8,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 District of Columbia,DC,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,1,2,4,6,11,1,2,4,6,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -251,8 +237,6 @@ Florida,FL,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-base
 Florida,FL,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,363,418,450,484,557,360,420,450,480,560,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Florida,FL,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,338,411,466,510,650,340,410,470,510,650,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Florida,FL,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,232.5,380,462,525.5,665,230,380,460,530,670,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Florida,FL,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.004763206184359505,0.005134365121008833,0.005315528192677057,0.005492314227998231,0.005880268541305362,0.0048,0.0051,0.0053,0.0055,0.0059,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Florida,FL,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.005013870742657683,0.00568282683801384,0.00613899013815722,0.006649212546869969,0.0077844445458860635,0.005,0.0057,0.0061,0.0066,0.0078,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Georgia,GA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,156,185,203,222,260,160,190,200,220,260,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Georgia,GA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,152,192,220,251,315,150,190,220,250,320,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Georgia,GA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,145,197,235,278,374,150,200,240,280,370,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -273,14 +257,12 @@ Georgia,GA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,23.64520
 Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0.0035999999999999995,0.0048,0.0049,0.005,0.006200000000000001,0.0036,0.0048,0.0049,0.005,0.0062,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Georgia,GA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0.0033,0.0046,0.0049,0.0052,0.0065,0.0033,0.0046,0.0049,0.0052,0.0065,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Georgia,GA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0.003,0.0044,0.0049,0.005399999999999999,0.0068,0.003,0.0044,0.0049,0.0054,0.0068,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Georgia,GA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,154.58503000000002,179.96598814990477,193.5423405,214,263.5,150,180,190,210,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Georgia,GA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,153.02083775000003,188.11993014957892,222,250.5,306.5,150,190,220,250,310,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Georgia,GA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,145,197,227,278,356,150,200,230,280,360,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Georgia,GA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.005083729365920849,0.00574813238667328,0.006138074950386899,0.006542832580700402,0.007320530946829738,0.0051,0.0057,0.0061,0.0065,0.0073,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Georgia,GA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.00545191792642262,0.006659320057317314,0.007391833691983421,0.00828407172124735,0.010626535360259455,0.0055,0.0067,0.0074,0.0083,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Georgia,GA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,153.17006,174.93197629980952,184.084681,193.07402036685716,214.83593666666664,150,170,180,190,210,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Georgia,GA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,154.04167550000005,184.23986029915787,198.07793140000004,208.00977303417548,238.20795783333327,150,180,200,210,240,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Georgia,GA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,173.0042796666667,199.0548149103529,214.2777368333333,229.1723750896471,255.2229103333333,170,200,210,230,260,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Georgia,GA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,154.58503000000002,179.96598814990477,193.5423405,214,263.5,150,180,190,210,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Georgia,GA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,153.02083775000003,188.11993014957892,222,250.5,306.5,150,190,220,250,310,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Georgia,GA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,145,197,227,278,356,150,200,230,280,360,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Hawaii,HI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,5,7,9,10,14,5,7,9,10,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Hawaii,HI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,5,7,9,12,18,5,7,9,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Hawaii,HI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,4,7,9,13,23,4,7,9,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -304,8 +286,6 @@ Hawaii,HI,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-basel
 Hawaii,HI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,5,9,11,15,18,5,9,10,20,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Hawaii,HI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,5,9,12,15,22,5,9,10,20,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Hawaii,HI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,4.5,9,12,15.5,24,5,9,10,20,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Hawaii,HI,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002342139778902005,0.0031826266030141348,0.0037421648423613062,0.004394166043380703,0.005509899140829286,0.0023,0.0032,0.0037,0.0044,0.0055,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Hawaii,HI,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0024543702279022487,0.003596969326015136,0.0044062132495204555,0.005288701531265844,0.007658691405996387,0.0025,0.0036,0.0044,0.0053,0.0077,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,2,3,4,5,7,2,3,4,5,7,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Idaho,ID,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,2,4,5,6,11,2,4,5,6,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Idaho,ID,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,2,4,6,8,17,2,4,6,8,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -329,8 +309,6 @@ Idaho,ID,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseli
 Idaho,ID,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,2,3,5,9,16,2,3,5,9,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,2,4,5,8,14,2,4,5,8,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Idaho,ID,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,2,4,6,8,14,2,4,6,8,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Idaho,ID,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.001175174439955931,0.001688445162237557,0.002054744257723637,0.002347590052087154,0.0031520304940624543,0.0012,0.0017,0.0021,0.0023,0.0032,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Idaho,ID,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0015752629882863803,0.0024261273161879115,0.003001588767459694,0.003639373283528896,0.005333111298768636,0.0016,0.0024,0.003,0.0036,0.0053,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,103,125,139,155,186,100,130,140,160,190,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Illinois,IL,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,117,156,183,215,282,120,160,180,220,280,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Illinois,IL,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,130,191,235,288,409,130,190,240,290,410,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -354,8 +332,6 @@ Illinois,IL,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Illinois,IL,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,61,125,139,155,186,60,130,140,160,190,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,84,156,183,215,282,80,160,180,220,280,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Illinois,IL,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,88,144.5,174.5,219,305,90,140,170,220,310,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Illinois,IL,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0047686128190972945,0.005374502977379525,0.005686626917334702,0.0060269024193165075,0.006754404412948169,0.0048,0.0054,0.0057,0.006,0.0068,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Illinois,IL,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006346682646006364,0.007745089594576624,0.0084546584966153,0.009379092610512976,0.01134007794623722,0.0063,0.0077,0.0085,0.0094,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,57,70,79,89,107,60,70,80,90,110,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Indiana,IN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,58,79,94,110,147,60,80,90,110,150,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Indiana,IN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,59,87,109,136,198,60,90,110,140,200,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -379,8 +355,6 @@ Indiana,IN,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-base
 Indiana,IN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,57,70,79,89,107,60,70,80,90,110,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,58,79,94,110,147,60,80,90,110,150,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Indiana,IN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,49,86.5,107.5,134,179,50,90,110,130,180,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Indiana,IN,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.003291943401674848,0.0038289111654128106,0.0041354901998499685,0.0044610237280313806,0.00513057012739955,0.0033,0.0038,0.0041,0.0045,0.0051,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Indiana,IN,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0037831534301628017,0.004740308604474518,0.00531772769888641,0.005960937600691823,0.007386740403953154,0.0038,0.0047,0.0053,0.006,0.0074,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,7,9,11,13,18,7,9,10,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Iowa,IA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,7,11,15,19,30,7,10,20,20,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Iowa,IA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,7,13,19,26,48,7,10,20,30,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -404,8 +378,6 @@ Iowa,IA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baselin
 Iowa,IA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,7,9,11,13,18,7,9,10,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,7,11,15,19,30,7,10,20,20,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Iowa,IA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,6,11.5,16,21.5,36,6,10,20,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Iowa,IA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002704715612872878,0.003368849890316515,0.0037591040801942203,0.0041880308426944304,0.0050058662495111456,0.0027,0.0034,0.0038,0.0042,0.005,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Iowa,IA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0044548556197219836,0.006137254406358584,0.0072486278171246515,0.008582646220253908,0.011729880359784877,0.0045,0.0061,0.0072,0.0086,0.012,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,17,23,28,34,47,20,20,30,30,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Kansas,KS,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,20,33,44,58,94,20,30,40,60,90,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Kansas,KS,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,23,45,65,92,165,20,50,70,90,170,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -429,8 +401,6 @@ Kansas,KS,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-basel
 Kansas,KS,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,10,19,24,29,47,10,20,20,30,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,11,21,28,38,67,10,20,30,40,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kansas,KS,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,12,25,35.5,51,92.5,10,30,40,50,90,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Kansas,KS,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0017107309486780716,0.002253827621046087,0.002602649263877559,0.0029512270891581234,0.0037249728387397174,0.0017,0.0023,0.0026,0.003,0.0037,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Kansas,KS,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0016120374186296001,0.002465008992240644,0.0030512518731864134,0.003735557491209887,0.00546418914038962,0.0016,0.0025,0.0031,0.0037,0.0055,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,37,46,53,59,73,40,50,50,60,70,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Kentucky,KY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,37,51,62,74,102,40,50,60,70,100,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Kentucky,KY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,37,57,72,92,139,40,60,70,90,140,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -454,8 +424,6 @@ Kentucky,KY,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Kentucky,KY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,37,46,53,59,73,40,50,50,60,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,37,52,71,80,102,40,50,70,80,100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Kentucky,KY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,32.5,65,82,101.5,132.5,30,70,80,100,130,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Kentucky,KY,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.005825654062069696,0.006709420703960039,0.007234726688102894,0.007696536558548653,0.008807316197435952,0.0058,0.0067,0.0072,0.0077,0.0088,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Kentucky,KY,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0067825170562388955,0.008425817540076458,0.009418399058043845,0.010467782130255522,0.01285961916918805,0.0068,0.0084,0.0094,0.01,0.013,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,91,110,122,135,161,90,110,120,140,160,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Louisiana,LA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,92,121,141,164,213,90,120,140,160,210,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Louisiana,LA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,92,131,161,196,276,90,130,160,200,280,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -479,8 +447,6 @@ Louisiana,LA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-ba
 Louisiana,LA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,91,110,122,135,161,90,110,120,140,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,92,121,141,164,213,90,120,140,160,210,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Louisiana,LA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,63,120.5,146.5,177,232.5,60,120,150,180,230,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Louisiana,LA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0058412721811715715,0.006518616727433433,0.006902645093599867,0.0073594347954077126,0.008198830839369094,0.0058,0.0065,0.0069,0.0074,0.0082,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Louisiana,LA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006238419646272907,0.007625540220389516,0.008484512899442905,0.009469061632443276,0.011796417113803262,0.0062,0.0076,0.0085,0.0095,0.012,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Maine,ME,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,2,3,3,4,6,2,3,3,4,6,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Maine,ME,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,2,3,4,6,11,2,3,4,6,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Maine,ME,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,1,3,6,9,20,1,3,6,9,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -504,8 +470,6 @@ Maine,ME,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseli
 Maine,ME,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,0,2,3,5,7,0,2,3,5,7,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Maine,ME,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,0,3,4,6,11,0,3,4,6,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Maine,ME,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,0.5,2,4,6,13,1,2,4,6,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maine,ME,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,1.6400164001640017e-4,4.099032628299721e-4,5.737704918032787e-4,7.375840026225209e-4,0.0012287024901703801,1.6e-4,4.1e-4,5.7e-4,7.4e-4,0.0012,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maine,ME,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,1.6201315272135466e-4,4.920813627829174e-4,7.430713293588456e-4,0.0010669077656320174,0.001965903342184061,1.6e-4,4.9e-4,7.4e-4,0.0011,0.002,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Maryland,MD,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,69,84,94,105,127,70,80,90,110,130,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Maryland,MD,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,72,96,113,133,176,70,100,110,130,180,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Maryland,MD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,73,107,134,166,239,70,110,130,170,240,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -526,14 +490,12 @@ Maryland,MD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,1.28174
 Maryland,MD,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0.0037749999999999993,0.0067,0.0069,0.0070999999999999995,0.010024999999999994,0.0038,0.0067,0.0069,0.0071,0.01,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Maryland,MD,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0.003316239937399376,0.0063,0.0069,0.007499999999999999,0.010478412859128582,0.0033,0.0063,0.0069,0.0075,0.01,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Maryland,MD,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0.0026205817808178074,0.005961837868378683,0.0069,0.007832964579645798,0.0111879821798218,0.0026,0.006,0.0069,0.0078,0.011,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Maryland,MD,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,65.100387,82.77783428027,95.892280575,109.31586905306334,130.49331633333333,70,80,100,110,130,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maryland,MD,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,76.02189608333333,97.17253599958245,109.72222160666666,123.16707733375087,153.81771725,80,100,110,120,150,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maryland,MD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,73,107,112.29331239166665,131,155,70,110,110,130,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maryland,MD,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.006348493508614355,0.0071996736691821335,0.007644948218217402,0.008150457444424069,0.009099421871183129,0.0063,0.0072,0.0076,0.0082,0.0091,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Maryland,MD,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006860359749095072,0.008345946635068038,0.009247716376520176,0.01017322172181816,0.012276548963237972,0.0069,0.0083,0.0092,0.01,0.012,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Maryland,MD,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,61.200774,81.55566856054,97.78456115,113.63173810612668,133.98663266666668,60,80,100,110,130,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Maryland,MD,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,80.04379216666665,98.3450719991649,106.44444321333332,113.33415466750174,131.63543449999997,80,100,110,110,130,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Maryland,MD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,96.1376777333333,108.45641427817122,112.29331239166665,115.02969905516208,127.3484356,100,110,110,120,130,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Maryland,MD,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,65.100387,82.77783428027,95.892280575,109.31586905306334,130.49331633333333,70,80,100,110,130,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Maryland,MD,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,76.02189608333333,97.17253599958245,109.72222160666666,123.16707733375087,153.81771725,80,100,110,120,150,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Maryland,MD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,73,107,112.29331239166665,131,155,70,110,110,130,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Massachusetts,MA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,48,61,70,80,100,50,60,70,80,100,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Massachusetts,MA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,51,72,88,107,152,50,70,90,110,150,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Massachusetts,MA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,52,84,110,142,222,50,80,110,140,220,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -569,14 +531,12 @@ Michigan,MI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,24.73
 Michigan,MI,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,0.0016,0.0017000000000000001,0.0018000000000000002,0.004562499999999996,0,0.0016,0.0017,0.0018,0.0046,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Michigan,MI,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,0.0012000000000000005,0.0017000000000000001,0.0022,0.005393496359963597,0,0.0012,0.0017,0.0022,0.0054,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Michigan,MI,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,8.999999999999998e-4,0.0017000000000000001,0.002584459844598445,0.0061285010350103425,0,9e-4,0.0017,0.0026,0.0061,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Michigan,MI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,56.92329875,68.56675166587303,75.61201982916667,83.03454366746033,98.67799658333334,60,70,80,80,100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Michigan,MI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,71.5,96.89136284492983,109.52393283083333,123.47383715507019,159.97994966666667,70,100,110,120,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Michigan,MI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,83,130.36744386952938,140.44282843333332,145.40578279713725,163.1549125,80,130,140,150,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Michigan,MI,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002084379160573586,0.002410979228486647,0.0025850785340314135,0.002759117082533589,0.0031396147431075644,0.0021,0.0024,0.0026,0.0028,0.0031,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Michigan,MI,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.002711932537927218,0.0033949404883748275,0.003798713590665412,0.004246580689970147,0.005291288666869671,0.0027,0.0034,0.0038,0.0042,0.0053,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Michigan,MI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,58.8465975,68.13350333174604,73.22403965833334,77.06908733492064,86.35599316666668,60,70,70,80,90,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Michigan,MI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,81.77050066666666,96.78272568985965,101.04786566166668,103.94767431014036,118.95989933333334,80,100,100,100,120,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Michigan,MI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,112.61831416666664,130.36744386952938,140.44282843333332,145.40578279713725,163.1549125,110,130,140,150,160,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Michigan,MI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,56.92329875,68.56675166587303,75.61201982916667,83.03454366746033,98.67799658333334,60,70,80,80,100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Michigan,MI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,71.5,96.89136284492983,109.52393283083333,123.47383715507019,159.97994966666667,70,100,110,120,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Michigan,MI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,83,130.36744386952938,140.44282843333332,145.40578279713725,163.1549125,80,130,140,150,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Minnesota,MN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,40,50,57,64,80,40,50,60,60,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Minnesota,MN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,42,59,72,86,120,40,60,70,90,120,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Minnesota,MN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,44,69,89,114,175,40,70,90,110,180,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -597,14 +557,12 @@ Minnesota,MN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,33.2
 Minnesota,MN,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,0.0026999999999999997,0.0029,0.0031,0.005849999999999987,0,0.0027,0.0029,0.0031,0.0059,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Minnesota,MN,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,0.0021999999999999997,0.0029,0.0036,0.006783968889688891,0,0.0022,0.0029,0.0036,0.0068,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Minnesota,MN,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,0.0018103988539885391,0.0029,0.003999999999999998,0.0075975278752787555,0,0.0018,0.0029,0.004,0.0076,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Minnesota,MN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,43.256356833333335,50.551888129285715,56.584746025,62.27298503738095,72.56851633333332,40,50,60,60,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Minnesota,MN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,50.5,62.51257456379649,70.90468287499999,79.62470360287017,99.98118708333334,50,60,70,80,100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Minnesota,MN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,44,69,89,91.84601222294116,94.55229293333332,40,70,90,90,90,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Minnesota,MN,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.003472677237583541,0.0042555977478067305,0.004646596858638744,0.005102374566625237,0.006077636910207816,0.0035,0.0043,0.0046,0.0051,0.0061,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Minnesota,MN,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.004362446450391812,0.005679836847704441,0.006532853360662323,0.007553366591706084,0.010029119854444374,0.0044,0.0057,0.0065,0.0076,0.01,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Minnesota,MN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,46.51271366666667,51.10377625857142,56.16949205,60.545970074761904,65.13703266666666,50,50,60,60,70,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Minnesota,MN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,59.31218216666666,66.02514912759298,69.80936575,73.24940720574034,79.96237416666666,60,70,70,70,80,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Minnesota,MN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,82.4808614,85.18714211039216,89.3594102,91.84601222294116,94.55229293333332,80,90,90,90,90,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Minnesota,MN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,43.256356833333335,50.551888129285715,56.584746025,62.27298503738095,72.56851633333332,40,50,60,60,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Minnesota,MN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,50.5,62.51257456379649,70.90468287499999,79.62470360287017,99.98118708333334,50,60,70,80,100,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Minnesota,MN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,44,69,89,91.84601222294116,94.55229293333332,40,70,90,90,90,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,20,26,30,34,44,20,30,30,30,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Mississippi,MS,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,21,30,37,45,65,20,30,40,50,70,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Mississippi,MS,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,21,34,45,59,96,20,30,50,60,100,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -628,8 +586,6 @@ Mississippi,MS,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-
 Mississippi,MS,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,20,26,30,34,44,20,30,30,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,21,30,37,45,65,20,30,40,50,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Mississippi,MS,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,16,29.5,37,48,74.5,20,30,40,50,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Mississippi,MS,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.004174199700224678,0.00506918644952686,0.005515222991464182,0.0060854550181264205,0.007186487655828026,0.0042,0.0051,0.0055,0.0061,0.0072,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Mississippi,MS,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.004572277324284196,0.006203144174906503,0.007173942783704281,0.008246393962623435,0.010789004382178603,0.0046,0.0062,0.0072,0.0082,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,18,23,27,31,39,20,20,30,30,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Missouri,MO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,17,26,31,39,56,20,30,30,40,60,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Missouri,MO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,17,28,37,49,79,20,30,40,50,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -650,8 +606,6 @@ Missouri,MO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,1.593
 Missouri,MO,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,18,23,27,31,39,20,20,30,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,17,26,31,39,56,20,30,30,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Missouri,MO,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,13.5,22.5,28,36.5,61.5,10,20,30,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Missouri,MO,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.007573644575082065,0.008573388203017833,0.00912557302600574,0.009698345072684066,0.010841904924833737,0.0076,0.0086,0.0091,0.0097,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Missouri,MO,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.011976658129289925,0.015022286659353852,0.01722629065660563,0.019500601829545154,0.0255740247708233,0.012,0.015,0.017,0.02,0.026,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Montana,MT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,3,5,6,7,10,3,5,6,7,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Montana,MT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,4,6,8,11,20,4,6,8,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Montana,MT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,4,8,12,18,37,4,8,10,20,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -675,8 +629,6 @@ Montana,MT,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-base
 Montana,MT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,0,0,2,7,10,0,0,2,7,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Montana,MT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,0,1,2,11,20,0,1,2,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Montana,MT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,2,4.5,6.5,10,21.5,2,5,7,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Montana,MT,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,4.727014890096904e-4,0.001062950277548128,0.0014167650531286896,0.0017703292812463118,0.0027119443461855915,4.7e-4,0.0011,0.0014,0.0018,0.0027,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Montana,MT,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,6.935675554700122e-4,0.0014515568332048282,0.0020149364810101962,0.0027321584936379232,0.004459170502685689,6.9e-4,0.0015,0.002,0.0027,0.0045,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,5,7,8,10,13,5,7,8,10,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Nebraska,NE,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,5,7,10,13,20,5,7,10,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Nebraska,NE,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,4,8,12,17,31,4,8,10,20,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -700,8 +652,6 @@ Nebraska,NE,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Nebraska,NE,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,2,6,8,10,13,2,6,8,10,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,3,7,10,13,20,3,7,10,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nebraska,NE,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,3.5,6.5,9,13,21.5,4,7,9,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Nebraska,NE,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,2.039775624681285e-4,4.0787192821454063e-4,6.116831481292691e-4,9.172441907867916e-4,0.0014260975858205154,2e-4,4.1e-4,6.1e-4,9.2e-4,0.0014,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Nebraska,NE,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,1.8754334147779312e-4,5.537932744241534e-4,8.223503524885773e-4,0.0011310306592934418,0.002024126691329175,1.9e-4,5.5e-4,8.2e-4,0.0011,0.002,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,15,19,23,26,34,20,20,20,30,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Nevada,NV,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,16,24,29,37,55,20,20,30,40,60,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Nevada,NV,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,16,28,38,51,87,20,30,40,50,90,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -725,8 +675,6 @@ Nevada,NV,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-basel
 Nevada,NV,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,15,19,23,26,34,20,20,20,30,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,16,24,29,37,55,20,20,30,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Nevada,NV,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,10.5,20,26.5,36,57,10,20,30,40,60,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Nevada,NV,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0016414967557725159,0.002092184884768894,0.0023811822247964735,0.0026700122241523514,0.003247170781893004,0.0016,0.0021,0.0024,0.0027,0.0032,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Nevada,NV,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0021065514580584977,0.0029030459288639466,0.0034695461055901113,0.004101080617523344,0.005354571510076774,0.0021,0.0029,0.0035,0.0041,0.0054,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,5,7,8,10,13,5,7,8,10,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Hampshire,NH,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,5,7,10,13,20,5,7,10,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Hampshire,NH,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,4,8,11,16,30,4,8,10,20,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -750,8 +698,6 @@ New Hampshire,NH,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHu
 New Hampshire,NH,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,5,7,8,10,13,5,7,8,10,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,5,7,10,13,20,5,7,10,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Hampshire,NH,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,3,7,9,13,23.5,3,7,9,10,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Hampshire,NH,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0015003750937734434,0.0023984410133413283,0.00299625468164794,0.003593352298248241,0.004934210526315789,0.0015,0.0024,0.003,0.0036,0.0049,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Hampshire,NH,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0020961518603260583,0.003493535154009991,0.004439136554385652,0.005624137795479569,0.00880317013153613,0.0021,0.0035,0.0044,0.0056,0.0088,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,190,225,247,271,317,190,230,250,270,320,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Jersey,NJ,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,206,264,302,345,433,210,260,300,350,430,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Jersey,NJ,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,219,301,358,425,572,220,300,360,430,570,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -775,8 +721,6 @@ New Jersey,NJ,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-b
 New Jersey,NJ,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,190,225,247,271,317,190,230,250,270,320,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,206,264,302,345,433,210,260,300,350,430,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Jersey,NJ,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,142,248,295.5,351.5,446.5,140,250,300,350,450,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Jersey,NJ,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0056084738704976055,0.0062421160773502215,0.0066167485635545845,0.0069685165679220906,0.007739275267864733,0.0056,0.0062,0.0066,0.007,0.0077,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Jersey,NJ,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006352127277974731,0.007693737078136497,0.008388700593138648,0.00910053056867529,0.010650663298037976,0.0064,0.0077,0.0084,0.0091,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Mexico,NM,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,8,11,14,17,23,8,10,10,20,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Mexico,NM,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,9,15,20,27,45,9,20,20,30,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New Mexico,NM,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,10,20,30,44,84,10,20,30,40,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -797,14 +741,12 @@ New Mexico,NM,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,6.7
 New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,5.000000000000001e-4,7.000000000000001e-4,9.000000000000001e-4,0.005000000000000004,0,5e-4,7e-4,9e-4,0.005,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 New Mexico,NM,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,1.0000000000000005e-4,7.000000000000001e-4,0.0015000000000000011,0.007878645936459375,0,1e-4,7e-4,0.0015,0.0079,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 New Mexico,NM,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,0,7.000000000000001e-4,0.0021859478594785983,0.009178465709657087,0,0,7e-4,0.0022,0.0092,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-New Mexico,NM,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,7,11,14.5,17.900369620722806,22.334035644666667,7,10,10,20,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Mexico,NM,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,7.166106375000002,14.869116503447113,21.103974683333334,25.465579663219554,39.16858979166666,7,10,20,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Mexico,NM,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,9.243215666666668,15.293443880106668,28.875124993333333,35.54277478656,41.593003,9,20,30,40,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Mexico,NM,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,7.933149989422467e-4,0.0012159018820046522,0.0014798372179060304,0.0017436330973264293,0.0023761748864716443,7.9e-4,0.0012,0.0015,0.0017,0.0024,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New Mexico,NM,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.001193148446972023,0.0019668127721550323,0.0025082951112278674,0.0031826273197154585,0.004823483145530474,0.0012,0.002,0.0025,0.0032,0.0048,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New Mexico,NM,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,8.509728710666668,11.377060758554386,17.286489816666666,18.800739241445616,21.668071289333334,9,10,20,20,20,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 New Mexico,NM,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,5.332212750000004,14.738233006894228,22.207949366666668,23.931159326439108,33.33717958333333,5,10,20,20,30,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 New Mexico,NM,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,9.243215666666668,15.293443880106668,28.875124993333333,35.54277478656,41.593003,9,20,30,40,40,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+New Mexico,NM,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,7,11,14.5,17.900369620722806,22.334035644666667,7,10,10,20,20,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+New Mexico,NM,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,7.166106375000002,14.869116503447113,21.103974683333334,25.465579663219554,39.16858979166666,7,10,20,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+New Mexico,NM,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,9.243215666666668,15.293443880106668,28.875124993333333,35.54277478656,41.593003,9,20,30,40,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New York,NY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,296,344,374,406,467,300,340,370,410,470,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New York,NY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,294,364,409,460,559,290,360,410,460,560,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 New York,NY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,286,376,437,509,659,290,380,440,510,660,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -825,14 +767,12 @@ New York,NY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,13.9502
 New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0.0011999999999999997,0.0028,0.0029,0.0029999999999999996,0.0046,0.0012,0.0028,0.0029,0.003,0.0046,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 New York,NY,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,7.371630716307161e-4,0.0026,0.0029,0.0031999999999999997,0.005052293122931228,7.4e-4,0.0026,0.0029,0.0032,0.0051,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 New York,NY,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,3.472320973209738e-4,0.0024,0.0029,0.0034,0.005444897673976736,3.5e-4,0.0024,0.0029,0.0034,0.0054,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-New York,NY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,264.2369816666667,311.5,349.5,410,483.5,260,310,350,410,480,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New York,NY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,246.84745916666668,337.5,416,476.5,567,250,340,420,480,570,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New York,NY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,214.643154,362,437,509,659,210,360,440,510,660,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New York,NY,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.003207112243033079,0.0035008516381510317,0.0036593989393046552,0.0038178957973687157,0.004123300250696999,0.0032,0.0035,0.0037,0.0038,0.0041,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-New York,NY,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0032353182490491975,0.0038191418131476376,0.0041265457634949935,0.004490030696942081,0.005275329061505476,0.0032,0.0038,0.0041,0.0045,0.0053,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 New York,NY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,232.47396333333333,261.2326241427301,301.6253142566666,341.6904391906032,370.44909999999993,230,260,300,340,370,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 New York,NY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,199.69491833333333,199.69491833333333,297.80463335,393.6204983333333,393.6204983333333,200,200,300,390,390,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 New York,NY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,214.643154,214.643154,296.44852581666663,372.3914126666666,372.3914126666666,210,210,300,370,370,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+New York,NY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,264.2369816666667,311.5,349.5,410,483.5,260,310,350,410,480,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+New York,NY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,246.84745916666668,337.5,416,476.5,567,250,340,420,480,570,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+New York,NY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,214.643154,362,437,509,659,210,360,440,510,660,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,153,182,200,220,259,150,180,200,220,260,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 North Carolina,NC,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,162,208,240,276,349,160,210,240,280,350,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 North Carolina,NC,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,169,233,280,336,457,170,230,280,340,460,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -856,8 +796,6 @@ North Carolina,NC,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVH
 North Carolina,NC,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,153,182,200,220,259,150,180,200,220,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,162,208,240,276,349,160,210,240,280,350,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Carolina,NC,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,117,202.5,249.5,290.5,380,120,200,250,290,380,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-North Carolina,NC,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.006330894766460327,0.006896309284762198,0.007203851424956952,0.00752645676898081,0.008127512419470921,0.0063,0.0069,0.0072,0.0075,0.0081,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-North Carolina,NC,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.007701509557419557,0.009050119032615857,0.009838882719397847,0.010715360815437355,0.012714227808357566,0.0077,0.0091,0.0098,0.011,0.013,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,1,2,3,3,5,1,2,3,3,5,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 North Dakota,ND,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,1,2,3,4,8,1,2,3,4,8,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 North Dakota,ND,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,1,2,4,6,13,1,2,4,6,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -881,8 +819,6 @@ North Dakota,ND,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub
 North Dakota,ND,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,1,2,3,4,6,1,2,3,4,6,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,1,2,3,4,8,1,2,3,4,8,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 North Dakota,ND,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,1,2,3.5,5,9.5,1,2,4,5,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-North Dakota,ND,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,1.5664160401002505e-4,6.262721152340692e-4,9.391141023634372e-4,0.0014080100125156445,0.002188525871502267,1.6e-4,6.3e-4,9.4e-4,0.0014,0.0022,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-North Dakota,ND,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,3.141581372354582e-4,9.261012487336075e-4,0.0014027111778969188,0.0019857575925805735,0.003577996969267322,3.1e-4,0.00093000000000000005,0.0014,0.002,0.0036,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,154,183,202,223,261,150,180,200,220,260,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Ohio,OH,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,171,221,255,294,373,170,220,260,290,370,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Ohio,OH,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,186,259,312,375,512,190,260,310,380,510,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -906,8 +842,6 @@ Ohio,OH,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baselin
 Ohio,OH,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,154,183,202,223,261,150,180,200,220,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,171,221,255,294,373,170,220,260,290,370,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Ohio,OH,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,129.5,223,268,320,408,130,220,270,320,410,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Ohio,OH,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.003238868105112074,0.003706797045823519,0.003959169887792247,0.0042020747744198695,0.0047248523483641135,0.0032,0.0037,0.004,0.0042,0.0047,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Ohio,OH,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.004482354567919747,0.0056149050793539886,0.006279569899331048,0.00695690525926025,0.008536261495629647,0.0045,0.0056,0.0063,0.007,0.0085,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,6,9,11,13,19,6,9,10,10,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Oklahoma,OK,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,5,10,13,18,31,5,10,10,20,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Oklahoma,OK,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,5,11,16,24,50,5,10,20,20,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -931,8 +865,6 @@ Oklahoma,OK,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Oklahoma,OK,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,6,10,14,20,25,6,10,10,20,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,6,13,16,20,34,6,10,20,20,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Oklahoma,OK,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,6,14.5,18.5,25.5,43,6,10,20,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oklahoma,OK,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.002782802281897871,0.003545359749739312,0.004030016675931073,0.004514202375164942,0.005550159567087554,0.0028,0.0035,0.004,0.0045,0.0056,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oklahoma,OK,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0037346066947022,0.0051833686523645095,0.006191806663186645,0.007266498726711197,0.009860803768564321,0.0037,0.0052,0.0062,0.0073,0.0099,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Oregon,OR,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,6,9,12,15,22,6,9,10,20,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Oregon,OR,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,6,11,16,23,42,6,10,20,20,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Oregon,OR,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,5,13,21,33,75,5,10,20,30,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -953,14 +885,12 @@ Oregon,OR,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,0,5,19.
 Oregon,OR,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,0.0013000000000000002,0.0015,0.0017,0.004262499999999996,0,0.0013,0.0015,0.0017,0.0043,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Oregon,OR,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,0.0010000000000000002,0.0015,0.002,0.00463284892848928,0,0.001,0.0015,0.002,0.0046,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Oregon,OR,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,6.923141731417317e-4,0.0015,0.0024,0.005199999999999999,0,6.9e-4,0.0015,0.0024,0.0052,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Oregon,OR,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,5.684648691666666,9.5,12.5,16,26.5,6,10,10,20,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oregon,OR,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,6.807085008333332,11.313932018881754,16,21,37.5,7,10,20,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oregon,OR,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,7,15,18.421249438333334,23,37,7,20,20,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oregon,OR,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.001437325040562134,0.0018268395675481418,0.002095808383233533,0.002334770114942529,0.0028720157960868786,0.0014,0.0018,0.0021,0.0023,0.0029,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Oregon,OR,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.001564587572260394,0.0022727779438811357,0.002707445948313395,0.00322961767670116,0.00441983539401131,0.0016,0.0023,0.0027,0.0032,0.0044,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Oregon,OR,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,5.369297383333332,8.747075291920634,11.044363103833332,13.26174737474603,16.63952528333333,5,9,10,10,20,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Oregon,OR,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,7.614170016666664,11.627864037763509,14.132318056666666,15.67134046223649,19.68503448333333,8,10,10,20,20,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Oregon,OR,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,14.549736545000002,15.595211406607843,18.421249438333334,20.90769259339216,21.953167455,10,20,20,20,20,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Oregon,OR,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,5.684648691666666,9.5,12.5,16,26.5,6,10,10,20,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Oregon,OR,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,6.807085008333332,11.313932018881754,16,21,37.5,7,10,20,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Oregon,OR,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,7,15,18.421249438333334,23,37,7,20,20,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Pennsylvania,PA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,313,366,400,435,506,310,370,400,440,510,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Pennsylvania,PA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,365,459,521,591,737,370,460,520,590,740,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Pennsylvania,PA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,415,555,651,766,1003,420,560,650,770,1000,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1011,8 +941,6 @@ Rhode Island,RI,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub
 Rhode Island,RI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,10,16,21,25,32,10,20,20,30,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Rhode Island,RI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,11,19,24,31,47,10,20,20,30,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Rhode Island,RI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,10.5,21.5,28,37,53,10,20,30,40,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Rhode Island,RI,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0024925224327018943,0.0036101083032490976,0.0042299079372978355,0.00484893696381947,0.00633147113594041,0.0025,0.0036,0.0042,0.0048,0.0063,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Rhode Island,RI,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.002583072950264436,0.0040237839302633555,0.00492321574934242,0.0059903938856443245,0.008572955550281309,0.0026,0.004,0.0049,0.006,0.0086,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 South Carolina,SC,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,126,146,158,172,197,130,150,160,170,200,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 South Carolina,SC,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,135,167,189,213,261,140,170,190,210,260,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 South Carolina,SC,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,143,189,221,259,339,140,190,220,260,340,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1036,8 +964,6 @@ South Carolina,SC,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVH
 South Carolina,SC,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,118,143,158,172,197,120,140,160,170,200,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 South Carolina,SC,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,128,167,189,213,261,130,170,190,210,260,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 South Carolina,SC,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,90.5,151,178.5,209,265,90,150,180,210,270,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-South Carolina,SC,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.007351823514262127,0.008418079096045198,0.009061908929226774,0.009732840578892432,0.011155558059608993,0.0074,0.0084,0.0091,0.0097,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-South Carolina,SC,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.008170838217098629,0.010321099948878618,0.011701499959308567,0.013292993844119107,0.01691721183646424,0.0082,0.01,0.012,0.013,0.017,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 South Dakota,SD,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,1,2,2,3,4,1,2,2,3,4,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 South Dakota,SD,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,1,2,3,4,8,1,2,3,4,8,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 South Dakota,SD,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,1,2,4,7,16,1,2,4,7,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1073,14 +999,12 @@ Tennessee,TN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,82.9
 Tennessee,TN,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0.0026000000000000003,0.0044,0.0046,0.0048,0.0066,0.0026,0.0044,0.0046,0.0048,0.0066,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Tennessee,TN,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0.0018352876528765288,0.0040999999999999995,0.0046,0.0051,0.007380075100751002,0.0018,0.0041,0.0046,0.0051,0.0074,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Tennessee,TN,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0.001323758012580127,0.0038000000000000004,0.0046,0.005399999999999999,0.007866003335033348,0.0013,0.0038,0.0046,0.0054,0.0079,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Tennessee,TN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,82.98750000000001,102.07601047570418,110.83880992499999,119.22883785762914,140.0352465833332,80,100,110,120,140,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Tennessee,TN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,102,126.8218194994035,139.45861152499998,153.4198955005965,180.633470075,100,130,140,150,180,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Tennessee,TN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,135,163.85748708525924,170.4553077266667,173.54049291474078,178.80516550000002,140,160,170,170,180,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Tennessee,TN,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.005017073815839016,0.005587610873047918,0.0058983606984284054,0.00622185197719522,0.006919875130072841,0.005,0.0056,0.0059,0.0062,0.0069,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Tennessee,TN,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006586414399451439,0.007826522980314554,0.008494864495386247,0.009304828581954668,0.011166605658578832,0.0066,0.0078,0.0085,0.0093,0.011,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Tennessee,TN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,99.5892035,114.15202095140836,119.67761985,124.45767571525828,139.02049316666665,100,110,120,120,140,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Tennessee,TN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,136.21648985,138.643638998807,145.91722305,152.839791001193,155.26694015,140,140,150,150,160,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Tennessee,TN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,158.5928145,163.85748708525924,170.4553077266667,173.54049291474078,178.80516550000002,160,160,170,170,180,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Tennessee,TN,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,82.98750000000001,102.07601047570418,110.83880992499999,119.22883785762914,140.0352465833332,80,100,110,120,140,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Tennessee,TN,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,102,126.8218194994035,139.45861152499998,153.4198955005965,180.633470075,100,130,140,150,180,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Tennessee,TN,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,135,163.85748708525924,170.4553077266667,173.54049291474078,178.80516550000002,140,160,170,170,180,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Texas,TX,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,395,455,493,533,608,400,460,490,530,610,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Texas,TX,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,408,501,562,628,762,410,500,560,630,760,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Texas,TX,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,414,537,622,717,915,410,540,620,720,920,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1104,8 +1028,6 @@ Texas,TX,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseli
 Texas,TX,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,395,455,493,533,608,400,460,490,530,610,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Texas,TX,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,408,501,562,628,762,410,500,560,630,760,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Texas,TX,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,297,498.5,592.5,699,877,300,500,590,700,880,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Texas,TX,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.007159672839356358,0.00772160188876042,0.008006337171471412,0.008287903899703544,0.008935701529550153,0.0072,0.0077,0.008,0.0083,0.0089,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Texas,TX,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.008738396751555817,0.009988850582219953,0.01076803094068276,0.011648765473278696,0.013847993438396959,0.0087,0.01,0.011,0.012,0.014,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Utah,UT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,3,5,6,8,13,3,5,6,8,10,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Utah,UT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,3,6,9,14,28,3,6,9,10,30,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Utah,UT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,3,8,14,23,59,3,8,10,20,60,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1118,12 +1040,12 @@ Utah,UT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-baseline,0,0,7,19.16
 Utah,UT,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-baseline,0,5.000000000000001e-4,7.000000000000001e-4,9.000000000000001e-4,0.004424999999999995,0,5e-4,7e-4,9e-4,0.0044,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Utah,UT,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-baseline,0,2.000000000000001e-4,7.000000000000001e-4,0.0013000000000000008,0.0063,0,2e-4,7e-4,0.0013,0.0063,RSVHub-hub-models,2025-12-24,RSVHub baseline model
 Utah,UT,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-baseline,0,0,7.000000000000001e-4,0.0018367353673536704,0.007098547210472143,0,0,7e-4,0.0018,0.0071,RSVHub-hub-models,2025-12-24,RSVHub baseline model
-Utah,UT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,0.4348774666666699,4.407200033340756,6,8,13,0,4,6,8,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Utah,UT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,1,4.560267523196101,9,14,28,1,5,9,10,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Utah,UT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,2,6.723168016160017,14,23,38.48671095266663,2,7,10,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Utah,UT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,UM-DeepOutbreak,0.4348774666666699,4.407200033340756,19.92911418,21.83415289999258,25.806475466666665,0,4,20,20,30,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Utah,UT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,UM-DeepOutbreak,0,4.560267523196101,21.9437004,26.322542376803888,34.09911928333332,0,5,20,30,30,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
 Utah,UT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,UM-DeepOutbreak,1.7224997140000262,6.723168016160017,30.53804105,33.48604265050664,38.48671095266663,2,7,30,30,40,"University of Michigan, Computer Science and Engineering",2025-12-24,DeepOutbreak
+Utah,UT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,0.4348774666666699,4.407200033340756,6,8,13,0,4,6,8,10,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Utah,UT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,1,4.560267523196101,9,14,28,1,5,9,10,30,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
+Utah,UT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,2,6.723168016160017,14,23,38.48671095266663,2,7,10,20,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,1,1,1,2,2,1,1,1,2,2,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Vermont,VT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,1,1,2,2,4,1,1,2,2,4,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Vermont,VT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,0,1,2,3,8,0,1,2,3,8,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1147,8 +1069,6 @@ Vermont,VT,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-base
 Vermont,VT,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,0.9750000000000014,1,1,2,3,1,1,1,2,3,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,1,1,2,2,4,1,1,2,2,4,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Vermont,VT,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,0,0.5,1.5,2.5,6.5,0,1,2,3,7,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Vermont,VT,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,5.555555555555556e-4,0.0012953367875647669,0.001664816870144284,0.0022185246810870773,0.0035081240768094534,5.6e-4,0.0013,0.0017,0.0022,0.0035,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Vermont,VT,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,9.062916370352149e-4,0.0019055646865687973,0.002731901862193839,0.0037280397932987954,0.0064631993883217794,9.1e-4,0.0019,0.0027,0.0037,0.0065,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,86,105,117,130,156,90,110,120,130,160,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Virginia,VA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,91,121,143,167,219,90,120,140,170,220,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Virginia,VA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,95,138,170,207,291,100,140,170,210,290,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1172,8 +1092,6 @@ Virginia,VA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-bas
 Virginia,VA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,86,105,117,130,156,90,110,120,130,160,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,91,121,143,167,219,90,120,140,170,220,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Virginia,VA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,72,122,149,177.5,238,70,120,150,180,240,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Virginia,VA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.005405046583596521,0.005994479392496238,0.0063123238352400576,0.006641725664764521,0.007370338822638652,0.0054,0.006,0.0063,0.0066,0.0074,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Virginia,VA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.006115492180251389,0.007221352131040288,0.007834233306855926,0.0085490117782112,0.010460258661662761,0.0061,0.0072,0.0078,0.0085,0.01,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Washington,WA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,41,51,58,66,81,40,50,60,70,80,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Washington,WA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,44,62,74,89,121,40,60,70,90,120,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Washington,WA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,47,71,91,114,168,50,70,90,110,170,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1197,8 +1115,6 @@ Washington,WA,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-b
 Washington,WA,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,36.975,51,58,66,84,40,50,60,70,80,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Washington,WA,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,44,62,74,89,121,40,60,70,90,120,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Washington,WA,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,35.5,58,74.5,92,135.5,40,60,70,90,140,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Washington,WA,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.004348205710294246,0.004939004171102462,0.00526885097177152,0.0055811357611273895,0.006239760170111897,0.0043,0.0049,0.0053,0.0056,0.0062,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Washington,WA,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.005149211285052552,0.00622715735524545,0.006851815924098113,0.007526419328478532,0.009183409331679803,0.0051,0.0062,0.0069,0.0075,0.0092,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,14,19,22,26,35,10,20,20,30,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 West Virginia,WV,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,13,20,25,32,49,10,20,30,30,50,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 West Virginia,WV,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,11,20,28,39,67,10,20,30,40,70,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1222,8 +1138,6 @@ West Virginia,WV,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHu
 West Virginia,WV,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,14,19,22,26,35,10,20,20,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,13,20,25,32,49,10,20,30,30,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 West Virginia,WV,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,8.5,17,22.5,31,51,9,20,20,30,50,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-West Virginia,WV,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0031115125966074473,0.004011231448054553,0.004510373859877718,0.00505885299273729,0.006253439391665416,0.0031,0.004,0.0045,0.0051,0.0063,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-West Virginia,WV,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0034770232538026626,0.004989177745330191,0.00605071047967007,0.0073273289151581334,0.010356221615138864,0.0035,0.005,0.0061,0.0073,0.01,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,18,24,28,33,42,20,20,30,30,40,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Wisconsin,WI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,20,30,38,47,70,20,30,40,50,70,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Wisconsin,WI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,22,37,50,67,113,20,40,50,70,110,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
@@ -1247,8 +1161,6 @@ Wisconsin,WI,2,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-10,RSVHub-ba
 Wisconsin,WI,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,RSVHub-ensemble,18,24,28,33,42,20,20,30,30,40,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,RSVHub-ensemble,20,30,38,47,70,20,30,40,50,70,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Wisconsin,WI,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,RSVHub-ensemble,16.5,28.5,36,47.5,81,20,30,40,50,80,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Wisconsin,WI,0,wk inc rsv prop ed visits,prop_ed,2025-12-27,2025-12-27,RSVHub-ensemble,0.0012770304784607525,0.0016000272345061193,0.001786929884275017,0.0019737625699749878,0.0023476424216374286,0.0013,0.0016,0.0018,0.002,0.0023,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
-Wisconsin,WI,1,wk inc rsv prop ed visits,prop_ed,2025-12-27,2026-01-03,RSVHub-ensemble,0.0018298517789600446,0.00247285108193105,0.0028786286988105596,0.0033704785613875507,0.004379539602441115,0.0018,0.0025,0.0029,0.0034,0.0044,RSVHub,2025-12-24,Ensemble using RSVHub forecast submissions
 Wyoming,WY,0,wk inc rsv hosp,hosp,2025-12-27,2025-12-27,CEPH-Rtrend_rsv,1,1,2,2,4,1,1,2,2,4,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Wyoming,WY,1,wk inc rsv hosp,hosp,2025-12-27,2026-01-03,CEPH-Rtrend_rsv,1,2,3,4,9,1,2,3,4,9,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
 Wyoming,WY,2,wk inc rsv hosp,hosp,2025-12-27,2026-01-10,CEPH-Rtrend_rsv,1,3,5,8,21,1,3,5,8,20,CEPH Lab at Indiana University,2025-12-24,Rtrend RSV
