@@ -1,6 +1,13 @@
 ## Overview
 
-Visualization data for [covid19-forecast-hub](https://github.com/CDCgov/covid19-forecast-hub/tree/main)
+Visualization data for the CDC/CFA-operated respiratory virus forecast hubs: [covid19-forecast-hub](https://github.com/CDCgov/covid19-forecast-hub/tree/main) and [rsv-forecast-hub](https://github.com/CDCgov/rsv-forecast-hub/tree/main).
+
+This repository is the staging place for data that facilitates the public-facing forecast visualizations at CDC <https://www.cdc.gov/cfa-modeling-and-forecasting/>; it does not host the forecasts themselves or any modelling code.
+
+The data are organized under `weekly-summaries/`, with a subdirectory per hub (`covid19-forecast-hub/`, `rsv-forecast-hub/`) and one dated folder per weekly ensemble reference date. Each dated folder contains a map CSV, a timeseries CSV of all submitted models, a target-data (truth) CSV, and a markdown web-text used to populate the corresponding CDC.gov page. The full schema for each of these artifacts lives in [`weekly-summaries/README.md`](weekly-summaries/README.md).
+
+The contents of this repository are produced by a partially automated pipeline. The [`generate-visualization-data.yaml`](.github/workflows/generate-visualization-data.yaml) GitHub Actions workflow looks for the `covid-ensemble-added` and `rsv-ensemble-added` repository-dispatch events (which are dispatched by the upstream hubs when a new ensemble is published), runs the
+[`hubhelpr`](https://github.com/CDCgov/hubhelpr) tooling to merge each hub's `model-output/` with NHSN hospital admissions and NSSP emergency-department visit data, and opens a pull request adding the new dated folder. The workflow can also be triggered manually for either disease.
 
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
