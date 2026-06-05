@@ -1,3 +1,5 @@
+# CFA Forecast Hub Reports
+
 ## Overview
 
 Visualization data for the CDC/CFA-operated respiratory virus forecast hubs: [covid19-forecast-hub](https://github.com/CDCgov/covid19-forecast-hub/tree/main) and [rsv-forecast-hub](https://github.com/CDCgov/rsv-forecast-hub/tree/main).
@@ -6,9 +8,10 @@ This repository is the staging place for data that facilitates the public-facing
 
 The data are organized under `weekly-summaries/`, with a subdirectory per hub (`covid19-forecast-hub/`, `rsv-forecast-hub/`) and one dated folder per weekly ensemble reference date. Each dated folder contains a map CSV, a timeseries CSV of all submitted models, a target-data (truth) CSV, and a markdown web-text used to populate the corresponding CDC.gov page. The full schema for each of these artifacts lives in [`weekly-summaries/README.md`](weekly-summaries/README.md).
 
-The contents of this repository are produced by a partially automated pipeline. The [`generate-visualization-data.yaml`](.github/workflows/generate-visualization-data.yaml) GitHub Actions workflow looks for the `covid-ensemble-added` and `rsv-ensemble-added` repository-dispatch events (which are dispatched by the upstream hubs when a new ensemble is published), runs the [`hubhelpr`](https://github.com/CDCgov/hubhelpr) tooling to merge each hub's `model-output/` with NHSN hospital admissions and NSSP emergency-department visit data, and opens a pull request adding the new dated folder. The workflow can also be triggered manually for either disease.
+The contents of this repository are produced by a partially automated pipeline. The [`generate-visualization-data.yaml`](.github/workflows/generate-visualization-data.yaml) GitHub Actions workflow looks for the `covid-ensemble-added` and `rsv-ensemble-added` repository-dispatch events (which are dispatched by the upstream hubs when a new ensemble is published), runs the [`hubhelpr`](https://github.com/CDCgov/hubhelpr) tooling to merge each hub's `model-output/` with NHSN hospital admissions and NSSP emergency-department visit data, and opens a pull request adding the new dated folder. To regenerate data for a given week (e.g., if the automated run failed or upstream data changed), trigger the workflow manually via `workflow_dispatch`, choosing the disease (`covid` or `rsv`) and optionally a Saturday reference date; if reference date is left empty, the latest is used.
 
 ## Public Domain Standard Notice
+
 This repository constitutes a work of the United States Government and is not
 subject to domestic copyright protection under 17 USC § 105. This repository is in
 the public domain within the United States, and copyright and related rights in
@@ -18,6 +21,7 @@ submitting a pull request you are agreeing to comply with this waiver of
 copyright interest.
 
 ## License Standard Notice
+
 The repository utilizes code licensed under the terms of the Apache Software
 License and therefore is licensed under ASL v2 or later.
 
@@ -35,6 +39,7 @@ program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html
 The source code forked from other open source projects will inherit its license.
 
 ## Privacy Standard Notice
+
 This repository contains only non-sensitive, publicly available data and
 information. All material and community participation is covered by the
 [Disclaimer](DISCLAIMER.md)
@@ -42,6 +47,7 @@ and [Code of Conduct](code-of-conduct.md).
 For more information about CDC's privacy policy, please visit [http://www.cdc.gov/other/privacy.html](https://www.cdc.gov/other/privacy.html).
 
 ## Contributing Standard Notice
+
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
 and submitting a pull request. (If you are new to GitHub, you might start with a
 [basic tutorial](https://help.github.com/articles/set-up-git).) By contributing
@@ -54,9 +60,11 @@ All comments, messages, pull requests, and other submissions received through
 CDC including this GitHub page may be subject to applicable federal law, including but not limited to the Federal Records Act, and may be archived. Learn more at [http://www.cdc.gov/other/privacy.html](http://www.cdc.gov/other/privacy.html).
 
 ## Records Management Standard Notice
+
 This repository is not a source of government records, but is a copy to increase
 collaboration and collaborative potential. All government records will be
 published through the [CDC web site](http://www.cdc.gov).
 
 ## Additional Standard Notices
+
 Please refer to [CDC's Template Repository](https://github.com/CDCgov/template) for more information about [contributing to this repository](https://github.com/CDCgov/template/blob/main/CONTRIBUTING.md), [public domain notices and disclaimers](https://github.com/CDCgov/template/blob/main/DISCLAIMER.md), and [code of conduct](https://github.com/CDCgov/template/blob/main/code-of-conduct.md).
