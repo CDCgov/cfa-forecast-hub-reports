@@ -67,15 +67,21 @@ _Contains all the available COVID or RSV models submitted in a given week for al
 * `target_data_type` (string): type of target (Ex: hosp (Hospital admissions) or ed_visits (Proportion of Emergency department visits) without the disease string)
 * `model` (string): name of the model, pulled from the folder names in the model-output section of the forecast repos (Ex: FluSight-ensemble, CEPH-Rtrend_fluH)
 * `quantile_0.025` (numeric): 0.025 quantile forecast value (Ex: 922.475)
+* `quantile_0.10` (numeric): 0.10 quantile forecast value
 * `quantile_0.25` (numeric): 0.25 quantile forecast value
 * `quantile_0.5` (numeric): 0.5 quantile forecast value
+* `quantile_0.90` (numeric): 0.90 quantile forecast value
 * `quantile_0.75` (numeric): 0.75 quantile forecast value
 * `quantile_0.975` (numeric): 0.975 quantile forecast value
 * `quantile_0.025_rounded` (numeric): Rounded 0.025 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
+* `quantile_0.10_rounded` (numeric): Rounded 0.10 quantile forecast value
 * `quantile_0.25_rounded` (numeric): Rounded 0.25 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
 * `quantile_0.5_rounded` (numeric): Rounded 0.5 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
 * `quantile_0.75_rounded` (numeric): Rounded 0.75 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
+* `quantile_0.90_rounded` (numeric): Rounded 0.90 quantile forecast value
 * `quantile_0.975_rounded` (numeric): Rounded 0.975 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
+* `designated_model` (bool): True if model is included in the hub ensemble
+* `ensemble_of_hub_models` (bool):  True if the model is an ensemble of models submitted to the hub
 * `forecast_teams` (string): name of the team that generated the model; pulled from model metadata (Ex: CEPH Lab at Indiana University)
 * `forecast_fullnames` (string): full name of the model; pulled from model metadata (Ex: Rtrend COVID)
 
