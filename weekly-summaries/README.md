@@ -81,7 +81,7 @@ _Contains all the available COVID or RSV models submitted in a given week for al
 * `quantile_0.90_rounded` (numeric): Rounded 0.90 quantile forecast value
 * `quantile_0.975_rounded` (numeric): Rounded 0.975 quantile forecast value (see [Rounding Rules](#rounding-rules) for details)
 * `designated_model` (bool): True if model is included in the hub ensemble
-* `ensemble_of_hub_models` (bool):  True if the model is an ensemble of modelssubmitted to the hub
+* `ensemble_of_hub_models` (bool):  True if the model is an ensemble of models submitted to the hub
 * `forecast_teams` (string): name of the team that generated the model; pulled from model metadata (Ex: CEPH Lab at Indiana University)
 * `forecast_fullnames` (string): full name of the model; pulled from model metadata (Ex: Rtrend COVID)
 
