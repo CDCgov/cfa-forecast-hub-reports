@@ -15,7 +15,6 @@
 # A table, keyed by target name or by "all", e.g.
 # 2025-01-01 = { all = ["VI"], "wk inc covid hosp" = ["GU"] }
 #
-# Remember to record why there are exclusions.
 
 
 # Reinstated during the count_/rate_ regeneration for
