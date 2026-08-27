@@ -17,8 +17,4 @@
 #
 
 
-# Reinstated during the count_/rate_ regeneration for
-# Inform. The published 2026-02-28 report suppressed DC
-# for the ED visit target; since this occurred via the
-# workflow dispatch, nothing in the repository logged it.
 2026-02-28 = { "wk inc covid prop ed visits" = ["DC"] }
