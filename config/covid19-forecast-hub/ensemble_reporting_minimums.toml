@@ -15,11 +15,6 @@
 # week, add an entry for that week and another
 # restoring the previous value for the week after.
 #
-#
-# The COVID-19 forecast hub reported its ensemble
-# without a minimum until the rule was introduced in
-# hubhelpr on 2026-04-01, first applying to
-# reference date 2026-04-04.
 
 2024-11-23 = 0
 2026-04-04 = 2
