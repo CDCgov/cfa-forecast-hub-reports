@@ -14,10 +14,6 @@
 # after it, add an entry. To change it for a single
 # week, add an entry for that week and another
 # restoring the previous value for the week after.
-#
-# The RSV forecast hub's series begins 2025-09-27,
-# before the minimum was introduced, so it reported its
-# ensemble without one until reference date 2026-04-04.
 
 2025-09-27 = 0
 2026-04-04 = 2
