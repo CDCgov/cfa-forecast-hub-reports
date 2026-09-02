@@ -14,7 +14,6 @@
 # after it, add an entry. To change it for a single
 # week, add an entry for that week and another
 # restoring the previous value for the week after.
-#
 
 2024-11-23 = 0
 2026-04-04 = 2
