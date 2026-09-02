@@ -1,0 +1,17 @@
+# Location exclusions applied when generating this
+# hub's weekly summaries, keyed by reference date.
+#
+# A date with no entry here has no exclusions, so this
+# file lists only the weeks that needed one. Standing
+# exclusions that apply every week belong in the hub's
+# own auxiliary-data/excluded_locations.toml, not here.
+#
+# Each value takes either form the generate-viz-data
+# action accepts for excluded_locations:
+#
+# An array, applying to every target, e.g.
+# 2025-02-02 = ["AK", "AR"]
+#
+# A table, keyed by target name or by "all", e.g.
+# 2025-01-01 = { all = ["VI"], "wk inc covid hosp" = ["GU"] }
+#
