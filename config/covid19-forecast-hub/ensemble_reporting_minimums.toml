@@ -1,0 +1,28 @@
+# Minimum number of designated model submissions
+# required to report an ensemble forecast, with
+# reference dates where the minimum took effect as the
+# keys.
+#
+# A reference date takes the value from the latest
+# entry at or before it, so only changes are recorded
+# here. Generated reports derive their minimums from
+# this file, which means regenerating an older week
+# applies the minimum it was published under rather
+# than today's.
+#
+# To change the minimum for a report and every report
+# after it, add an entry. To change it for a single
+# week, add an entry for that week and another
+# restoring the previous value for the week after.
+#
+# The RSV forecast hub's series begins 2025-09-27,
+# before the minimum was introduced, so it reported its
+# ensemble without one until reference date 2026-04-04.
+#
+# The COVID-19 forecast hub reported its ensemble
+# without a minimum until the rule was introduced in
+# hubhelpr on 2026-04-01, first applying to
+# reference date 2026-04-04.
+
+2024-11-23 = 0
+2026-04-04 = 2
