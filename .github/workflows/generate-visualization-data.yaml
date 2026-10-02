@@ -28,8 +28,13 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       DISEASE: ${{ github.event_name == 'repository_dispatch' && github.event.client_payload.disease || inputs.disease }}
     steps:
+      # hubhelpr is pinned so that merges to its
+      # default branch cannot change the schema of the
+      # files this workflow publishes.
       - name: "Set Up hubhelpr"
-        uses: cdcgov/hubhelpr/actions/setup-hubhelpr@main
+        uses: cdcgov/hubhelpr/actions/setup-hubhelpr@v0.1.0
+        with:
+          version: "v0.1.0"
 
       - name: "Get Hub Repository"
         id: get_hub_repo
@@ -61,7 +66,7 @@ jobs:
           path: .local-hub-copy
 
       - name: "Generate Data, Commit, and Create PR"
-        uses: cdcgov/hubhelpr/actions/generate-viz-data@main
+        uses: cdcgov/hubhelpr/actions/generate-viz-data@v0.1.0
         with:
           disease: ${{ env.DISEASE }}
           github_token: ${{ steps.get_token.outputs.token }}
