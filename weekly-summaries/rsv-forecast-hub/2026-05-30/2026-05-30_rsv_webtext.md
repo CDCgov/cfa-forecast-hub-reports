@@ -4,9 +4,9 @@ Ensemble forecasting also predicts that the number of new laboratory-confirmed R
 
 Overview: Forecasted percent of ED visits and new hospital admissions due to RSV. This week, 2 modeling groups contributed 2 forecasts of ED visits and 4 modeling groups contributed 4 forecasts of hospital admissions that were eligible for inclusion in the ensemble forecasts for at least one jurisdiction.
 
-What does the figure show?: The figure shows the percentage of RSV emergency department visits each week reported from October 01, 2022 through May 23, 2026, number of new laboratory-confirmed RSV hospital admissions reported in the United States each week from August 08, 2020 through May 23, 2026, and forecasted new RSV emergency department visits and hospital admissions per week for this week and the next 2 weeks through June 13, 2026.
+What does the figure show?: The figure shows the percentage of RSV emergency department visits each week reported from October 01, 2022 through May 23, 2026, number of new laboratory-confirmed RSV hospital admissions reported in the United States each week from November 09, 2024 through May 23, 2026, and forecasted new RSV emergency department visits and hospital admissions per week for this week and the next 2 weeks through June 13, 2026.
 
-The following jurisdictions had <80% of hospitals reporting for the most recent week: Alaska, Alabama, Arkansas, California, District of Columbia, Florida, Georgia, Hawaii, Iowa, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Maryland, Maine, Missouri, Mississippi, Montana, Nebraska, New Mexico, Nevada, New York, Oklahoma, Oregon, Puerto Rico, South Dakota, Texas, United States, Virginia, Vermont, Washington, and Wyoming. Lower reporting rates could impact forecast validity. Percent of hospitals reporting is calculated based on the number of active hospitals reporting complete data to NHSN for a given reporting week.
+The following jurisdictions had <80% of hospitals reporting for the most recent week: Alaska, Arkansas, Kansas, Missouri, Oklahoma, Puerto Rico, Virginia, and Wyoming. Lower reporting rates could impact forecast validity. Percent of hospitals reporting is calculated based on the number of active hospitals reporting complete data to NHSN for a given reporting week.
 
 Models included in RSVHub ensemble (ED Visits)
 * [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_E_RSV)](https://github.com/cdcgov/pyrenew-hew)
@@ -17,7 +17,7 @@ Models not included in RSVHub ensemble (ED Visits)
 * [RSVHub-hub-models (Model: baseline)](https://github.com/CDCgov/rsv-forecast-hub)
 
 Models included in RSVHub ensemble (Hospital Admissions)
-* [CEPH Lab at Indiana University (Model: Rtrend_rsv)](https://github.com/CEPH-Lab)
+* [CEPH Lab at Indiana University (Model: Rtrend_rsv)](https://ceph-lab.github.io/)
 * [Center for Forecasting and Outbreak Analytics (CFA/CDC) Pyrenew team (Model: Pyrenew_HE_RSV)](https://github.com/cdcgov/pyrenew-hew)
 * [Google Science AI (Model: RSVEns)](https://ai.google/applied-ai/science/)
 * [UGA_flucast (Model: INFLAenza)](https://thefoxlab.wordpress.com/)
