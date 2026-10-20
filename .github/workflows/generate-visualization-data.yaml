@@ -57,10 +57,10 @@ jobs:
           private-key: ${{ secrets.GH_APP_KEY }}
 
       - name: "Checkout Current Repository"
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - name: "Checkout Hub Repository"
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           repository: ${{ steps.get_hub_repo.outputs.hub_repo }}
           path: .local-hub-copy
