@@ -17461,7 +17461,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-10,16,Idaho,wk inc rsv prop ed visits,prop_ed,1e-4
 2026-10-10,17,Illinois,wk inc rsv prop ed visits,prop_ed,3e-4
 2026-10-10,18,Indiana,wk inc rsv prop ed visits,prop_ed,3e-4
-2026-10-10,19,Iowa,wk inc rsv prop ed visits,prop_ed,NA
 2026-10-10,20,Kansas,wk inc rsv prop ed visits,prop_ed,2e-4
 2026-10-10,21,Kentucky,wk inc rsv prop ed visits,prop_ed,8e-4
 2026-10-10,22,Louisiana,wk inc rsv prop ed visits,prop_ed,9e-4
@@ -17505,15 +17504,12 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-17,06,California,wk inc rsv prop ed visits,prop_ed,4e-4
 2026-10-17,08,Colorado,wk inc rsv prop ed visits,prop_ed,2e-4
 2026-10-17,09,Connecticut,wk inc rsv prop ed visits,prop_ed,2e-4
-2026-10-17,10,Delaware,wk inc rsv prop ed visits,prop_ed,NA
 2026-10-17,11,District of Columbia,wk inc rsv prop ed visits,prop_ed,1e-4
 2026-10-17,12,Florida,wk inc rsv prop ed visits,prop_ed,0.0032
-2026-10-17,13,Georgia,wk inc rsv prop ed visits,prop_ed,NA
 2026-10-17,15,Hawaii,wk inc rsv prop ed visits,prop_ed,0.0024
 2026-10-17,16,Idaho,wk inc rsv prop ed visits,prop_ed,1e-4
 2026-10-17,17,Illinois,wk inc rsv prop ed visits,prop_ed,3e-4
 2026-10-17,18,Indiana,wk inc rsv prop ed visits,prop_ed,4e-4
-2026-10-17,19,Iowa,wk inc rsv prop ed visits,prop_ed,NA
 2026-10-17,20,Kansas,wk inc rsv prop ed visits,prop_ed,0
 2026-10-17,21,Kentucky,wk inc rsv prop ed visits,prop_ed,9e-4
 2026-10-17,22,Louisiana,wk inc rsv prop ed visits,prop_ed,0.0012
