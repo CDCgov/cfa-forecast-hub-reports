@@ -26000,7 +26000,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-07-04,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0016
 2026-07-04,17,Illinois,wk inc covid prop ed visits,prop_ed,6e-4
 2026-07-04,18,Indiana,wk inc covid prop ed visits,prop_ed,4e-4
-2026-07-04,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-07-04,20,Kansas,wk inc covid prop ed visits,prop_ed,5e-4
 2026-07-04,21,Kentucky,wk inc covid prop ed visits,prop_ed,9e-4
 2026-07-04,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.003
@@ -26052,7 +26051,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-07-11,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0017
 2026-07-11,17,Illinois,wk inc covid prop ed visits,prop_ed,7e-4
 2026-07-11,18,Indiana,wk inc covid prop ed visits,prop_ed,4e-4
-2026-07-11,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-07-11,20,Kansas,wk inc covid prop ed visits,prop_ed,0.001
 2026-07-11,21,Kentucky,wk inc covid prop ed visits,prop_ed,7e-4
 2026-07-11,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0034
@@ -26104,7 +26102,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-07-18,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0017
 2026-07-18,17,Illinois,wk inc covid prop ed visits,prop_ed,9e-4
 2026-07-18,18,Indiana,wk inc covid prop ed visits,prop_ed,4e-4
-2026-07-18,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-07-18,20,Kansas,wk inc covid prop ed visits,prop_ed,6e-4
 2026-07-18,21,Kentucky,wk inc covid prop ed visits,prop_ed,8e-4
 2026-07-18,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0038
@@ -26156,7 +26153,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-07-25,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0016
 2026-07-25,17,Illinois,wk inc covid prop ed visits,prop_ed,9e-4
 2026-07-25,18,Indiana,wk inc covid prop ed visits,prop_ed,6e-4
-2026-07-25,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-07-25,20,Kansas,wk inc covid prop ed visits,prop_ed,8e-4
 2026-07-25,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.001
 2026-07-25,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0051
@@ -26208,7 +26204,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-08-01,16,Idaho,wk inc covid prop ed visits,prop_ed,0.002
 2026-08-01,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0012
 2026-08-01,18,Indiana,wk inc covid prop ed visits,prop_ed,0.001
-2026-08-01,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-08-01,20,Kansas,wk inc covid prop ed visits,prop_ed,8e-4
 2026-08-01,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0011
 2026-08-01,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0054
@@ -26260,7 +26255,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-08-08,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0012
 2026-08-08,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0016
 2026-08-08,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0012
-2026-08-08,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-08-08,20,Kansas,wk inc covid prop ed visits,prop_ed,8e-4
 2026-08-08,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0016
 2026-08-08,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0072
@@ -26312,7 +26306,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-08-15,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0026
 2026-08-15,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0015
 2026-08-15,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0013
-2026-08-15,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-08-15,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0017
 2026-08-15,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0022
 2026-08-15,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0087
@@ -26364,7 +26357,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-08-22,16,Idaho,wk inc covid prop ed visits,prop_ed,0.004
 2026-08-22,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0017
 2026-08-22,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0017
-2026-08-22,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-08-22,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0014
 2026-08-22,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0027
 2026-08-22,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0129
@@ -26416,7 +26408,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-08-29,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0041
 2026-08-29,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0021
 2026-08-29,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0018
-2026-08-29,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-08-29,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0015
 2026-08-29,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0035
 2026-08-29,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0157
@@ -26468,7 +26459,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-09-05,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0035
 2026-09-05,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0023
 2026-09-05,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0022
-2026-09-05,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-09-05,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0023
 2026-09-05,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0039
 2026-09-05,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0136
@@ -26520,7 +26510,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-09-12,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0052
 2026-09-12,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0023
 2026-09-12,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0016
-2026-09-12,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-09-12,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0021
 2026-09-12,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0038
 2026-09-12,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0117
@@ -26572,7 +26561,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-09-19,16,Idaho,wk inc covid prop ed visits,prop_ed,0.005
 2026-09-19,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0022
 2026-09-19,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0015
-2026-09-19,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-09-19,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0019
 2026-09-19,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.003
 2026-09-19,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.01
@@ -26624,7 +26612,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-09-26,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0049
 2026-09-26,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0021
 2026-09-26,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0017
-2026-09-26,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-09-26,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0012
 2026-09-26,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0028
 2026-09-26,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0085
@@ -26676,7 +26663,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-03,16,Idaho,wk inc covid prop ed visits,prop_ed,0.0064
 2026-10-03,17,Illinois,wk inc covid prop ed visits,prop_ed,0.0023
 2026-10-03,18,Indiana,wk inc covid prop ed visits,prop_ed,0.0022
-2026-10-03,19,Iowa,wk inc covid prop ed visits,prop_ed,NA
 2026-10-03,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0018
 2026-10-03,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.0036
 2026-10-03,22,Louisiana,wk inc covid prop ed visits,prop_ed,0.0071
