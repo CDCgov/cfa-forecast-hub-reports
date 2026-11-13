@@ -26931,7 +26931,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-17,06,California,wk inc covid prop ed visits,prop_ed,0.0053
 2026-10-17,08,Colorado,wk inc covid prop ed visits,prop_ed,0.0028
 2026-10-17,09,Connecticut,wk inc covid prop ed visits,prop_ed,0.0052
-2026-10-17,10,Delaware,wk inc covid prop ed visits,prop_ed,NA
 2026-10-17,11,District of Columbia,wk inc covid prop ed visits,prop_ed,0.0035
 2026-10-17,12,Florida,wk inc covid prop ed visits,prop_ed,0.0071
 2026-10-17,13,Georgia,wk inc covid prop ed visits,prop_ed,0.0051
@@ -26983,7 +26982,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-24,06,California,wk inc covid prop ed visits,prop_ed,0.0051
 2026-10-24,08,Colorado,wk inc covid prop ed visits,prop_ed,0.0034
 2026-10-24,09,Connecticut,wk inc covid prop ed visits,prop_ed,0.0043
-2026-10-24,10,Delaware,wk inc covid prop ed visits,prop_ed,NA
 2026-10-24,11,District of Columbia,wk inc covid prop ed visits,prop_ed,0.0042
 2026-10-24,12,Florida,wk inc covid prop ed visits,prop_ed,0.0066
 2026-10-24,13,Georgia,wk inc covid prop ed visits,prop_ed,0.0046
@@ -27035,7 +27033,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-10-31,06,California,wk inc covid prop ed visits,prop_ed,0.0046
 2026-10-31,08,Colorado,wk inc covid prop ed visits,prop_ed,0.0039
 2026-10-31,09,Connecticut,wk inc covid prop ed visits,prop_ed,0.0051
-2026-10-31,10,Delaware,wk inc covid prop ed visits,prop_ed,NA
 2026-10-31,11,District of Columbia,wk inc covid prop ed visits,prop_ed,0.0028
 2026-10-31,12,Florida,wk inc covid prop ed visits,prop_ed,0.0068
 2026-10-31,13,Georgia,wk inc covid prop ed visits,prop_ed,0.0052
@@ -27087,7 +27084,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-11-07,06,California,wk inc covid prop ed visits,prop_ed,0.0046
 2026-11-07,08,Colorado,wk inc covid prop ed visits,prop_ed,0.0045
 2026-11-07,09,Connecticut,wk inc covid prop ed visits,prop_ed,0.0064
-2026-11-07,10,Delaware,wk inc covid prop ed visits,prop_ed,NA
 2026-11-07,11,District of Columbia,wk inc covid prop ed visits,prop_ed,0.005
 2026-11-07,12,Florida,wk inc covid prop ed visits,prop_ed,0.0063
 2026-11-07,13,Georgia,wk inc covid prop ed visits,prop_ed,0.0059
@@ -27098,7 +27094,6 @@ week_ending_date,location,location_name,target,target_data_type,value
 2026-11-07,19,Iowa,wk inc covid prop ed visits,prop_ed,0.0023
 2026-11-07,20,Kansas,wk inc covid prop ed visits,prop_ed,0.0033
 2026-11-07,21,Kentucky,wk inc covid prop ed visits,prop_ed,0.008
-2026-11-07,22,Louisiana,wk inc covid prop ed visits,prop_ed,NA
 2026-11-07,23,Maine,wk inc covid prop ed visits,prop_ed,0.0043
 2026-11-07,24,Maryland,wk inc covid prop ed visits,prop_ed,0.0054
 2026-11-07,25,Massachusetts,wk inc covid prop ed visits,prop_ed,0.0055
